@@ -48,6 +48,4 @@ See also:
 PDF:
 ![[Sarla Verma vs DTC, (2009) 5 SCR 1098.pdf]]
 
-``` 
-http://law.vanlalvena.in/All-judgments/Sarla-Verma-vs-DTC,-(2009)-5-SCR-1098.pdf
-```
+<a href="http://law.vanlalvena.in/All-judgments/Sarla-Verma-vs-DTC,-(2009)-5-SCR-1098.pdf" target="_blank">Web Link of Judgment</a> 
