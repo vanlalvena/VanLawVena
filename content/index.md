@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Van Law Vena
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi, this is my law / precedent repository. 
+I hope it helps you, as much as a I think it will help me.
