@@ -7,12 +7,19 @@ tags:
 ---
  
 Case Name : ***Sarla Verma (Smt) and Others vs Delhi Transport Corporation and Another***
+
 Case Reference: (2009) 5 SCR 1098 :  (2009) 6 SCC 121
+
 Neutral Citation:
+
 Case Number: CA 3483/2008
+
 Court: Supreme Court
+
 Bench: 02
+
 Coram: RV Raveendran, LS Panta
+
 Date: 15.04.2009
 
 #incomplete 
@@ -40,3 +47,7 @@ See also:
 
 PDF:
 ![[Sarla Verma vs DTC, (2009) 5 SCR 1098.pdf]]
+
+``` 
+obsidian://open?vault=quartz&file=content%2FAll%20judgments%2FSarla%20Verma%20vs%20DTC%2C%20(2009)%205%20SCR%201098.pdf
+```

@@ -1,8 +1,7 @@
 ---
-title: Motor Vehicles Act - Section166
+title: Motor Vehicles Act - Section 166
 draft: false
 tags:
-  - example-tag
 ---
  
 ### Computation Table for MACT Claims
