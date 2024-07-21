@@ -49,5 +49,4 @@ PDF:
 ![[Sarla Verma vs DTC, (2009) 5 SCR 1098.pdf]]
 
 ``` 
-obsidian://open?vault=quartz&file=content%2FAll%20judgments%2FSarla%20Verma%20vs%20DTC%2C%20(2009)%205%20SCR%201098.pdf
-```
+http://localhost:8080/All-judgments/Sarla-Verma-vs-DTC,-(2009)-5-SCR-1098.pdf)```
