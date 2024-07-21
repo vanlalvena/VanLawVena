@@ -49,4 +49,5 @@ PDF:
 ![[Sarla Verma vs DTC, (2009) 5 SCR 1098.pdf]]
 
 ``` 
-http://localhost:8080/All-judgments/Sarla-Verma-vs-DTC,-(2009)-5-SCR-1098.pdf)```
+http://law.vanlalvena.in/All-judgments/Sarla-Verma-vs-DTC,-(2009)-5-SCR-1098.pdf
+```
