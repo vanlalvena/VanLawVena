@@ -15,8 +15,11 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer>
-        Created by {authorName}  © {year} with{" "} <a href={quartzUrl}>Quartz</a> © {year}
+        Created by <a href="https://vanlalvena.in"></a>{authorName}</a>  © {year} with{" "} <a href={quartzUrl}>Quartz</a> © {year}
       </footer>
+      
+//Sample - <footer class><p>Created by <a href="https://vanlalvena.in/">Benjamin Vanlalvena</a> with <a href="https://quartz.jzhao.xyz/">Quartz v4.2.3</a> © 2024</p></footer>
+
     )
   }
 
