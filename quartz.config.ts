@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Van Law Vena",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: 'plausible' },
     locale: "en-US",
     baseUrl: "law.vanalvena.in",
     ignorePatterns: ["private", "templates", ".obsidian"],
