@@ -11,11 +11,10 @@ const config: QuartzConfig = {
     pageTitle: "Van Law Vena",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: {null
+      },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "law.vanalvena.in",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
