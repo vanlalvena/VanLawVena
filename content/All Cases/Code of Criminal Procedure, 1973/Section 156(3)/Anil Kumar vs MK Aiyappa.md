@@ -1,8 +1,7 @@
 ---
 title: Anil Kumar & Ors vs MK Aiyappa & Anr
 draft: false
-tags:
-  - example-tag
+tags: []
 date: 2013-10-01
 aliases: 
 description:
@@ -38,7 +37,7 @@ Refer also:
 Judgment name
 
 See also:
-CrPC - [[Section 156(3)]]
+CrPC - [[CrPC - Section 156(3)]]
 
 PDF:
 ![[Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf]]

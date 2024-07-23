@@ -6,7 +6,6 @@ date:
 aliases: 
 description:
 ---
-
 ## Section 156(3)
  
 1. [[Priyanka Srivastava vs State of UP]]

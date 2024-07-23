@@ -6,7 +6,6 @@ date: 2015-03-19
 aliases: 
 description:
 ---
- 
 Case Name : ***Mrs Priyanka Srivastava and Another vs State of UP and Others***
 
 Case Reference: (2015) 4 SCR 108 :  
@@ -39,3 +38,5 @@ See also:
 
 PDF:
 ![[Priyanka Srivastava vs State of UP, (2015) 4 SCR 108.pdf]]
+
+Web Link: <a href="/All judgments/Priyanka Srivastava vs State of UP, (2015) 4 SCR 108.pdf" target="_blank">URL of judgment</a>
