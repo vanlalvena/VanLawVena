@@ -1,18 +1,23 @@
-# Quartz v4
+# VanLawVena
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+I am <a href="vanlalvena.in"> Benjamin Vanlalvena</a>.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+This is my repository of precedents.
+I hope this is as helpful to you, as it is to me.
+This is still a work in progress; having to copy from my old repository into this website takes time.
+It also depends on the time I have available, though I will make attempts to keep it updated since it would be helpful for me as well.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Using VanLawVena
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+I am using a GitHub repository for sending updates to the Website. However, I am using a free software called <a href="https://obsidian.md/">Obsidian</a> to view the contents (other than viewing it on the website at law.vanlalvena.in.
 
-## Sponsors
+## Giving feedback
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+I am open to feedback and suggestions generally on the website, what judgments should be added, the treatment of judgments (set-aside, upheld, varied, new law, etc.).
+
+I am also open to any other helpful suggestions you may have.
+
+Please do give feedback on language such as spelling and grammar.
+
+For any technical issues with the Website, please <a href="https://github.com/vanlalvena/VanLawVena/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=">raise a issue on Github</a>.
+For any other feedback, suggestions, requests, etc., please <a href="[https://github.com/vanlalvena/VanLawVena/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=](https://github.com/vanlalvena/VanLawVena/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=)">raise an issue for the same on Github</a>.
