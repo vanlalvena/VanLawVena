@@ -9,7 +9,7 @@ It also depends on the time I have available, though I will make attempts to kee
 
 ## Using VanLawVena
 
-I am using a GitHub repository for sending updates to the Website. However, I am using a free software called <a href="https://obsidian.md/">Obsidian</a> to view the contents (other than viewing it on the website at law.vanlalvena.in.
+I am using a GitHub repository for sending updates to the Website. However, I am using a free software called <a href="https://obsidian.md/">Obsidian</a> to view the contents (other than viewing it on the website at <https://law.vanlalvena.in>).
 
 ## Giving feedback
 
