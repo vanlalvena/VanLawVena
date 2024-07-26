@@ -11,6 +11,12 @@ It also depends on the time I have available, though I will make attempts to kee
 
 I am using a GitHub repository for sending updates to the Website. However, I am using a free software called <a href="https://obsidian.md/">Obsidian</a> to view the contents (other than viewing it on the website at <https://law.vanlalvena.in>).
 
+### Obsidian
+
+To view the files in <a href="https://obsidian.md/">Obsidian</a>, you can download the folder titled "content".
+Then, When you open Obsidian, in the section "Open folder as vault", Click "Open" and select the folder you have downloaded.
+You can add different plugins, themes, etc. to your liking.
+
 ## Giving feedback
 
 I am open to feedback and suggestions generally on the website, what judgments should be added, the treatment of judgments (set-aside, upheld, varied, new law, etc.).
