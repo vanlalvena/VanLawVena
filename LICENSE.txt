@@ -1,3 +1,17 @@
+Different parts of this repository are covered by different licenses.
+
+## VanLawVena
+
+Copyright (c) 2024 Benjamin Vanlalvena
+
+The law portions of this repository were written by Benjamin Vanlalvena. These include everything in the directory `content`, as well as the HTML pages generated from the original Markdown files in that directory.
+The judgments of the respective courts are taken from public domain and their use, reference, publication, etc. are covered by section 52(1)(q)(iv) of the Copyright Act, 1957.
+
+Contributions to this Website are made under attribution license (CC-BY 4.0).
+
+
+## Quartz
+
 MIT License
 
 Copyright (c) 2021 jackyzha0
