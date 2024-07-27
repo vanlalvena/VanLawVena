@@ -465,5 +465,3 @@ description:
 [[CrPC - Section 468]]
 
 [[CrPC - Section 482]]
-
-[[index|Homepage]]

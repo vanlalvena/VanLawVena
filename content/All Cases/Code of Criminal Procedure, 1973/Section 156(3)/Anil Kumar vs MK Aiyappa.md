@@ -43,5 +43,3 @@ PDF:
 ![[Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf]]
 
 Web Link: <a href="/All judgments/Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf" target="_blank">URL of judgment</a>
-
-[[index|Homepage]]

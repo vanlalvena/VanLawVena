@@ -9,5 +9,3 @@ description:
 ## Section 197
 
 1. [[A Sreenivasa Reddy vs Rakesh Sharma]]
-
-[[index|Homepage]]

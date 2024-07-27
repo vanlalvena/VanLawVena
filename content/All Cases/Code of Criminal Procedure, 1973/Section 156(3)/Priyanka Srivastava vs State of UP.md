@@ -40,5 +40,3 @@ PDF:
 ![[Priyanka Srivastava vs State of UP, (2015) 4 SCR 108.pdf]]
 
 Web Link: <a href="/All judgments/Priyanka Srivastava vs State of UP, (2015) 4 SCR 108.pdf" target="_blank">URL of judgment</a>
-
-[[index|Homepage]]

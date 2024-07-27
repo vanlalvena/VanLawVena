@@ -12,6 +12,3 @@ description:
 ### Limitation Act -- First Schedule
 
 [[Limitation Act - Article 54]]
-
-
-[[index|Homepage]]
