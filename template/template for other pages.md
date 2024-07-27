@@ -6,4 +6,3 @@ date:
 aliases: 
 description:
 ---
-[[index|Homepage]]

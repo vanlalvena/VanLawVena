@@ -34,5 +34,3 @@ Act, Section
 PDF:
 
 Web Link: <a href="/All judgments/to be filled.pdf" target="_blank">URL of judgment</a>
-
-[[index|Homepage]]
