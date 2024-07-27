@@ -1,5 +1,5 @@
 ---
-title: The Index
+title: All Laws
 draft: false
 tags: 
 date: 
