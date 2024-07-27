@@ -42,3 +42,5 @@ See also:
 PDF: ![[A Sreenivasa Reddy vs Rakesh Sharma, (2023) 12 SCR 932.pdf]]
 
 Web Link: <a href="/All judgments/A Sreenivasa Reddy vs Rakesh Sharma, (2023) 12 SCR 932.pdf" target="_blank">URL of judgment</a>
+
+[[index|Homepage]]

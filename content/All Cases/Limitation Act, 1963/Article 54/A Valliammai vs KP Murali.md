@@ -42,3 +42,5 @@ PDF:
 ![[A Valliammai vs KP Murali, 2023 INSC 823.pdf]]
 
 Web Link: <a href="/All judgments/A Valliammai vs KP Murali, 2023 INSC 823.pdf" target="_blank">URL of judgment</a>
+
+[[index|Homepage]]
