@@ -7,7 +7,6 @@ date: 2013-10-01
 aliases: 
 description:
 ---
- 
 Case Name : ***Anil Kumar & Ors vs MK Aiyappa & Anr***
 
 Case Reference: (2013) 9 SCR 869 :  
