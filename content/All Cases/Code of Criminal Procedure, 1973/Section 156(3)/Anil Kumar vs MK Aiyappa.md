@@ -1,5 +1,5 @@
 ---
-title: Anil Kumar & Ors vs MK Aiyappa & Anr
+title: Anil Kumar vs MK Aiyappa
 draft: false
 tags:
   - incomplete
@@ -30,7 +30,7 @@ The order must show the following:
 	3) *Mere statement that he has gone through the complaint, documents and heard complainant* - **WILL NOT BE SUFFICIENT**.
 	4) Detailed expression of view not required or warranted
 
-Application of mind - 156(3)/200 Cr.P.C. #incomplete 
+Application of mind - 156(3)/200 Cr.P.C.
 
 Refer also:
 [[]]
