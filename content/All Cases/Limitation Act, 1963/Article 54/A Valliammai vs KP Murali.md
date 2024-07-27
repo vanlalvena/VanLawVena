@@ -1,7 +1,8 @@
 ---
 title: A Valliammai vs KP Murali
 draft: false
-tags: 
+tags:
+  - incomplete
 date: 2023-09-12
 aliases: 
 description:
@@ -34,7 +35,7 @@ Refer also:
 
 
 See also:
-[[Limitation, Section 9]] 
+[[Limitation - Section 9]] 
 [[Contracts - Section 63]]
 
 PDF:

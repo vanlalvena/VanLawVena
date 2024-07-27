@@ -11,4 +11,4 @@ description:
 3. [[PoC 1988]]
 
 
-[[content/index|Homepage]]
+[[index|Homepage]]
