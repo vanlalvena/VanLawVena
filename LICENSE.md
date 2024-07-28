@@ -1,4 +1,4 @@
-Different parts of this repository are covered by different licenses.
+Different parts of this <a href="https://github.com/vanlalvena/VanLawVena">repository - VanLawVena</a> are covered by different licenses.
 
 ## VanLawVena
 
