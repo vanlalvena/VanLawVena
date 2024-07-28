@@ -10,6 +10,13 @@ description:
 
 [[A&C Act, 1996 - Section 2]]
 
+[[A&C Act, 1996 - Section 2(1)(e)]]
+
+[[A&C Act, 1996 - Section 2(1)(h)]]
+
+[[A&C Act, 1996 - Section 2(2)]]
+
+
 [[A&C Act, 1996 - Section 5]]
 
 [[A&C Act, 1996 - Section 7]]
