@@ -5,7 +5,7 @@ tags:
   - incomplete
 date: 2015-03-19
 aliases: 
-description:
+Court: Supreme Court
 ---
 Case Name : ***Mrs Priyanka Srivastava and Another vs State of UP and Others***
 
