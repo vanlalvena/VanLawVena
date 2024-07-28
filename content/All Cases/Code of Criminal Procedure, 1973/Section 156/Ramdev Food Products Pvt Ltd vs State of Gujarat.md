@@ -30,7 +30,7 @@ Refer also:
 [[Adalat Prasad vs Rupal Jindal]], (2004) 7 SCC 338
 	Accused has no right to be heard at the stage of inquiry
 
-[[Anil Kumar vs MK Aiyappa]], (2013) 10 SCC 705
+[[content/All Cases/Code of Criminal Procedure, 1973/Section 156/Anil Kumar vs MK Aiyappa]], (2013) 10 SCC 705
 	(**Para 11**) - The Magistrate cannot refer the matter against a public servant without a valid sanction order; the Magistrate is required to apply his mind on applications under [[CrPC - Section 156]](3) or [[CrPC - Section 200]]. *Mere statement that the Magistrate has gone through the complaint, documents and heard the complainant* **will not be sufficient**.
 		The order must reflect what weighs with the Magistrate to order investigation under [[CrPC - Section 156]](3); though a ***detailed expression of his views is neither required nor warranted***
 

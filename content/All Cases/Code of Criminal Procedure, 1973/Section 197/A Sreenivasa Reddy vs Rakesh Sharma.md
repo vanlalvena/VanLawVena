@@ -1,11 +1,23 @@
 ---
 title: A Sreenivasa Reddy vs Rakesh Sharma
+Cause Title: A Sreenivasa Reddy vs Rakesh Sharma and Anr
+Court: Supreme Court
+Case Number: Crl A 2339/2023
+Case Reference:
+  - (2023) 12 SCR 932
+Neutral Citation:
+  - 2023 INSC 682
+Bench Strength: 2
+Author (Majority): JB Pardiwala
+Coram:
+  - JB Pardiwala
+  - BR Gavai
+Author (Concurring): 
+Author (Minority): 
+date: 2023-08-08
 draft: false
 tags:
   - incomplete
-date: 2023-08-08
-aliases: 
-description:
 ---
 Case Name : ***A Sreenivasa Reddy vs Rakesh Sharma and Anr***
 

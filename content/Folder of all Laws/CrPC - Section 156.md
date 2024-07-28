@@ -5,4 +5,4 @@
 
 ## Section 156(3)
 1. [[Priyanka Srivastava vs State of UP]]
-2. [[Anil Kumar vs MK Aiyappa]]
+2. [[content/All Cases/Code of Criminal Procedure, 1973/Section 156(3)/Anil Kumar vs MK Aiyappa]]

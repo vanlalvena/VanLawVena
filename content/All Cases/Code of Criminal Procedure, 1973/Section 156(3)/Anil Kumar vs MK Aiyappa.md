@@ -1,17 +1,30 @@
 ---
 title: Anil Kumar vs MK Aiyappa
-draft: false
+Cause Title: Anil Kumar & Ors vs MK Aiyappa & Anr
+Court: Supreme Court
+Case Number: Crl A 1590-1591/2013
+Case Reference:
+  - (2013) 9 SCR 869
+Neutral Citation:
+  - 2013 INSC 666
+Bench Strength: 2
+Author (Majority):
+  - KS Radhakrishnan
+Coram:
+  - KS Radhakrishnan
+  - AK Sikri
+Author (Concurring): 
+Author (Minority): 
+date: 2013-10-01
 tags:
   - incomplete
-date: 2013-10-01
-aliases: 
-description:
+draft: false
 ---
 Case Name : ***Anil Kumar & Ors vs MK Aiyappa & Anr***
 
 Case Reference: (2013) 9 SCR 869 :  
 
-Neutral Citation:
+Neutral Citation: 2013 INSC 666
 
 Case Number: Crl A 1590/2013
 

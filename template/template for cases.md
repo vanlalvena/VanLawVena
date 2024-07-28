@@ -1,36 +1,27 @@
 ---
-title: Template for cases
-draft: false
-tags: 
-date: 
-aliases: 
-description:
----
-Case Name : ***Name***
-
-Case Reference: (0000) 0 SCR 00 :  
-
-Neutral Citation:
-
+title: 
+Cause Title: 
+Court: 
 Case Number: 
-
-Court: __ Court
-
-Bench: 
-
-Coram:
-
-Date: 00.00.0000
-
-–
+Case Reference: 
+Neutral Citation: 
+Bench Strength: 
+Author (Majority): 
+Coram: 
+Author (Concurring): 
+Author (Minority): 
+date: ""
+draft: false
+tags:
+---
 Refer also:
 [[]]
-Judgment name
+
 
 See also:
 [[]] 
-Act, Section
 
 PDF:
+![[.pdf]]
 
-Web Link: <a href="/All judgments/to be filled.pdf" target="_blank">URL of judgment</a>
+Web Link: <a href="/All judgments/title.pdf" target="_blank">URL of judgment</a>

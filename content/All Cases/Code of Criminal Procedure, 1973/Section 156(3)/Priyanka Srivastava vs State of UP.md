@@ -1,11 +1,20 @@
 ---
 title: Priyanka Srivastava vs State of UP
+Cause Title: Mrs Priyanka Srivastava and Another vs State of UP and Others
+Court: Supreme Court
+Case Number: Crl A 781/2012
+Case Reference: (2015) 4 SCR 108
+Neutral Citation: 
+Bench Strength: 02
+Author (Majority): Dipak Misra
+Coram:  Dipak Misra, Prafulla C Pant
+Author (Concurring): 
+Author (Minority): 
+date: 2015-03-19
 draft: false
 tags:
   - incomplete
-date: 2015-03-19
-aliases: 
-Court: Supreme Court
+
 ---
 Case Name : ***Mrs Priyanka Srivastava and Another vs State of UP and Others***
 
@@ -31,7 +40,7 @@ Application under 156(3) must be filed with affidavit (**Para 27**)
 
 Refer also:
 [[CREF Finance Ltd vs Shree Shanthi Homes (P) Ltd]], (2005) 7 SCC 467
-[[backup files/Anil Kumar vs MK Aiyappa]], (2013) 10 SCC 705
+[[content/All Cases/Code of Criminal Procedure, 1973/Section 156(3)/Anil Kumar vs MK Aiyappa]], (2013) 10 SCC 705
 [[Lalita Kumari vs Govt of UP]]
 
 See also:
