@@ -7,7 +7,7 @@ I hope this is as helpful to you, as it is to me.
 This is still a work in progress; having to copy from my old repository and then format the notes so it can be viewed properly on the <a href="https://law.vanlalvena.in">Website</a> takes time.
 It also depends on the time I have available, though I will make attempts to keep it updated since it would be helpful for me as well.
 
-## Using VanLawVena
+## Making and Using VanLawVena
 
 I am using a free software called <a href="https://obsidian.md/">Obsidian</a> to view, add and make edits to the contents of the website (other than viewing it on the <a href="https://law.vanlalvena.in">Website</a>).
 I am using free tool/plugin called <a href="https://quartz.jzhao.xyz/">Quartz</a> to deliver the contents of the <a href="https://obsidian.md/">Obsidian</a> Vault to the <a href="https://law.vanlalvena.in">Website</a> website).
