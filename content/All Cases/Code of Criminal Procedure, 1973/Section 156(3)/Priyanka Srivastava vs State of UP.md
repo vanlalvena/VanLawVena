@@ -1,7 +1,8 @@
 ---
 title: Priyanka Srivastava vs State of UP
 draft: false
-tags: 
+tags:
+  - incomplete
 date: 2015-03-19
 aliases: 
 description:
@@ -27,7 +28,6 @@ Order under 156(3) requires application of judicial mind.
 Application under 156(3) must be filed with affidavit (**Para 27**)
 
 
-#incomplete 
 
 Refer also:
 [[CREF Finance Ltd vs Shree Shanthi Homes (P) Ltd]], (2005) 7 SCC 467

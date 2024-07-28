@@ -1,5 +1,5 @@
 ---
-title: All Cases
+title: All Courts
 draft: false
 tags: 
 date: 
