@@ -440,7 +440,7 @@ description:
 
 [[CrPC - Section 427(1)]]
 
-[[CrPC - Section 427(2)]]
+[[CrPC - Section 427]]
 
 [[CrPC - Section 432]]
 

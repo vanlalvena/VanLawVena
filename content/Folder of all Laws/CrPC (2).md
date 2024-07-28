@@ -213,7 +213,7 @@
 [[CrPC - Section 406]]
 [[CrPC - Section 427]]
 [[CrPC - Section 427(1)]]
-[[CrPC - Section 427(2)]]
+[[CrPC - Section 427]]
 [[CrPC - Section 432]]
 [[CrPC - Section 433A]]
 [[CrPC, Section 436]]

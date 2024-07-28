@@ -13,7 +13,7 @@ There is a difference between obscenity and pornography. (**Page 70, B-C**)
 
 The prosecution *need not* prove that the person who sells or keeps for sale any object *knows* that it is obscene. (**Page 71, C-D**)
 
-There is *strict liability* in [[IPC, Section 292]]; absence of knowledge may be taken in mitigation, but does not take the case out of [[IPC, Section 292]] (**Page 71, F-G**) ; (**Page 72, C**)
+There is *strict liability* in [[IPC - Section 292]]; absence of knowledge may be taken in mitigation, but does not take the case out of [[IPC - Section 292]] (**Page 71, F-G**) ; (**Page 72, C**)
 
 When the accused claims lack of knowledge, the court can presume that the accused is guilty in two conditions: (**Page 72, B-C**)
 	1) If the book is sold on his behalf;

@@ -93,7 +93,7 @@
 [[IPC - Section 209]]
 [[IPC, Section 268]]
 [[IPC - Section 279]]
-[[IPC, Section 292]]
+[[IPC - Section 292]]
 [[IPC, Section 293]]
 [[IPC, Section 294]]
 [[IPC, Section 295]]
