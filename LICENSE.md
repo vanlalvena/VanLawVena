@@ -4,7 +4,7 @@ Different parts of this repository are covered by different licenses.
 
 Copyright (c) <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">(CC-BY 4.0)</a>  2024 <a href="https://vanlalvena.in"> Benjamin Vanlalvena</a>.
 
-The law portions of this repository were written by <a href="https://vanlalvena.in"> Benjamin Vanlalvena</a>. These include everything in the directory 'content', as well as the HTML pages generated from the original Markdown files in that directory.
+The law portions of this repository were and are written by <a href="https://vanlalvena.in"> Benjamin Vanlalvena</a>. These include everything in the directory 'content', as well as the HTML pages generated from the original Markdown files in that directory.
 The judgments of the respective courts are taken from public domain and their use, reference, publication, etc. are covered by section 52(1)(q)(iv) of the Copyright Act, 1957.
 
 Permission/License/Use of this <a href="https://vanlalvena.in"> Benjamin Vanlalvena</a> and Contributions to this <a href="https://vanlalvena.in"> Benjamin Vanlalvena</a> are made under and governed by attribution license <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">(CC-BY 4.0)</a>.
