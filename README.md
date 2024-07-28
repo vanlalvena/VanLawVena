@@ -3,8 +3,11 @@
 I am <a href="https://vanlalvena.in"> Benjamin Vanlalvena</a>.
 
 This is my repository of judicial precedents.
+
 I hope this is as helpful to you, as it is to me.
+
 This is still a work in progress; having to copy from my old repository and then format the notes so it can be viewed properly on the <a href="https://law.vanlalvena.in">Website</a> takes time.
+
 It also depends on the time I have available, though I will make attempts to keep it updated since it would be helpful for me as well.
 
 ## Making and Using VanLawVena
@@ -19,8 +22,11 @@ Access to the <a href="https://law.vanlalvena.in">Website</a> will always be FRE
 ### Obsidian
 
 To view the files in <a href="https://obsidian.md/">Obsidian</a> so that you can keep the files OFFLINE ON YOUR DEVICE, you can download the folder titled "content".
+
 Then, When you open Obsidian, in the section "Open folder as vault", Click "Open" and select the folder you have downloaded.
+
 You can add different plugins, themes, etc. to your liking.
+
 As of the time writing this, <a href="https://obsidian.md/">Obsidian</a> is free and available on Windows, Mac, Linux, Android, iOS/iPadOS.
 
 ## Giving feedback
