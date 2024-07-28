@@ -37,5 +37,5 @@ I am also open to any other helpful suggestions you may have.
 
 Please do give feedback on language such as spelling and grammar.
 
-For any technical issues with the Website, please <a href="https://github.com/vanlalvena/VanLawVena/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=">raise na issue for the same on Github</a>.
+For any technical issues with the Website, please <a href="https://github.com/vanlalvena/VanLawVena/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=">raise an issue for the same on Github</a>.
 For any other feedback, suggestions, requests, etc., please <a href="[https://github.com/vanlalvena/VanLawVena/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=](https://github.com/vanlalvena/VanLawVena/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=)">raise an issue for the same on Github</a>.
