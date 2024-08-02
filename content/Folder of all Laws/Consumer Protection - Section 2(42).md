@@ -1,1 +1,0 @@
-1. [[Vodafone Idea Cellular Ltd vs Ajay Kumar Agarwal]]

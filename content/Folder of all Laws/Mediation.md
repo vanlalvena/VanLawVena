@@ -1,1 +1,0 @@
-[[Chhatter Pal vs State]]
