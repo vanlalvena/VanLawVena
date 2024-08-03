@@ -1,1 +1,0 @@
-[[Dharam Singh vs State of Uttar Pradesh]]

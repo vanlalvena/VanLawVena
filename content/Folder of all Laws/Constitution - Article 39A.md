@@ -1,1 +1,0 @@
-1. [[Anokhilal vs State of Madhya Pradesh]]
