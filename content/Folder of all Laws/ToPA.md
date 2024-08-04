@@ -20,7 +20,7 @@
 [[ToPA, Section 35]]
 [[ToPA, Section 38]]
 [[ToPA - Section 41]]
-[[ToPA, Section 52]]
+[[ToPA - Section 52]]
 [[ToPA, Section 53]]
 [[ToPA - Section 53A]]
 [[ToPA - Section 54]]
