@@ -35,13 +35,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Dispute Resolution
 
-If a dispute arises out of or relates to this <a href="https://law.vanlalvena.in">Website</a> and <a href="https://github.com/vanlalvena/VanLawVena">GitHub repository</a>, parties will attempt to settle the disputes through negotiation.
+If a dispute arises out of or relates to this <a href="https://law.vanlalvena.in">Website</a> and <a href="https://github.com/vanlalvena/VanLawVena">GitHub repository</a>, parties must, in good faith, attempt to settle the disputes through negotiation.
 
-If the dispute cannot be settled through negotiation, the parties agree first to try in good faith to settle the dispute by mediation.
-
-Parties must attempt to first resolve dipsutes through negotiation in good faith, and then by mediation in good faith. 
+If the dispute cannot be settled through negotiation, the parties shall then try, in good faith, to settle the dispute by mediation.
 
 All disputes arising out of or relating to this <a href="https://law.vanlalvena.in">Website</a> and <a href="https://github.com/vanlalvena/VanLawVena">GitHub repository</a> shall be governed by and construed in accordance with the laws of India and shall be within the jurisdiction of courts at Delhi.
 
-Any communication as to disputes arising out of or relating to <a href="https://law.vanlalvena.in">Website</a> and <a href="https://github.com/vanlalvena/VanLawVena">GitHub repository</a> should be sent by e-mail to the following address: dispute(at]law(dot]vanlalvena(dot]in
+Any communication as to disputes arising out of or relating to <a href="https://law.vanlalvena.in">Website</a> and <a href="https://github.com/vanlalvena/VanLawVena">GitHub repository</a> should be sent by e-mail to the following e-amil address: dispute(at]law(dot]vanlalvena(dot]in
+
 Additionally, the party raising/having the dispute must <a href="https://github.com/vanlalvena/VanLawVena/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=">raise an issue for and regarding the same on Github</a>.
