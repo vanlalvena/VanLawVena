@@ -1,1 +1,0 @@
-1. [[Promoshirt SM SA vs Armassuisse]]
