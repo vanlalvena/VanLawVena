@@ -1,1 +1,0 @@
-1. [[Anoop Baranwal vs UoI (Election Commission Appointments)]]
