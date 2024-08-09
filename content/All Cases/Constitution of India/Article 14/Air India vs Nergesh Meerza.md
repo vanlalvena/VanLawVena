@@ -9,14 +9,15 @@ Case Reference:
 Neutral Citation:
   - 1981 INSC 152
 Bench Strength: 3
-Author (Majority): S Murtaza Fazal Ali
+Author (Majority):
+  - S Murtaza Fazal Ali
 Coram:
   - S Murtaza Fazal Ali
   - A Varadarajan
   - Amarendra Nath Sen
 Author (Concurring): 
 Author (Minority): 
-date: 26-08-1981
+date: 1981-08-26
 draft: false
 tags:
 ---

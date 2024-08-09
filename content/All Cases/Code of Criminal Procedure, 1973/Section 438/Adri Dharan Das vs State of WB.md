@@ -6,14 +6,16 @@ Case Number: Crl A 326/2005
 Case Reference:
   - (2005) 2 SCR 189
   - (2005) 4 SCC 303
-Neutral Citation: 2005 INSC 87
+Neutral Citation:
+  - 2005 INSC 87
 Bench Strength: 2
-Author (Majority): Arijit Pasayat
+Author (Majority):
+  - Arijit Pasayat
 Coram:
   - Arijit Pasayat, SH Kapadia
 Author (Concurring): 
 Author (Minority): 
-date: 21-02-2005
+date: 2005-02-21
 draft: false
 tags:
   - incomplete
