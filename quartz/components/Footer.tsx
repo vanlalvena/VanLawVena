@@ -12,18 +12,9 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+      <footer>
+        <a href="https://law.vanlalvena.in">VanLawVena</a> is created by <a href="https://vanlalvena.in">Benjamin Vanlalvena</a>© {year} and is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"> CC BY 4.0</a>. Created with <a href="https://quartz.jzhao.xyz/">Quartz</a> v{version}.
+        <a href="https://github.com/vanlalvena/VanLawVena/">GitHub Repository of VanLawVena</a>.
       </footer>
     )
   }
