@@ -40,7 +40,7 @@ Courts should defer to the view taken by the Arbitral Tribunal *even if the reas
 –
 Refer also:
 [[Raipur Development Authority vs Chokhamal Contractors]], AIR 1990 SC 1426
-	Requirement of reasons under [[Arbitration Act, 1940]] only if so required
+	Requirement of reasons under [[Arbitration, 1940]] only if so required
 	[[S Harharan Singh vs Union of India]], (1990) 4 SCC 647
 [[Som Datt Builders Ltd vs State of Kerala]], (2009) 4 ARB LR 13 SC
 

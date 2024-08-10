@@ -1,10 +1,37 @@
-Case Name : ***Arjun Singh vs Mohindra Kumar***
-Case Reference: (1964) 5 SCR 946 :  
-Neutral Citation:
-Case Number: CA 768/1963
+---
+title: Arjun Singh vs Mohindra Kumar
+Cause Title: Arjun Singh vs Mohindra Kumar & Ors
 Court: Supreme Court
+Case Number: CA 768/19663
+Case Reference:
+  - (1964) 5 SCR 946
+Neutral Citation:
+  - 1963 INSC 256
+Bench Strength: 3
+Author (Majority):
+  - N Rajagopala Ayyangar
+Coram:
+  - BP Sinha, AK Sarkar, N Rajagopala Ayyangar
+Author (Concurring): 
+Author (Minority): 
+date: 1963-12-13
+draft: false
+tags:
+---
+Case Name : ***Arjun Singh vs Mohindra Kumar***
+
+Case Reference: (1964) 5 SCR 946 :  
+
+Neutral Citation: 1963 INSC 256
+
+Case Number: CA 768/1963
+
+Court: Supreme Court
+
 Bench: 03
+
 Coram: BP Sinha CJ, AK Sarkar, N Rajagopala Ayyangar
+
 Date: 13.12.1963
 
 Distinction between *good cause* under [[CPC - Order IX rule 3]] and *sufficient cause* under [[CPC - Order IX rule 13]]
@@ -21,12 +48,18 @@ Inherent power under [[CPC - Section 151]] cannot override express of implied pr
 
 –
 Refer also:
-[[]]
-Judgment name
+
 
 See also:
-[[]] 
-Act, Section
+[[CPC - Order IX rule 6]]
+
+[[CPC - Order IX rule 13]]
+
+[[CPC - Section 151]]
+
+
 
 PDF:
 ![[Arjun Singh vs Mohindra Kumar, (1964) 5 SCR 946.pdf]]
+
+Web Link: <a href="/All judgments/Arjun Singh vs Mohindra Kumar, (1964) 5 SCR 946.pdf" target="_blank">URL of judgment</a>
