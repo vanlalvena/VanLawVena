@@ -3,9 +3,19 @@ title: A Venkatasubbiah Naidu vs S Chellappan
 draft: false
 tags:
   - incomplete
-date: 2000-09-19
+date: ""
 aliases: 
-description:
+description: 
+Cause Title: 
+Court: Supreme Court
+Case Number: 
+Case Reference: 
+Neutral Citation: 
+Bench Strength: 
+Author (Majority): 
+Coram: 
+Author (Concurring): 
+Author (Minority):
 ---
 Case Name : ***A Venkatasubbiah Naidu vs S Chellappan and Others***
 
