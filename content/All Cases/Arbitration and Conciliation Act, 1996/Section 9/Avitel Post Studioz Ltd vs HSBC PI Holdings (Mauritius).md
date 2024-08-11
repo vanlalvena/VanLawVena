@@ -1,6 +1,6 @@
 ---
 title: Avitel Post Studioz Ltd vs HSBC PI Holdings (Mauritius)
-Cause Title: Avitel Post Studioz Ltd vs HSBC PI Holdings (Mauritius) Limited
+Cause Title: Avitel Post Studioz Limited & Ors. vs HSBC PI Holdings (Mauritius) Limited
 Court: Supreme Court
 Case Number: CA 5146/2016
 Case Reference:
@@ -18,20 +18,26 @@ Author (Minority):
 date: 2020-08-09
 draft: false
 tags:
+  - incomplete
+  - unclear
 ---
-Case Name : ***Avitel Post Studioz Limitd & Ors vs HSBC PI Holdings (Mauritius) Limited***
+Case Name : ***Avitel Post Studioz Limited & Ors vs HSBC PI Holdings (Mauritius) Limited***
+
 Case Reference: (2020) 10 SCR 791 :  
-Neutral Citation:
+
+Neutral Citation: 2020 INSC 498
+
 Case Number: CA 5145/2016
+
 Court: Supreme Court
+
 Bench: 02
+
 Coram: RF Nariman, Navin Sinha
+
 Date: 19.08.2020
 
 Case of Final Foreign Award in an Emergency Arbitration; when there is a strong prima facie case, and balance of convenience in its favour, interference is impermissible
-
-#incomplete 
-#unclearw
 
 ## Position of Law in 1940 Act on Fraud
 
