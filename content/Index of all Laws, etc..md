@@ -1,6 +1,6 @@
 ---
 title: All Laws
-draft: false
+draft: true
 tags: 
 date: 
 aliases: 

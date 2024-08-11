@@ -1,13 +1,14 @@
 ---
 title: All Cases
-draft: false
+draft: true
 tags: 
 date: 
 aliases: 
 description:
 ---
-[[A Valliammai vs KP Murali]]
-[[Priyanka Srivastava vs State of UP]]
-
+```dataview
+TABLE Court AS "Court"
+from "All Cases"
+```
 
 [[index|Homepage]]
