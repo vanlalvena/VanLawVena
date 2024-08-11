@@ -10,7 +10,7 @@ description:
 ```dataview
 TABLE Court AS "Court"
 from "All Cases"
-SORT file.name ASC
+SORT Court Desc, file.name ASC
 ```
 
 # Query 2 - Cases by Courts (SC)
