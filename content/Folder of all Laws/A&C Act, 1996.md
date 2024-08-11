@@ -1,7 +1,8 @@
 ---
-title: 
+title: Arbitration and Conciliation Act, 1996
 draft: false
-tags: 
+tags:
+  - Act
 date: 
 aliases: 
 description:

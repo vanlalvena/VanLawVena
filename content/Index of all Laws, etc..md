@@ -6,9 +6,9 @@ date:
 aliases: 
 description:
 ---
-1. [[CrPC]]
-2. [[Limitation]]
-3. [[PoC 1988]]
-
+```dataview
+LIST
+from #Act
+```
 
 [[index|Homepage]]

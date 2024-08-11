@@ -1,15 +1,23 @@
 ---
-title: All Courts
+title: Index of all Cases by Courts
 draft: false
 tags: 
 date: 
 aliases: 
 description:
 ---
-## Supreme Court of India
-[[A Valliammai vs KP Murali]]
+# Supreme Court
+```dataview
+TABLE Court AS "Court"
+from "All Cases"
+WHERE Court="Supreme Court"
+```
 
-[[Priyanka Srivastava vs State of UP]]
-
+# High Court
+```dataview
+TABLE Court AS "Court"
+from "All Cases"
+WHERE Court!="Supreme Court"
+```
 
 [[index|Homepage]]

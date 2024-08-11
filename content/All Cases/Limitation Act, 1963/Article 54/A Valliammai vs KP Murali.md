@@ -3,10 +3,13 @@ title: A Valliammai vs KP Murali
 Cause Title: A Valliammai vs KP Murali and Others
 Court: Supreme Court
 Case Number: Civil Appeal No. 5342/2023
-Case Reference: (2023) 12 SCR 183
-Neutral Citation: 2023 INSC 832
-Bench Strength: "02"
-Author (Majority): Sanjiv Khanna
+Case Reference:
+  - (2023) 12 SCR 183
+Neutral Citation:
+  - 2023 INSC 832
+Bench Strength: 2
+Author (Majority):
+  - Sanjiv Khanna
 Coram:
   - Sanjiv Khanna
   - Bela M Trivedi

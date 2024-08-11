@@ -1,6 +1,6 @@
 ---
 title: Template for other pages
-draft: false
+draft: true
 tags: 
 date: 
 aliases: 

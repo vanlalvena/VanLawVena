@@ -3,9 +3,19 @@ title: Abhishek vs State (NCT of Delhi)
 draft: false
 tags:
   - incomplete
-date: 2021-10-18
+date: ""
 aliases: 
-description:
+description: 
+Cause Title: 
+Court: High Court of Delhi
+Case Number: 
+Case Reference: 
+Neutral Citation: 
+Bench Strength: 
+Author (Majority): 
+Coram: 
+Author (Concurring): 
+Author (Minority):
 ---
 Case Name : ***Abhishek vs State (NCT of Delhi)***
 
