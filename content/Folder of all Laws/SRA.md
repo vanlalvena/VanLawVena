@@ -1,3 +1,14 @@
+---
+title: Specific Relief Act, 1963
+draft: false
+tags:
+  - Act
+date: 
+aliases:
+  - SRA
+description:
+---
+
 ## Specific Relief Act, 1963
 
 [[SRA, Section 1]]

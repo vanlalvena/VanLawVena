@@ -1,3 +1,14 @@
+---
+title: Transfer of Property Act, 1881
+draft: false
+tags:
+  - Act
+date: 
+aliases:
+  - ToPA
+description:
+---
+
 # Transfer of Property Act, 1881
 
 [[ToPA - Section 3]]

@@ -8,15 +8,15 @@ description:
 ---
 # Query 1 - All Cases
 ```dataview
-TABLE Court AS "Court"
-from "All Cases"
+TABLE Court, neutral-citation as "Neutral Citation", case-reference as "Other Citation", bench-strength AS "Bench Strength", date, file.folder as "Folder"
+FROM "All Cases"
 SORT Court Desc, file.name ASC
 ```
 
 # Query 2 - Cases by Courts (SC)
 
 ```dataview
-TABLE Court AS "Court"
+TABLE Court, neutral-citation as "Neutral Citation", case-reference as "Other Citation", bench-strength AS "Bench Strength", date, file.folder as "Folder"
 from "All Cases"
 WHERE Court="Supreme Court"
 SORT file.name ASC
@@ -25,7 +25,8 @@ SORT file.name ASC
 # Query 3 - HC
 
 ```dataview
-TABLE Court AS "Court" from "All Cases"
+TABLE Court, neutral-citation as "Neutral Citation", case-reference as "Other Citation", bench-strength AS "Bench Strength", date, file.folder as "Folder"
+FROM "All Cases"
 WHERE Court!="Supreme Court"
 SORT Court ASC
 SORT file.name ASC
@@ -34,7 +35,8 @@ SORT file.name ASC
 # Query 4 - All Laws
 
 ```dataview
-LIST
+TABLE
 from #Act
 SORT file.name ASC
 ```
+

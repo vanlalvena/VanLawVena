@@ -12,7 +12,8 @@ Bench Strength: 2
 Author (Majority):
   - Arijit Pasayat
 Coram:
-  - Arijit Pasayat, SH Kapadia
+  - Arijit Pasayat
+  - SH Kapadia
 Author (Concurring): 
 Author (Minority): 
 date: 2005-02-21

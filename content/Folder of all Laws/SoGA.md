@@ -1,3 +1,15 @@
+---
+title: Sale of Goods Act, 1930
+draft: false
+tags:
+  - Act
+date: 
+aliases:
+  - SoGA
+description:
+---
+# Sale of Goods Act, 1930
+
 [[SoGA, Section 1]]
 [[SoGA, Section 2]]
 [[SoGA, Section 4]]
