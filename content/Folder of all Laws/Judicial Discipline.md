@@ -7,7 +7,7 @@
 
 ### On writing judgments
 
-
+1. [[BS Hari vs UOI]]
 ### Judicial Discretion
 
 ### Obiter Dicta

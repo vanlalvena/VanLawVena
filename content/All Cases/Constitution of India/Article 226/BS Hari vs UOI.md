@@ -1,10 +1,39 @@
-Case Name : ***B.S. Hari Commandant vs Union of India and Others***
-Case Reference: (2023) 3 SCR 431 :  2023 SCC OnLine SC 413
-Neutral Citation:
-Case Number: Crl A 1890/2014
+---
+title: BS Hari vs UOI
+Cause Title: B.S. Hari Commandant vs Union of India and Others
 Court: Supreme Court
+Case Number: Crl A 1890/2014
+Case Reference:
+  - (2023) 3 SCR 431
+  - 2023 SCC OnLine SC 413
+Neutral Citation:
+  - 2023 INSC 369
+Bench Strength: 2
+Author (Majority):
+  - Ahsanuddin Amanullah
+Coram:
+  - Krishna Murari
+  - Ahsanuddin Amanullah
+Author (Concurring): 
+Author (Minority): 
+date: 2023-04-13
+draft: false
+tags: []
+---
+Case Name : ***B.S. Hari Commandant vs Union of India and Others***
+
+Case Reference: (2023) 3 SCR 431 :  2023 SCC OnLine SC 413
+
+Neutral Citation: 2023 INSC 369
+
+Case Number: Crl A 1890/2014
+
+Court: Supreme Court
+
 Bench: 02
+
 Coram: Krishna Murari, Ahsanuddin Amanullah (*Author*)
+
 Date: 13.04.2023
 
 ### Scope of powers under Article 226
@@ -28,18 +57,29 @@ Judgments have para numbers (**Paras 54-56**)
 	Judgments should be coherent, systematic and logically organised
 
 Refer also:
-[[Shakuntala Shukla vs State of UP]], 2021 SCC OnLien SC 672
+[[Shakuntala Shukla vs State of UP]], 2021 SCC OnLine SC 672
+
 [[SBI vs Ajay Kumar Sood]], 2022 SCC OnLine SC 1067
+
 [[Nawab Shaqafath Ali Khan vs Nawab Indad Jah Bahadur]], (2009) 5 SCC 162
+
 [[Surya Dev Rai vs Ram Chander Rai]], (2003) 6 SCC 675
+
 [[Radhey Shyam vs Chhabi Nath]], (2015) 5 SCC 423
+
 [[A V Venkateswaran vs Ramchand Sobhraj Wadhwani]], (1962) 1 SCR 573
+
 [[UP State Sugar Corpn Ltd vs Kamal Swaroop Tandon]], (2008) 2 SCC 41
+
 [[EP Royappa vs State of Tamil Nadu]], AIR 1974 SC 555
 
 See also:
+
 [[Judicial Discipline#On writing judgments]] 
+
 [[Constitution - Article 227]]
 
 PDF:
 ![[BS Hari vs UOI, (2023) 3 SCR 431.pdf]]
+
+Web Link: <a href="/All judgments/BS Hari vs UOI, (2023) 3 SCR 431.pdf" target="_blank">URL of judgment</a>
