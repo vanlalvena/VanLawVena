@@ -17,3 +17,4 @@
 [[NI Act - Section 139]]
 [[NI Act - Section 141]]
 [[NI Act - Section 142]]
+[[NI Act - Section 143]]

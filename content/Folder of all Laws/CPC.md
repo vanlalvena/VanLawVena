@@ -16,6 +16,8 @@ description:
 
 [[CPC - Section 2(12)]]
 
+[[CPC - Section 2(14)]]
+
 [[CPC - Section 6]]
 
 [[CPC - Section 9]]
@@ -386,6 +388,8 @@ description:
 
 #### Order XLII
 [[CPC - Order XLIII rule 1]]
+
+[[CPC - Order XLIII rule 2]]
 
 #### Order XLIII
 

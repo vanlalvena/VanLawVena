@@ -22,3 +22,5 @@
 ## CFA, Schedule
 [[CFA - Schedule II]]
 
+[[CFA - Schedule II, Article 11]]
+

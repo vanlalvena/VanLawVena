@@ -72,4 +72,12 @@ description:
 
 [[A&C Act, 1996 - Section 43]]
 
+[[A&C Act, 1996 - Section 44]]
+
+[[A&C Act, 1996 - Section 46]] 
+
+[[A&C Act, 1996 - Section 47]] 
+
 [[A&C Act, 1996 - Section 48]]
+
+[[A&C Act, 1996 - Section 49]] 
