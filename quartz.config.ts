@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "law.vanlalvena.in",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", "All judgments\Report"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
