@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Bench Strength": "number",
+    "Author (Concurring)": "multitext",
+    "Author (Minority)": "multitext",
+    "Case Number": "multitext"
+  }
+}

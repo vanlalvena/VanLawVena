@@ -4,8 +4,9 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
+content/judgments/report/
+content/judgments/report
