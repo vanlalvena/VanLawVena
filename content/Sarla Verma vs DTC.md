@@ -29,11 +29,11 @@ Issues to be determined by Tribunal (**Para 18**)
 Three steps to determine compensation (**Para 19**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[MV Act - Section 168]] 
 
 PDF:
-![[Sarla Verma vs DTC, (2009) 6 SCC 121.pdf]]
+[[Sarla Verma vs DTC, (2009) 6 SCC 121.pdf]]

@@ -42,4 +42,4 @@ See also:
 [[Evidence - Section 3]]
 [[Evidence, Section 4]]
 
-![[Kishan Rao vs Shankar Gouda, (2018) 5 SCR 69.pdf]]
+[[Kishan Rao vs Shankar Gouda, (2018) 5 SCR 69.pdf]]

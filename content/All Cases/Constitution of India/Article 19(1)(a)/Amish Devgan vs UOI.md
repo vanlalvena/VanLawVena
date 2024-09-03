@@ -61,6 +61,6 @@ See also:
 [[CrPC - Section 154]]
 
 PDF:
-![[Amish Devgan vs UoI, (2020) 14 SCR 198.pdf]]
+[[Amish Devgan vs UoI, (2020) 14 SCR 198.pdf]]
 
 Web Link: <a href="/All judgments/Amish Devgan vs UoI, (2020) 14 SCR 198.pdf" target="_blank">URL of judgment</a>

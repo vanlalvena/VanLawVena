@@ -9,7 +9,7 @@ Date: 12.09.2018
 It is open to the Legislature within certain limits to amend the provisions of an Act retrospectively and to  declare what the law shall be deemed to have been, but it is not open to the Legislature to say that the interpretation of the law shall be otherwise than as declared by the Court.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -17,4 +17,4 @@ See also:
 [[IOS]]
 
 PDF:
-![[Medical Council of India vs. State of Kerala, WP (C) 231-2018 (SC).pdf]]
+[[Medical Council of India vs. State of Kerala, WP (C) 231-2018 (SC).pdf]]

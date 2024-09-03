@@ -10,7 +10,7 @@ Arbitrators do not have the power to unilaterally issue binding and enforceable 
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -18,4 +18,4 @@ See also:
 [[A&C Act, 1996 - Section 38]]
 [[A&C Act, 1996 - Section 39]]
 
-![[ONGC vs Afcons Gunanusa JV, Arb P 5-2022 (SC).pdf]]
+[[ONGC vs Afcons Gunanusa JV, Arb P 5-2022 (SC).pdf]]

@@ -13,7 +13,7 @@ Date: 17.03.2009
 Reasons assigned in support of non-final interim orders are only tentative. (**Para 10**)
 
 Refer also:
-[[]]
+
 [[Steel Authority of India vs National Union Waterfront Workers]], (2001) 7 SCC 1
 
 See also:
@@ -21,4 +21,4 @@ See also:
 [[Constitution - Article 32]]
 
 PDF:
-![[State of Assam vs Barak Upatyaka DU Karamchari Sanstha, (2009) 4 SCR 467.pdf]]
+[[State of Assam vs Barak Upatyaka DU Karamchari Sanstha, (2009) 4 SCR 467.pdf]]

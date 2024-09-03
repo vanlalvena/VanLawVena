@@ -27,4 +27,4 @@ See also:
 [[A&C Act, 1996 - Section 8]]
 [[ToPA - Section 48]]
 
-![[Asian Hotels vs Alok Kumar Lodha, CA 3703-2022.pdf]]
+[[Asian Hotels vs Alok Kumar Lodha, CA 3703-2022.pdf]]

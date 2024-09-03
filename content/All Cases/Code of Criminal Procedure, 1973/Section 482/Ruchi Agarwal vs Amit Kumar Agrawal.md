@@ -11,12 +11,12 @@ Husband performed his part of compromise; wife partially performed her part of c
 	FIR quashed
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Ruchi Agarwal vs Amit Kumar Agrawal, (2005) 3 SCC 299.pdf]]
+[[Ruchi Agarwal vs Amit Kumar Agrawal, (2005) 3 SCC 299.pdf]]

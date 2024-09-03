@@ -24,4 +24,4 @@ See also:
 [[Evidence, Section 113A]]
 
 PDF:
-![[Rupali Devi vs State of Uttar Pradesh, (2019) 6 SCR 577.pdf]]
+[[Rupali Devi vs State of Uttar Pradesh, (2019) 6 SCR 577.pdf]]

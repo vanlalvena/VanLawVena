@@ -10,7 +10,7 @@ Date: 13.11.2021
 Explicit clause by itself not sufficient to make time essence of contract; tribunal’s interpretation #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -18,4 +18,4 @@ See also:
 [[A&C Act, 1996 - Section 34]]
 
 PDF:
-![[Welspun vs ONGC, (2021) 11 SCR 120.pdf]]
+[[Welspun vs ONGC, (2021) 11 SCR 120.pdf]]

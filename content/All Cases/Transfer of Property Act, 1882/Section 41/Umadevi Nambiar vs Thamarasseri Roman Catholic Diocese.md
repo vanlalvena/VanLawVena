@@ -28,4 +28,4 @@ See also:
 [[CPC - Order II rule 2]]
 
 PDF:
-![[Umadevi Nambiar vs Thamarasseri Roman Catholic Diocese, CA 2592-2022 (SC).pdf]]
+[[Umadevi Nambiar vs Thamarasseri Roman Catholic Diocese, CA 2592-2022 (SC).pdf]]

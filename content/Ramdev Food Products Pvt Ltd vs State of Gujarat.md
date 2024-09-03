@@ -40,7 +40,7 @@ Refer also:
 	(**Para 13**) Cautioning against *growing tendency in business circles to convert* ***purely civil disputes*** *into criminal cases*; that this practice also in family disputes 
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Ramdev Food Products Pvt Ltd vs State of Gujarat, (2015) 5 SCR 283.pdf]]
+[[Ramdev Food Products Pvt Ltd vs State of Gujarat, (2015) 5 SCR 283.pdf]]

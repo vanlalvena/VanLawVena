@@ -18,7 +18,7 @@ Natural Resources are vested in the Government
 #incomplete 
 
 Refer also:
-[[]]
+
 
 See also:
 [[Constitution - Article 19]]
@@ -29,4 +29,4 @@ See also:
 [[Constitution - Article 299]]
 
 PDF:
-![[Natural Resources Allocation, In re, Special Reference No. 1 of 2012, (2012) 10 SCC 1.pdf]]
+[[Natural Resources Allocation, In re, Special Reference No. 1 of 2012, (2012) 10 SCC 1.pdf]]

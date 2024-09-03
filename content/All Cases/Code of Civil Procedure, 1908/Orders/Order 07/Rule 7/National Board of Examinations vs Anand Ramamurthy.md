@@ -14,4 +14,4 @@ See also:
 [[CPC - Order VII rule 7]] 
 [[Constitution - Article 226]]
 
-![[National Board of Examinations vs Anand Ramamurthy, (2006) Supp 2 SCR 772.pdf]]
+[[National Board of Examinations vs Anand Ramamurthy, (2006) Supp 2 SCR 772.pdf]]

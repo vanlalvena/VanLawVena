@@ -28,4 +28,4 @@ See also:
 [[Constitution - Article 21]]
 
 PDF:
-![[Maneka Gandhi vs UOI, (1978) 2 SCR 621.pdf]]
+[[Maneka Gandhi vs UOI, (1978) 2 SCR 621.pdf]]

@@ -47,4 +47,4 @@ See also:
 [[CrPC - Section 294]]
 [[CrPC - Section 482]]
 [[Constitution, Article 136]]
-![[Girish Kumar Suneja vs CBI, (2017) 9 SCR 544.pdf]]
+[[Girish Kumar Suneja vs CBI, (2017) 9 SCR 544.pdf]]

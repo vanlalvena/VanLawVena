@@ -42,7 +42,7 @@ Court should look at validity and legality of compromise
 Lis pendens.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -63,6 +63,6 @@ See also:
 [[SRA, Section 20]]
 
 PDF:
-![[Arjan Singh vs Punit Ahluwalia, (2008) 8 SCR 684.pdf]]
+[[Arjan Singh vs Punit Ahluwalia, (2008) 8 SCR 684.pdf]]
 
 Web Link: <a href="/All judgments/Arjan Singh vs Punit Ahluwalia, (2008) 8 SCR 684.pdf" target="_blank">URL of judgment</a>

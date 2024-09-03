@@ -64,6 +64,6 @@ See also:
 [[CFA - Schedule II, Article 11]]
 
 PDF:
-![[GS Nayyar vs Kaushalya Rani, ILR (1974) 2 Del 5.pdf]]
+[[GS Nayyar vs Kaushalya Rani, ILR (1974) 2 Del 5.pdf]]
 
 Web Link: <a href="/All judgments/GS Nayyar vs Kaushalya Rani, ILR (1974) 2 Del 5.pdf" target="_blank">URL of judgment</a>

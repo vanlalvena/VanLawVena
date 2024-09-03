@@ -62,4 +62,4 @@ See also:
 [[Constitution - Article 298]]
 
 PDF:
-![[Ace Integrated Solutions Ltd vs FCI, LPA 264-2019 (Del HC-DB).pdf]]
+[[Ace Integrated Solutions Ltd vs FCI, LPA 264-2019 (Del HC-DB).pdf]]

@@ -45,4 +45,4 @@ See also:
 
 
 PDF:
-![[Ashok Kumar Todi vs Kishwar Jahan, (2011) 3 SCR 597.pdf]]
+[[Ashok Kumar Todi vs Kishwar Jahan, (2011) 3 SCR 597.pdf]]

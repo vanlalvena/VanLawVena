@@ -10,11 +10,11 @@ Difference between tax and fee
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Jalkal Vibhag Nagar Nigam vs Pradeshiya Industrial, (2021) 12 SCR 210.pdf]]
+[[Jalkal Vibhag Nagar Nigam vs Pradeshiya Industrial, (2021) 12 SCR 210.pdf]]

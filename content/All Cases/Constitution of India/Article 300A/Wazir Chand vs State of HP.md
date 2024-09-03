@@ -11,12 +11,12 @@ Unlawful seizure of goods impermissible #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Wazir Chand vs State of HP, (1955) SCR  408.pdf]]
+[[Wazir Chand vs State of HP, (1955) SCR  408.pdf]]

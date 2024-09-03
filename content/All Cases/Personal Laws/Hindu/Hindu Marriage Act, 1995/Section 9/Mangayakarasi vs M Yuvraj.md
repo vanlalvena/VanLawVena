@@ -19,4 +19,4 @@ See also:
 [[Constitution - Article 142]]
 
 PDF:
-![[Mangayakarasi vs M Yuvraj, (2020) 2 SCR 1036.pdf]]
+[[Mangayakarasi vs M Yuvraj, (2020) 2 SCR 1036.pdf]]

@@ -14,12 +14,12 @@ There must be *some other evidence* (**Page 634**)
 The confession mentioned in section 30 is not evidence under section 3. [[Evidence - Section 30]], [[Evidence - Section 3]]
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Hari Charan Kurmi and Jogia Hajam vs State of Bihar, (1964) 6 SCR 623.pdf]]
+[[Hari Charan Kurmi and Jogia Hajam vs State of Bihar, (1964) 6 SCR 623.pdf]]

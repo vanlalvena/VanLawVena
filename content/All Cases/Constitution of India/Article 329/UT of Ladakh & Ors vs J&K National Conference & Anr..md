@@ -27,4 +27,4 @@ See also:
 [[Judicial Discipline#Pendency of review/reference/larger bench of superior courts]]
 
 PDF:
-![[UT of Ladakh & Ors vs J&K National Conference & Anr., 2023 INSC 804.pdf]]
+[[UT of Ladakh & Ors vs J&K National Conference & Anr., 2023 INSC 804.pdf]]

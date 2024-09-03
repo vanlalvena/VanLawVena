@@ -21,4 +21,4 @@ See also:
 [[CrPC - Section 437]]
 
 PDF:
-![[Ash Mohammad vs Shiv Raj Singh, (2012) 7 SCR 584.pdf]]
+[[Ash Mohammad vs Shiv Raj Singh, (2012) 7 SCR 584.pdf]]

@@ -16,4 +16,4 @@ Relief to be based on pleadings
 See also:
 [[CPC - Order VII rule 7]] 
 
-![[C Periaswami Gounder vs Sundaresa Ayyar, (1964) 8 SCR 347.pdf]]
+[[C Periaswami Gounder vs Sundaresa Ayyar, (1964) 8 SCR 347.pdf]]

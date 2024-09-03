@@ -19,4 +19,4 @@ See also:
 [[Evidence - Section 114#Section 114(g)]]
 
 PDF:
-![[Union of India vs Ibrahim Uddin, (2012) 8 SCR 35.pdf]]
+[[Union of India vs Ibrahim Uddin, (2012) 8 SCR 35.pdf]]

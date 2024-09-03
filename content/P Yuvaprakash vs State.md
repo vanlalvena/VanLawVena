@@ -31,4 +31,4 @@ See also:
 
 
 PDF:
-![[P Yuvaprakash vs State, (2023) 10 SCR 478.pdf]]
+[[P Yuvaprakash vs State, (2023) 10 SCR 478.pdf]]

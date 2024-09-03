@@ -10,15 +10,15 @@ Date: 14.09.2021
 Explaining exercise of section 9 A&C Act #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Arcelor Mittal Nippon Steel vs Essar Bulk Terminal, (2021) 5 SCR 1022.pdf]]
+[[Arcelor Mittal Nippon Steel vs Essar Bulk Terminal, (2021) 5 SCR 1022.pdf]]
 
 PDF-SCC
-![[Arcelormittal Nippon Steel (India) Ltd vs Essar Bulk Terminal Ltd, (2022) 1 SCC 712.pdf]]
+[[Arcelormittal Nippon Steel (India) Ltd vs Essar Bulk Terminal Ltd, (2022) 1 SCC 712.pdf]]

@@ -11,11 +11,11 @@ Though the wife can give up any claim in relation to maintenance, permanent alim
 The daughter’s rights as to maintenance, custody, etc cannot be given up by the mother/wife.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 142]]
 
 PDF:
-![[Ganesh vs Sudhirkumar Shrivastava, (2020) 20 SCC 787.pdf]]
+[[Ganesh vs Sudhirkumar Shrivastava, (2020) 20 SCC 787.pdf]]

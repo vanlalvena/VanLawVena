@@ -15,7 +15,7 @@ Mere mechanical process of producing documents which doesn’t contain an accuse
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -24,4 +24,4 @@ See also:
 
 
 PDF:
-![[State of Bombay vs Kathi Kalu Oghad, (1962) 3 SCR 10.pdf]]
+[[State of Bombay vs Kathi Kalu Oghad, (1962) 3 SCR 10.pdf]]

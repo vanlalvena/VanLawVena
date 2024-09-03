@@ -10,7 +10,7 @@ Motive alone is not sufficient to sustain conviction.
 Defence witnesses are to be given the same treatment as prosecution witnesses.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -18,4 +18,4 @@ See also:
 [[IPC, Section 148]]
 
 PDF:
-![[Mahendra Singh vs State of MP, (2022) 6 SCR 737.pdf]]
+[[Mahendra Singh vs State of MP, (2022) 6 SCR 737.pdf]]

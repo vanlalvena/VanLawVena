@@ -54,6 +54,6 @@ See also:
 [[CPC - Order VI rule 17]]
 
 PDF:
-![[Flight Center Travels Pvt Ltd vs Flight Centre Ltd, 2013 DHC 381-DB.pdf]]
+[[Flight Center Travels Pvt Ltd vs Flight Centre Ltd, 2013 DHC 381-DB.pdf]]
 
 Web Link: <a href="/All judgments/Flight Center Travels Pvt Ltd vs Flight Centre Ltd, 2013 DHC 381-DB.pdf" target="_blank">URL of judgment</a>

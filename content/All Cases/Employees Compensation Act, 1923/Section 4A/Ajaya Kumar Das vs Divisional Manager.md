@@ -19,8 +19,8 @@ Refer also:
 [[Oriental Insurance Co Ltd vs Siby George]], (2012) 12 SCC 540
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Ajaya Kumar Das vs Divisional Manager, (2022) 1 SCR 468.pdf]]
+[[Ajaya Kumar Das vs Divisional Manager, (2022) 1 SCR 468.pdf]]

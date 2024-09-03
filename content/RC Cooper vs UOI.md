@@ -12,7 +12,7 @@ Bank nationalisation case
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 [[Constitution, Article 132]]
 
 PDF:
-![[Rustom Cavasjee Cooper vs UOI, (1970) 3 SCR 530.pdf]]
+[[Rustom Cavasjee Cooper vs UOI, (1970) 3 SCR 530.pdf]]

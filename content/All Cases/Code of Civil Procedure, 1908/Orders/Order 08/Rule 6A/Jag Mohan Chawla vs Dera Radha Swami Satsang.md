@@ -41,4 +41,4 @@ See also:
 [[CPC - Section 151]]
 
 PDF: 
-![[Jag Mohan Chawla vs Dera Radha Swami Satsang, (1996) Supp 2 SCR 509.pdf]]
+[[Jag Mohan Chawla vs Dera Radha Swami Satsang, (1996) Supp 2 SCR 509.pdf]]

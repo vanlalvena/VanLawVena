@@ -23,7 +23,7 @@ See also:
 [[CrPC - Section 226]]
 
 PDF:
-![[Ghulam Hassan Beigh vs Mohammad Maqbool Magrey, (2022) 13) SCR 34.pdf]]
+[[Ghulam Hassan Beigh vs Mohammad Maqbool Magrey, (2022) 13) SCR 34.pdf]]
 
 PDF-SCC: 
-![[Ghulam Hassan Beigh vs Mohd Maqbool Magrey, (2022) 12 SCC 657.pdf]]
+[[Ghulam Hassan Beigh vs Mohd Maqbool Magrey, (2022) 12 SCC 657.pdf]]

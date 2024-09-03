@@ -11,7 +11,7 @@ Date: 22.01.2016
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -19,4 +19,4 @@ See also:
 [[CrPC - Section 340]]
 
 PDF:
-![[HS Bedi vs NHAI, RFA 784-2010 (Del HC).pdf]]
+[[HS Bedi vs NHAI, RFA 784-2010 (Del HC).pdf]]

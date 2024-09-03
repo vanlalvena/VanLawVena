@@ -9,10 +9,10 @@ Date: 19.04.2022
 Pre-deposit of 75% of awarded amount as per Section 19 of MSME Act is mandatory to challenge award passed under Section 34 of A&C Act 1996
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[MSME - Section 19]] 
 
-![[Tirupati Steels vs Shubh Industrial, CA 2941-2022.pdf]]
+[[Tirupati Steels vs Shubh Industrial, CA 2941-2022.pdf]]

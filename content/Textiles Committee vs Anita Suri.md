@@ -14,12 +14,12 @@ For section 80 to apply, the relief must be claimable against the Government or 
 Distinction between State under [[Constitution, Article 12]] and Government in [[CPC - Section 80]] (**Para 23**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Textiles Committee vs Anita Suri, ILR (2009) 6 Del 66.pdf]]
+[[Textiles Committee vs Anita Suri, ILR (2009) 6 Del 66.pdf]]

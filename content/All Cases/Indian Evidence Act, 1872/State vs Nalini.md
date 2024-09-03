@@ -46,7 +46,7 @@ Confession of an accused, which is admissible under the Evidence Act is substant
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -70,4 +70,4 @@ See also:
 [[CrPC - Section 463]]
 
 PDF:
-![[State vs Nalini, (1999) 3 SCR 1.pdf]]
+[[State vs Nalini, (1999) 3 SCR 1.pdf]]

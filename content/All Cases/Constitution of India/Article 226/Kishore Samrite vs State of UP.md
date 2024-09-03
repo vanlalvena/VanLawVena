@@ -16,15 +16,15 @@ Imposition of costs, frivolous writ petitions
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Kishore Samrite vs State of UP, (2012) 9 SCR 733.pdf]]
+[[Kishore Samrite vs State of UP, (2012) 9 SCR 733.pdf]]
 
 PDF-SCC:
-![[Kishore Samrite vs State of UP, (2013) 2 SCC 398.pdf]]
+[[Kishore Samrite vs State of UP, (2013) 2 SCC 398.pdf]]

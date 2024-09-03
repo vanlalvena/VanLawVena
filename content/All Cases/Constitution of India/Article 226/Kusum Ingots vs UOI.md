@@ -12,10 +12,10 @@ Territorial jurisdiction (**Page 853, B**) #incomplete
 Just because Union in Delhi, doesn’t mean jurisdiction for DHC (**Page 851, D**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 
 PDF:
-![[Kusum Ingots vs UOI, (2004) Supp 1 SCR 841.pdf]]
+[[Kusum Ingots vs UOI, (2004) Supp 1 SCR 841.pdf]]

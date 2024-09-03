@@ -17,7 +17,7 @@ Section 438 is not applicable when the person is already behind bars. (**Page 14
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -26,4 +26,4 @@ See also:
 [[CrPC - Section 438]]
 
 PDF:
-![[Narinderjit Singh Sahni vs Union of India, (2001) Supp 4 SCR 114.pdf]]
+[[Narinderjit Singh Sahni vs Union of India, (2001) Supp 4 SCR 114.pdf]]

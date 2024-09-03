@@ -15,12 +15,12 @@ Vested right of appeal is a substantive right
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Garikapatti Veeraya vs N Subbiah Choudhury, (1957) SCR 448.pdf]]
+[[Garikapatti Veeraya vs N Subbiah Choudhury, (1957) SCR 448.pdf]]

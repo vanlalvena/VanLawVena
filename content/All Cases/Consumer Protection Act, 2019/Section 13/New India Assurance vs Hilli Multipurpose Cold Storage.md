@@ -21,12 +21,12 @@ Though justice hurried is justice buried, *justice delayed is justice denied*. (
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[New India Assurance vs Hilli Multipurpose Cold Storage, (2020) 5 SCR 429.pdf]]
+[[New India Assurance vs Hilli Multipurpose Cold Storage, (2020) 5 SCR 429.pdf]]

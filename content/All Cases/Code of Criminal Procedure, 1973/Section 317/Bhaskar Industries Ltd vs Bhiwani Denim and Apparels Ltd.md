@@ -20,7 +20,7 @@ The discretion to exempt personal presence is to be exercised only in rare insta
 	2. Due to physical or other good reasons
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -30,4 +30,4 @@ See also:
 [[CrPC - Section 273]]
 
 PDF:
-![[Bhaskar Industries Ltd vs Bhiwani Denim and Apparels Ltd, (2001) Supp 2 SCR 219.pdf]]
+[[Bhaskar Industries Ltd vs Bhiwani Denim and Apparels Ltd, (2001) Supp 2 SCR 219.pdf]]

@@ -11,12 +11,12 @@ Quashing FIR; 07 guidelines (**Para 102**)
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[State of Haryana vs Bhajan Lal, 1992 Supp (1) SCC 335.pdf]]
+[[State of Haryana vs Bhajan Lal, 1992 Supp (1) SCC 335.pdf]]

@@ -19,8 +19,8 @@ Refer also:
 	[[Sugra Bibi vs Hazi Kummu Mia]], (1969) 3 SCR 83
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Ashok Kumar Gupta vs Sitalaxmi Sahuwala Medical Trust, (2020) 2 SCR 983.pdf]]
+[[Ashok Kumar Gupta vs Sitalaxmi Sahuwala Medical Trust, (2020) 2 SCR 983.pdf]]

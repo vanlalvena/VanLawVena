@@ -10,11 +10,11 @@ Date: 05.05.2004
 Court in second appeal must decide *as per the amended plaint* (**Para 16**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CPC - Order VI rule 17]] 
 
 PDF:
-![[Shakuntala Bai vs Narayan Das, (2004) 5 SCC 772.pdf]]
+[[Shakuntala Bai vs Narayan Das, (2004) 5 SCC 772.pdf]]

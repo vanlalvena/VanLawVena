@@ -15,7 +15,7 @@ An appeal, by itself, does not operate as a stay on decree or order appealed aga
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -24,4 +24,4 @@ See also:
 [[ToPA - Section 111]]
 
 PDF:
-![[Atma Ram Properties (P) Ltd vs Federal Motors (P) Ltd, (2004) Supp 6 SCR 843.pdf]]
+[[Atma Ram Properties (P) Ltd vs Federal Motors (P) Ltd, (2004) Supp 6 SCR 843.pdf]]

@@ -35,4 +35,4 @@ See also:
 [[IPC - Section 71]]
 
 PDF:
-![[State vs Khimji Bhai Jadeja, Crl Ref 1-2014 (DHC).pdf]]
+[[State vs Khimji Bhai Jadeja, Crl Ref 1-2014 (DHC).pdf]]

@@ -14,11 +14,11 @@ Section 32A (*which prohibits courts from suspending sentence*) is unconstitutio
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[NDPS - Section 37]] 
 
 PDF:
-![[Dadu vs State of Maharashtra, (2000) Supp 3 SCR 703.pdf]]
+[[Dadu vs State of Maharashtra, (2000) Supp 3 SCR 703.pdf]]

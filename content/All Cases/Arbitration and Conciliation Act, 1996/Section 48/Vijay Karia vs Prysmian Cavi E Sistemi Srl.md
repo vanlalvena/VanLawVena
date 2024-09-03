@@ -28,4 +28,4 @@ See also:
 [[Constitution, Article 136]]
 
 PDF:
-![[Vijay Karia vs Prysmian Cavi E Sistemi Srl, (2020) 4 SCR 336.pdf]]
+[[Vijay Karia vs Prysmian Cavi E Sistemi Srl, (2020) 4 SCR 336.pdf]]

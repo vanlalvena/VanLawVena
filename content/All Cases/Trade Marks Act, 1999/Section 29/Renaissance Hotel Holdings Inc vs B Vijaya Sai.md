@@ -22,7 +22,7 @@ Textual and contextual interpretation of statute (**Paras 60, 61**)
 *Purpose of [[TM Act]]* (**Para 61, Page 358, B-E**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -34,4 +34,4 @@ See also:
 [[IOS - Contextual Interpretation]]
 
 PDF:
-![[Renaissance Hotel Holdings Inc vs B Vijaya Sai, (2022) 2 SCR 321.pdf]]
+[[Renaissance Hotel Holdings Inc vs B Vijaya Sai, (2022) 2 SCR 321.pdf]]

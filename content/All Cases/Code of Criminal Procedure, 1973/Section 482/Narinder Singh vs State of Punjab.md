@@ -10,12 +10,12 @@ Date: 27.03.2014
 Guidelines quashing FIR consent settlement compromise #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Narinder Snigh vs State of Punjab, (2014) 4 SCR 1012.pdf]]
+[[Narinder Snigh vs State of Punjab, (2014) 4 SCR 1012.pdf]]

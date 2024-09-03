@@ -8,7 +8,7 @@ Date: 22.01.2016
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:

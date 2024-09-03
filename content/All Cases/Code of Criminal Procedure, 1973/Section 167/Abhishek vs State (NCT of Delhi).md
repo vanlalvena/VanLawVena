@@ -42,7 +42,7 @@ Must not be mechanically extended
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -50,6 +50,6 @@ See also:
 [[Constitution - Article 21]]
 
 PDF:
-![[Abhishek vs State (NCT of Delhi), 2021-DHC-3293.pdf]]
+[[Abhishek vs State (NCT of Delhi), 2021-DHC-3293.pdf]]
 
 Web Link: <a href="/All judgments/Abhishek vs State (NCT of Delhi), 2021-DHC-3293.pdf" target="_blank">URL of judgment</a>

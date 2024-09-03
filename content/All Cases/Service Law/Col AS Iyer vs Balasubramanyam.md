@@ -52,6 +52,6 @@ See also:
 [[Constitution - Article 14]] 
 
 PDF:
-![[Col AS Iyer vs V Balasubramanyam, (1980) 1 SCR 1036.pdf]]
+[[Col AS Iyer vs V Balasubramanyam, (1980) 1 SCR 1036.pdf]]
 
 Web Link: <a href="/All judgments/Col AS Iyer vs V Balasubramanyam, (1980) 1 SCR 1036" target="_blank">URL of judgment</a>

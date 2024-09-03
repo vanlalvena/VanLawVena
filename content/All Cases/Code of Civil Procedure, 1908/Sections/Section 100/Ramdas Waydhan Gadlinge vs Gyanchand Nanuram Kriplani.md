@@ -16,7 +16,7 @@ At the time of hearing, the respondent is entitled to argue that the case does n
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -25,4 +25,4 @@ See also:
 [[CPC - Order XLII rule 2]] 
 
 PDF:
-![[Ramdas Waydhan Gadlinge vs Gyanchand Nanuram Kriplani, CA 4479 (Order - SC).pdf]]
+[[Ramdas Waydhan Gadlinge vs Gyanchand Nanuram Kriplani, CA 4479 (Order - SC).pdf]]

@@ -10,11 +10,11 @@ When an accused is **absconding** and *declared as proclaimed offender*, there i
 Pendency of 82 proceedings debar an applicant from being granted anticipatory bail
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC, Section 82]] 
 
 PDF:
-![[Abhishek vs State of Maharashtra, Crl A 869-2022 (SC).pdf]]
+[[Abhishek vs State of Maharashtra, Crl A 869-2022 (SC).pdf]]

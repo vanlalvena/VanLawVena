@@ -40,4 +40,4 @@ See also:
 [[CPC - Order VII rule 7]]
 
 PDF:
-![[Shehla Burney vs Syed Ali Mossa Raza, (2011) 5 SCR 841.pdf]]
+[[Shehla Burney vs Syed Ali Mossa Raza, (2011) 5 SCR 841.pdf]]

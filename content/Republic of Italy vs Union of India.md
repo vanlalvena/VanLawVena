@@ -14,7 +14,7 @@ Police and Courts have jurisdiction over contiguous zones #incomplete
 International Law applicable only when there is no conflicting Indian Statute
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -30,4 +30,4 @@ See also:
 [[Constitution - Article 297]]
 
 PDF:
-![[Republic of Italy vs Union of India, (2013) 4 SCC 721.pdf]]
+[[Republic of Italy vs Union of India, (2013) 4 SCC 721.pdf]]

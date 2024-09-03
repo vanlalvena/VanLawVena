@@ -8,11 +8,11 @@ Date: 08.05.2019
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Ssangyong vs NHAI, (2019) 7 SCR 522.pdf]]
+[[Ssangyong vs NHAI, (2019) 7 SCR 522.pdf]]

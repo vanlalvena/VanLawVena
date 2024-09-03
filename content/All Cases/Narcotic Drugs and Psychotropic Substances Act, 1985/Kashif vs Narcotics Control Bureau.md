@@ -19,8 +19,8 @@ Refer also:
 [[Union of India vs Mohanlal]], (2016) 3 SCC 379
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Kashif vs Narcotics Control Bureau, BA 253-2023 (DHC).pdf]]
+[[Kashif vs Narcotics Control Bureau, BA 253-2023 (DHC).pdf]]

@@ -9,7 +9,7 @@ Date: 27.04.2022
 An arbitration agreement entered into by a company within a group of companies can bind its non-signatory affiliates or sister concerns; if it is demonstrated by the circumstances that there was a mutual intention of the parties to bind both the signatory as also the affiliated, non-signatory parties. (**Paras 18, 23, 26**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -19,4 +19,4 @@ See also:
 [[A&C Act, 1996 - Section 34]]
 [[A&C Act, 1996 - Section 37]]
 
-![[ONGC vs Discovery Enterprises, CA 2042-2022 (SC).pdf]]
+[[ONGC vs Discovery Enterprises, CA 2042-2022 (SC).pdf]]

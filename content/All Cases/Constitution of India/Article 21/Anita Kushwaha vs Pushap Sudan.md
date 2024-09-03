@@ -78,7 +78,7 @@ See also:
 [[CrPC - Section 406]]
 
 PDF:
-![[Anita Kushwaha vs Pushap Sudan, (2016) 9 SCR 560.pdf]]
+[[Anita Kushwaha vs Pushap Sudan, (2016) 9 SCR 560.pdf]]
 
 PDF-SCC:
-![[Anita Kushwaha vs Pushap Sudan, (2016) 8 SCC 509.pdf]]
+[[Anita Kushwaha vs Pushap Sudan, (2016) 8 SCC 509.pdf]]

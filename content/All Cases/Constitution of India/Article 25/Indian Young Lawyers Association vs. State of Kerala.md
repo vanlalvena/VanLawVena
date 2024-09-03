@@ -11,11 +11,11 @@ In the constitutional order of priorities, the right to religious freedom is to 
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 25]] 
 
 PDF:
-![[Indian Young Lawyers Association vs. State of Kerala, (2018) 9 SCR 561.pdf]]
+[[Indian Young Lawyers Association vs. State of Kerala, (2018) 9 SCR 561.pdf]]

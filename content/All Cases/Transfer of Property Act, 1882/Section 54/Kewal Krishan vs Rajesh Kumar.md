@@ -11,12 +11,12 @@ Every sale of an immovable property must be for a price, which may be payable in
 However, payment of price is an essential part of a sale.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Kewal Krishan vs Rajesh Kumar, (2021) 11 SCR 588.pdf]]
+[[Kewal Krishan vs Rajesh Kumar, (2021) 11 SCR 588.pdf]]

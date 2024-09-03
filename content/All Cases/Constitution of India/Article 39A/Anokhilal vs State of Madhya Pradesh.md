@@ -40,4 +40,4 @@ See also:
 [[CrPC - Section 391]]
 
 PDF:
-![[Anokhilal vs State of Madhya Pradesh, (2019) 18 SCR 1196.pdf]]
+[[Anokhilal vs State of Madhya Pradesh, (2019) 18 SCR 1196.pdf]]

@@ -8,11 +8,11 @@ Date: 04.11.1997
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC - Section 200]] 
 Act, Section
 
-![[Pepsi Food Ltd vs Special Judicial Magistrate,  (1997) Supp 5 SCR 12.pdf]]
+[[Pepsi Food Ltd vs Special Judicial Magistrate,  (1997) Supp 5 SCR 12.pdf]]

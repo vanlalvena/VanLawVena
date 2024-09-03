@@ -49,6 +49,6 @@ See also:
 [[Constitution - Article 14]] 
 
 PDF:
-![[Dev Sharma vs ITBP, 2019 DHC 634-DB.pdf]]
+[[Dev Sharma vs ITBP, 2019 DHC 634-DB.pdf]]
 
 Web Link: <a href="/All judgments/Dev Sharma vs ITBP, 2019 DHC 634-DB.pdf" target="_blank">URL of judgment</a>

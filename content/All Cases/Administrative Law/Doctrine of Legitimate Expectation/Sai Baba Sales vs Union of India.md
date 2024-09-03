@@ -24,11 +24,11 @@ Date: 00.00.0000
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
@@ -45,13 +45,13 @@ Date: 26.11.2021
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Sai Baba Sales vs Union of India, (2021) 11 SCR 284.pdf]]
+[[Sai Baba Sales vs Union of India, (2021) 11 SCR 284.pdf]]
 
 Web Link: <a href="/All judgments/to be filled.pdf" target="_blank">URL of judgment</a>

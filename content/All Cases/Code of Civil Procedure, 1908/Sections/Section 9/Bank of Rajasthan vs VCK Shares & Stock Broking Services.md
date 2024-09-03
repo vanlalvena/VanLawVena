@@ -48,5 +48,5 @@ See also:
 
 [[RDB Act - Section 17]]
 
-PDF: ![[Bank of Rajasthan vs VCK Shares & Stock Broking Services, (2022) 17 SCR 567.pdf]]
+PDF: [[Bank of Rajasthan vs VCK Shares & Stock Broking Services, (2022) 17 SCR 567.pdf]]
 Web Link: <a href="/All judgments/Bank of Rajasthan vs VCK Shares & Stock Broking Services, (2022) 17 SCR 567.pdf" target="_blank">URL of judgment</a>

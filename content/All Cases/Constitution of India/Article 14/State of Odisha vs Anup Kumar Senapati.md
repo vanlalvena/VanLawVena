@@ -20,4 +20,4 @@ See also:
 [[Constitution - Article 14]] 
 
 PDF:
-![[State of Odisha vs Anup Kumar Senapati, (2019) 12 SCR 472.pdf]]
+[[State of Odisha vs Anup Kumar Senapati, (2019) 12 SCR 472.pdf]]

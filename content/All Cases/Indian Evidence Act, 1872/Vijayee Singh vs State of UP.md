@@ -16,7 +16,7 @@ Explaining what is *reasonable doubt* (**Para 28**)
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -27,7 +27,7 @@ See also:
 [[IPC - Section 304]]
 
 PDF - SCC:
-![[Vijayee Singh vs State of UP, (1990) 3 SCC 190.pdf]]
+[[Vijayee Singh vs State of UP, (1990) 3 SCC 190.pdf]]
 
 PDF:
-![[Vijayee Singh vs State of Uttar Pradesh, (1990) 2 SCR 573.pdf]]
+[[Vijayee Singh vs State of Uttar Pradesh, (1990) 2 SCR 573.pdf]]

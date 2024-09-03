@@ -13,12 +13,12 @@ Mere intention to gift is not enough.
 Though gift deed was signed by the donor and the two attesting witnesses, it was not stamped.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Sachindra Nath Sett vs Naba Kumar Mallick, (1952) 1 SCC 445.pdf]]
+[[Sachindra Nath Sett vs Naba Kumar Mallick, (1952) 1 SCC 445.pdf]]

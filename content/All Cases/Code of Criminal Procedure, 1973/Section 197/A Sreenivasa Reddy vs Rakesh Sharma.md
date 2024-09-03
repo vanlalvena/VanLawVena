@@ -44,13 +44,13 @@ Discharge from the Corruption Act does not necessarily result in discharge from 
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[PoC 1988 - Section 19]] 
 [[CrPC - Section 216]]
 
-PDF: ![[A Sreenivasa Reddy vs Rakesh Sharma, (2023) 12 SCR 932.pdf]]
+PDF: [[A Sreenivasa Reddy vs Rakesh Sharma, (2023) 12 SCR 932.pdf]]
 
 Web Link: <a href="/All judgments/A Sreenivasa Reddy vs Rakesh Sharma, (2023) 12 SCR 932.pdf" target="_blank">URL of judgment</a>

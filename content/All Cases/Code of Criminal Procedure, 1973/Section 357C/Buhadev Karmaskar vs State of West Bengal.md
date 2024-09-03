@@ -21,4 +21,4 @@ See also:
 [[Constitution - Article 19]]
 [[Constitution - Article 21]]
 
- ![[Buhadev Karmaskar vs State of West Bengal, Order dtd 19.05.2022, Crl A 135-2020.pdf]]
+ [[Buhadev Karmaskar vs State of West Bengal, Order dtd 19.05.2022, Crl A 135-2020.pdf]]

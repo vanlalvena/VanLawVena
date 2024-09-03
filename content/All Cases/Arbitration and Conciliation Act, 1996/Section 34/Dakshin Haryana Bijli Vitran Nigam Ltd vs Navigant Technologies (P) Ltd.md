@@ -53,4 +53,4 @@ See also:
 [[Limitation - Section 5]]
 [[Limitation, Section 17]]
 
-![[Dakshin Haryana vs Navigant, (2021) 1 SCR 1135.pdf]]
+[[Dakshin Haryana vs Navigant, (2021) 1 SCR 1135.pdf]]

@@ -11,9 +11,9 @@ The reason for such a clause is that while interpreting a provision, the defined
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section

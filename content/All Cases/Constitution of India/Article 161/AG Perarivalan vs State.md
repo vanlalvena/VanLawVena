@@ -19,4 +19,4 @@ See also:
 [[IPC - Section 302]]
 
 PDF:
-![[AG Perarivalan vs State, Crl A 833-2022 (SC).pdf]]
+[[AG Perarivalan vs State, Crl A 833-2022 (SC).pdf]]

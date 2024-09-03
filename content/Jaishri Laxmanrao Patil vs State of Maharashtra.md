@@ -11,10 +11,10 @@ Upper limit of 50% is mandatory and binding #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 141]] 
 
-PDF:![[Jaishri Laxmanrao Patil vs State of Maharashtra, (2021) 8 SCC 1.pdf]]
+PDF:[[Jaishri Laxmanrao Patil vs State of Maharashtra, (2021) 8 SCC 1.pdf]]

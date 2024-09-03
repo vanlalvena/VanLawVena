@@ -80,6 +80,6 @@ See also:
 [[Constitution - Article 227]]
 
 PDF:
-![[BS Hari vs UOI, (2023) 3 SCR 431.pdf]]
+[[BS Hari vs UOI, (2023) 3 SCR 431.pdf]]
 
 Web Link: <a href="/All judgments/BS Hari vs UOI, (2023) 3 SCR 431.pdf" target="_blank">URL of judgment</a>

@@ -16,11 +16,11 @@ No restriction to pass award based on compromise in respect of cases referred to
 Conclusions (**Para 17**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[NI Act - Section 138]] 
 
 PDF:
-![[KN Govindan Kutty Menon vs CD Shaji, (2011) 15 (Addl) SCR 447.pdf]]
+[[KN Govindan Kutty Menon vs CD Shaji, (2011) 15 (Addl) SCR 447.pdf]]

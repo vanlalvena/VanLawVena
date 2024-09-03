@@ -11,12 +11,12 @@ Date: 27.03.2018
 *Consent of community irrelevant*
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Shakti Vahini vs Union of India, (2018) 3 SCR 770.pdf]]
+[[Shakti Vahini vs Union of India, (2018) 3 SCR 770.pdf]]

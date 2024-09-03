@@ -11,10 +11,10 @@ Difference between Article 226 and Article 227
 #incomplete 
 
 Refer also:
-[[]]
+
 
 See also:
 [[Constitution - Article 226]] 
 
 PDF:
-![[Radhey Shyam vs Chhabi Nath, (2015) 5 SCC 423.pdf]]
+[[Radhey Shyam vs Chhabi Nath, (2015) 5 SCC 423.pdf]]

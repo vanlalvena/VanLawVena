@@ -60,7 +60,7 @@ See also:
 [[SARFAESI - Section 2]]
 
 PDF:
-![[PTC India Financial Services Ltd vs Venkateswarlu Kari, (2022) 9 SCR 1063.pdf]]
+[[PTC India Financial Services Ltd vs Venkateswarlu Kari, (2022) 9 SCR 1063.pdf]]
 
 
-![[PTC India Financial Services Ltd vs Venkateswarlu Kari, CA 5443-2019 (SC).pdf]]
+[[PTC India Financial Services Ltd vs Venkateswarlu Kari, CA 5443-2019 (SC).pdf]]

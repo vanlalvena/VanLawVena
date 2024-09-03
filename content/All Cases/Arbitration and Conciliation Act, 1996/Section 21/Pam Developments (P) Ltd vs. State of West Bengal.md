@@ -12,7 +12,7 @@ Stay under section 36 A&C Act can be granted on terms that the court deems it. T
 Unlike section 80 CPC which requires two-months notice to the Government before institution of a suit and that no ex parte injunction can be passed against the government, there is no such special provision with respect to arbitration by or against the Government in the arbitration act. Sections 9 and 17 provide for ex parte interim orders against the government (para 25)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,7 +22,7 @@ See also:
 [[A&C Act, 1996 - Section 36]]
 
 PDF:
-![[Pam Developments vs State of West Bengal, CA 5432-2019 (SC).pdf]]
+[[Pam Developments vs State of West Bengal, CA 5432-2019 (SC).pdf]]
 
 SCR PDF:
-![[Pam Developments (P) Ltd vs State of West Bengal, (2019) 9 SCR 252.pdf]]
+[[Pam Developments (P) Ltd vs State of West Bengal, (2019) 9 SCR 252.pdf]]

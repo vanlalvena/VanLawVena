@@ -8,11 +8,11 @@ Date: 11.03.1958
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Virsa Singh vs State of Punjab, (1958) 1 SCR 1495.pdf]]
+[[Virsa Singh vs State of Punjab, (1958) 1 SCR 1495.pdf]]

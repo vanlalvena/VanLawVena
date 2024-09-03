@@ -11,15 +11,15 @@ Parliament cannot amend the basic structure of the Constitution
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Kesavananda Bharati vs State of Kerala, (1973) 4 SCC 225.pdf]]
+[[Kesavananda Bharati vs State of Kerala, (1973) 4 SCC 225.pdf]]
 
 PDF-SCR: 
-![[Kesavananda Bharati vs State of Kerala, (1973) Supp SCR 1.pdf]]
+[[Kesavananda Bharati vs State of Kerala, (1973) Supp SCR 1.pdf]]

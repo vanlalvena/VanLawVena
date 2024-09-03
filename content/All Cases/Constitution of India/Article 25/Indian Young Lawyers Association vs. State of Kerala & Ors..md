@@ -11,7 +11,7 @@ In the constitutional order of priorities, the right to religious freedom is to 
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:

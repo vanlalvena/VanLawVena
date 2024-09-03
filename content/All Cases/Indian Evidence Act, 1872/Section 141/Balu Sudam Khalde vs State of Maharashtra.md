@@ -59,4 +59,4 @@ See also:
 [[IPC, Section 300]]
 
 PDF:
-![[Balu Sudam Khalde vs State of Maharashtra, Crl A 1910-2010 (SC).pdf]]
+[[Balu Sudam Khalde vs State of Maharashtra, Crl A 1910-2010 (SC).pdf]]

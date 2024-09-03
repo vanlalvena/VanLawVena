@@ -23,4 +23,4 @@ Refer also:
 See also:
 [[A&C Act, 1996 - Section 11]]
 
-![[Mahadadi Coalfields vs IVRCL AMR JV, CA 4914-2022 (SC).pdf]]
+[[Mahadadi Coalfields vs IVRCL AMR JV, CA 4914-2022 (SC).pdf]]

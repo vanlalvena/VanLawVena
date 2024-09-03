@@ -15,8 +15,8 @@ Refer also:
 [[Lata Singh vs State of UP]], (2006) 5 SCC 475
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Santhini vs Vijaya Venketesh, (2017) 12 SCR 557.pdf]]
+[[Santhini vs Vijaya Venketesh, (2017) 12 SCR 557.pdf]]

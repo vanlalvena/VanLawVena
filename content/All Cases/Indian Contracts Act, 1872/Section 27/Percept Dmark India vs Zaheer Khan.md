@@ -30,7 +30,7 @@ See also:
 [[A&C Act, 1996 - Section 9]] 
 
 PDF:
-![[Percept Dmark India vs Zaheer Khan, (2006) 3 SCR 146.pdf]]
+[[Percept Dmark India vs Zaheer Khan, (2006) 3 SCR 146.pdf]]
 
 
-![[Percept Dmark India vs Zaheer Khan, (2006) 4 SCC 227.pdf]]
+[[Percept Dmark India vs Zaheer Khan, (2006) 4 SCC 227.pdf]]

@@ -10,12 +10,12 @@ Date: 04.05.1994
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Shiv Kumar Chadha vs MCD, (1993) 3 SCR 522.pdf]]
+[[Shiv Kumar Chadha vs MCD, (1993) 3 SCR 522.pdf]]

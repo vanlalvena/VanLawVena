@@ -11,12 +11,12 @@ Charge in the alternative (**Page 456, 457**) #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[VK Agarwal vs Vasantraj Bhagwanji Bhatia, (1988) 3 SCR 450.pdf]]
+[[VK Agarwal vs Vasantraj Bhagwanji Bhatia, (1988) 3 SCR 450.pdf]]

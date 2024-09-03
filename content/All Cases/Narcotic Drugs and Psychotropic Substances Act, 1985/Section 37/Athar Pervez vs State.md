@@ -39,4 +39,4 @@ See also:
 [[NDPS - Section 32A]]
 
 PDF:
-![[Athar Pervez vs State, 2016-DHC-1680-DB, Crl Ref 1-2015.pdf]]
+[[Athar Pervez vs State, 2016-DHC-1680-DB, Crl Ref 1-2015.pdf]]

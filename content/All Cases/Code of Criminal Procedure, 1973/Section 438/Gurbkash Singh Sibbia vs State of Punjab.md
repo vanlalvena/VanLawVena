@@ -39,8 +39,8 @@ See also:
 
 
 PDF-SCC:
-![[Gurbaksh Singh Sibbia vs State of Punjab, (1980) 2 SCC 565.pdf]]
+[[Gurbaksh Singh Sibbia vs State of Punjab, (1980) 2 SCC 565.pdf]]
 
 
 PDF-SCR:
-![[Gurbkash Singh Sibbia vs State of Punjab, (1980) 3 SCR 383.pdf]]
+[[Gurbkash Singh Sibbia vs State of Punjab, (1980) 3 SCR 383.pdf]]

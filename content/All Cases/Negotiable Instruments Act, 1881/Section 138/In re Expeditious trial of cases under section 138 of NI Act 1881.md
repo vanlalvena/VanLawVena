@@ -49,9 +49,9 @@ Refer also:
 
 See also:
 
-PDF: ![[In re Expeditious trial of cases under section 138 of NI Act 1881, (2021) 4 SCR 257.pdf]]
+PDF: [[In re Expeditious trial of cases under section 138 of NI Act 1881, (2021) 4 SCR 257.pdf]]
 # Delhi High Court Practice Directions dated 21.06.2021 on [[NI Act]]
 
-![[DHC - Practice Directions dated 21.06.2021.pdf]]
+[[DHC - Practice Directions dated 21.06.2021.pdf]]
 
 Web Link: <a href="/All judgments/In re Expeditious trial of cases under section 138 of NI Act 1881, (2021) 4 SCR 257.pdf" target="_blank">URL of judgment</a>

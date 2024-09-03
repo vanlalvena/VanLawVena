@@ -13,7 +13,7 @@ Refer also:
 [[State of Jammu and Kashmir vs Trilokinath Khosa]], (1974) 1 SCC 19 - (**Paras 32-34**)
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Chandan Banerjee vs Kirshna Prosad Ghosh, (2021) 11 SCR 720.pdf]]
+[[Chandan Banerjee vs Kirshna Prosad Ghosh, (2021) 11 SCR 720.pdf]]

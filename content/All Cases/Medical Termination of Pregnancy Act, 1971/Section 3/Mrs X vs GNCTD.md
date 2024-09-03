@@ -10,12 +10,12 @@ Date: 06.12.2022
 #incomplete Guidelines for factors to be taken by Medical Board in cases of medical termination of pregnancy
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Mrs X vs GNCTD, 2022-DHC-5344.pdf]]
+[[Mrs X vs GNCTD, 2022-DHC-5344.pdf]]

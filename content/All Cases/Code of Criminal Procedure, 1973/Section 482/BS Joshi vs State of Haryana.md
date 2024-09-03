@@ -18,7 +18,7 @@ See also:
 [[CrPC, Section 320]] 
 
 PDF:
-![[BS Joshi vs State of Haryana, (2003) 2 SCR 1104.pdf]]
+[[BS Joshi vs State of Haryana, (2003) 2 SCR 1104.pdf]]
 
 
-![[BS Joshi vs State of Haryana, (2003) 4 SCC 675.pdf]]
+[[BS Joshi vs State of Haryana, (2003) 4 SCC 675.pdf]]

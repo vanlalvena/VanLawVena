@@ -12,11 +12,11 @@ Date: 14.09.2007
 Meaning of *reasonable grounds*
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC - Section 439]] 
 
 PDF:
-![[UoI vs. Shiv Shanker Kesari, (2007) 7 SCC 798.pdf]]
+[[UoI vs. Shiv Shanker Kesari, (2007) 7 SCC 798.pdf]]

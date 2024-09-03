@@ -22,7 +22,7 @@ Dying declaration need not cover whole incident or case history; and does not ne
 	*dying declaration can be sole basis for conviction*
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -32,4 +32,4 @@ See also:
 
 
 PDF:
-![[Harendra Rai vs State of Bihar, 2023 INSC 738.pdf]]
+[[Harendra Rai vs State of Bihar, 2023 INSC 738.pdf]]

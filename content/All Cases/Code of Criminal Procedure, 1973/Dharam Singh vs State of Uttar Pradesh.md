@@ -12,11 +12,11 @@ When there is a difference between a Division bench (two judges) hearing an appe
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC - Section 370]] 
 
 PDF:
-![[Dharam Singh vs State of Uttar Pradesh, (1962) Supp 3 SCR 769.pdf]]
+[[Dharam Singh vs State of Uttar Pradesh, (1962) Supp 3 SCR 769.pdf]]

@@ -10,12 +10,12 @@ Date: 23.08.1978
 Notice under [[ToPA - Section 106]] not necessary after decree for eviction is passed by the court. #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[V Dhanapal Chettiar vs Yesodai Ammal, (1980) 1 SCR 334.pdf]]
+[[V Dhanapal Chettiar vs Yesodai Ammal, (1980) 1 SCR 334.pdf]]

@@ -65,6 +65,6 @@ See also:
 [[Constitution - Article 141]]
 
 PDF:
-![[DS Nakara vs UoI, (1983) 2 SCR 165.pdf]]
+[[DS Nakara vs UoI, (1983) 2 SCR 165.pdf]]
 
 Web Link: <a href="/All judgments/DS Nakara vs UoI, (1983) 2 SCR 165.pdf" target="_blank">URL of judgment</a>

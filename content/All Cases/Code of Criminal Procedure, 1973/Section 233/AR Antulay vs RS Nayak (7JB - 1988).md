@@ -12,13 +12,13 @@ Joint trial #incomplete
 No right to joint trial with co-accused; right of prosecution
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC - Section 406]] 
 
-![[AR Antulay vs RS Nayak, (1988) 2 SCC 602.pdf]]
+[[AR Antulay vs RS Nayak, (1988) 2 SCC 602.pdf]]
 
 PDF:
-![[AR Antulay vs RS Nayak, (1988) Supp 1 SCR 1.pdf]]
+[[AR Antulay vs RS Nayak, (1988) Supp 1 SCR 1.pdf]]

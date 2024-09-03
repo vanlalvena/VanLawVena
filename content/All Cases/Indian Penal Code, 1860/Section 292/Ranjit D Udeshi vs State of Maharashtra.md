@@ -20,11 +20,11 @@ When the accused claims lack of knowledge, the court can presume that the accuse
 	2) the book is found to be obscene
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 19]](1)(a) 
 [[Constitution - Article 19]](2)
 
-![[Ranjit D Udeshi vs State of Maharashtra, (1965) 1 SCR 65.pdf]]
+[[Ranjit D Udeshi vs State of Maharashtra, (1965) 1 SCR 65.pdf]]

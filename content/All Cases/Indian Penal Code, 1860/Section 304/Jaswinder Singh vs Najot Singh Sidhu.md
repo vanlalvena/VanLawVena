@@ -25,4 +25,4 @@ See also:
 [[IPC - Section 323]]
 [[CrPC - Section 2]]
 
-PDF: ![[Jaswinder Singh vs Najot Singh Sidhu, Rev P (Crl) 477-2018 (SC).pdf]]
+PDF: [[Jaswinder Singh vs Najot Singh Sidhu, Rev P (Crl) 477-2018 (SC).pdf]]

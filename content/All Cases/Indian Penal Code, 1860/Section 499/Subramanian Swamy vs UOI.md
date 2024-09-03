@@ -11,12 +11,12 @@ Date: 13.05.2016
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Subramanian Swamy vs UOI, (2016) 3 SCR 856.pdf]]
+[[Subramanian Swamy vs UOI, (2016) 3 SCR 856.pdf]]

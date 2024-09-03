@@ -15,4 +15,4 @@ See also:
 [[IPC - Section 498A]] 
 
 PDF:
-![[Mahadevappa vs State of Karnataka, (2019) 1 SCR 39.pdf]]
+[[Mahadevappa vs State of Karnataka, (2019) 1 SCR 39.pdf]]

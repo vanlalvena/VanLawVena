@@ -39,8 +39,8 @@ Refer also:
 [[Kusum Ingots vs UOI]]
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Sterling Agro Industries Ltd vs UOI, 181 (2011) DLT 658 (LB).pdf]]
+[[Sterling Agro Industries Ltd vs UOI, 181 (2011) DLT 658 (LB).pdf]]

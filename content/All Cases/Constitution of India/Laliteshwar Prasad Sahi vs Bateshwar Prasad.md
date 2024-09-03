@@ -11,11 +11,11 @@ There is a **distinction between an agreement and a contract**, the latter havin
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[RPA 1951 - Section 7#Section 7(d)]]
 
 PDF:
-![[Laliteshwar Prasad Sahi vs Bateshwar Prasad, (1966) 2 SCR 63.pdf]]
+[[Laliteshwar Prasad Sahi vs Bateshwar Prasad, (1966) 2 SCR 63.pdf]]

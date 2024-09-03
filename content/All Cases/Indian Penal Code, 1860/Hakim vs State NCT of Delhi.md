@@ -14,12 +14,12 @@ Date: 13.10.2022
 	The word acid *is not restricted to substances classically or scientifically termed as acids*; as long as they satisfy the ***twin conditions*** or ***twin elements***. (+ **Para 6.6**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Hakim vs State NCT of Delhi, Crl A 209-2020 (Del HC).pdf]]
+[[Hakim vs State NCT of Delhi, Crl A 209-2020 (Del HC).pdf]]

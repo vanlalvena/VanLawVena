@@ -27,4 +27,4 @@ See also:
 [[SRA - Section 41]]
 
 PDF:
-![[Tek Singh vs Shashi Verma, (2019) 3 SCR 697.pdf]]
+[[Tek Singh vs Shashi Verma, (2019) 3 SCR 697.pdf]]

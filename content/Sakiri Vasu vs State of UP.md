@@ -19,4 +19,4 @@ Refer also:
 See also:
 [[Constitution - Article 226]]
 [[CrPC, Section 154]]
-![[Sakiri vasu.pdf]]
+[[Sakiri vasu.pdf]]

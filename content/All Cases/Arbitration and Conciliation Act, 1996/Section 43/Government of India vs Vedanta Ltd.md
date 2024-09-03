@@ -60,6 +60,6 @@ See also:
 [[Constitution - Article 137]]
 
 PDF:
-![[Government of India vs Vedanta, (2020) 12 SCR 1.pdf]]
+[[Government of India vs Vedanta, (2020) 12 SCR 1.pdf]]
 
 Web Link: <a href="/All judgments/Government of India vs Vedanta, (2020) 12 SCR 1.pdf" target="_blank">URL of judgment</a>

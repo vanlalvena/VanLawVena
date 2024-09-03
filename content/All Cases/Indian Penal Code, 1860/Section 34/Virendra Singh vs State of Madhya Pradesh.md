@@ -11,12 +11,12 @@ Resemblance and distinction between [[IPC - Section 34]] and [[IPC - Section 149
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Virendra Singh vs State of Madhya Pradesh, (2010) 9 SCR 772.pdf]]
+[[Virendra Singh vs State of Madhya Pradesh, (2010) 9 SCR 772.pdf]]

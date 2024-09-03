@@ -49,4 +49,4 @@ See also:
 [[Constitution - Article 19]]
 
 PDF:
-![[V Subramaniam vs Rajesh Raghuvandra Rao, (2009) 4 SCR 942.pdf]]
+[[V Subramaniam vs Rajesh Raghuvandra Rao, (2009) 4 SCR 942.pdf]]

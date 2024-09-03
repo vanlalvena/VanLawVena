@@ -10,9 +10,9 @@ Judges are also public servants. A Judge should always remember that he is there
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section

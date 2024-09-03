@@ -23,4 +23,4 @@ See also:
 [[IPC - Section 498A]]
 
 PDF:
-![[Chhatter Pal vs State, 2023-DHC-3396.pdf]]
+[[Chhatter Pal vs State, 2023-DHC-3396.pdf]]

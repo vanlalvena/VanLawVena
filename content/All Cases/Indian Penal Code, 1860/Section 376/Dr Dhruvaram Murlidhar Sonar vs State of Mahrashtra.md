@@ -52,4 +52,4 @@ See also:
 [[SCST - Section 3]]
 
 PDF:
-![[Dr Dhruvaram Murlidhar Sonar vs State of Mahrashtra, (2018) 13 SCR 920.pdf]]
+[[Dr Dhruvaram Murlidhar Sonar vs State of Mahrashtra, (2018) 13 SCR 920.pdf]]

@@ -24,4 +24,4 @@ See also:
 [[CrPC - Section 284]]
 [[Evidence - Section 33]]
 
-![[State of Maharashtra vs Dr Praful B Desai, (2003) 3 SCR 244.pdf]]
+[[State of Maharashtra vs Dr Praful B Desai, (2003) 3 SCR 244.pdf]]

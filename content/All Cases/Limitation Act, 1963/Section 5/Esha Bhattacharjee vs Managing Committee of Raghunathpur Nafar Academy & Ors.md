@@ -29,4 +29,4 @@ See also:
 [[Limitation - Section 5]]
 
 PDF:
-![[Esha Bhattacharjee vs Managing Committee of Raghunathpur, (2013) 9 SCR 892.pdf]]
+[[Esha Bhattacharjee vs Managing Committee of Raghunathpur, (2013) 9 SCR 892.pdf]]

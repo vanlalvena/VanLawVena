@@ -23,4 +23,4 @@ See also:
 [[CPC - Order VII rule 10]]
 [[CPC - Order VII rule 11]]
 
-PDF:![[Saroj Salkan vs Capt. Sanjeev Singh, FAO(OS) 239-2007 (Del HC-DB).pdf]]
+PDF:[[Saroj Salkan vs Capt. Sanjeev Singh, FAO(OS) 239-2007 (Del HC-DB).pdf]]

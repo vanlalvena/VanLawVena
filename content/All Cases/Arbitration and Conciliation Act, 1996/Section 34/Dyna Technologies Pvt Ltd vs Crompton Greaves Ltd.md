@@ -51,4 +51,4 @@ See also:
 [[Contracts - Section 73]]
 
 PDF:
-![[Dyna Technologies vs Crompton Greaves, (2019) 1 SCR 295.pdf]]
+[[Dyna Technologies vs Crompton Greaves, (2019) 1 SCR 295.pdf]]

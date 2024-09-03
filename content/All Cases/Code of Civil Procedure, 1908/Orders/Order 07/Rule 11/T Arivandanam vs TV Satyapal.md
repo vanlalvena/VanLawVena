@@ -19,4 +19,4 @@ See also:
 [[CPC - Order X rule 2]]
 [[CPC - Order VII rule 11]]
 
-PDF: ![[T Arivandanam vs TV Satyapal, (1978) 1 SCR 742.pdf]]
+PDF: [[T Arivandanam vs TV Satyapal, (1978) 1 SCR 742.pdf]]

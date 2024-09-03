@@ -11,12 +11,12 @@ Meaning of mental cruelty #incomplete
 Irretrievable breakdown of marriage
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[V Bhagat vs D Bhagat, (1994) 1 SCC 337.pdf]]
+[[V Bhagat vs D Bhagat, (1994) 1 SCC 337.pdf]]

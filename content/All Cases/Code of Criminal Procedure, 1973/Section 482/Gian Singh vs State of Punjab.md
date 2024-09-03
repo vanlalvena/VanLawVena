@@ -12,11 +12,11 @@ Quashing consent compromise compounding
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC, Section 320]]
 
 PDF:
-![[Gian Singh vs State of Punjab, (2012) 8 SCR 753.pdf]]
+[[Gian Singh vs State of Punjab, (2012) 8 SCR 753.pdf]]

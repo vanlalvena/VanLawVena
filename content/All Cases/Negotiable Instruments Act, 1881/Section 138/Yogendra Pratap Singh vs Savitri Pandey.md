@@ -29,4 +29,4 @@ See also:
 [[CrPC - Section 190]]
 
 PDF:
-![[Yogendra Pratap Singh vs Savitri Pandey, (2014) 12 SCR 26.pdf]]
+[[Yogendra Pratap Singh vs Savitri Pandey, (2014) 12 SCR 26.pdf]]

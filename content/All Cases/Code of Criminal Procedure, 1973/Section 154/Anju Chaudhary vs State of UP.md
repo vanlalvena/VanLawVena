@@ -59,6 +59,6 @@ See also:
 [[CrPC - Section 220]] 
 
 PDF:
-![[Anju Chaudhary vs State of UP, (2012) 13 SCR 901.pdf]]
+[[Anju Chaudhary vs State of UP, (2012) 13 SCR 901.pdf]]
 
 Web Link: <a href="/All judgments/Anju Chaudhary vs State of UP, (2012) 13 SCR 901.pdf" target="_blank">URL of judgment</a>

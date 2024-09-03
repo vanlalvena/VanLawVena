@@ -11,12 +11,12 @@ Power under section 319 CrPC has to be exercised ***before pronouncement of sent
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Sukhpal Singh Khaira vs State of Punjab,Crl A 885-2019 (SC).pdf]]
+[[Sukhpal Singh Khaira vs State of Punjab,Crl A 885-2019 (SC).pdf]]

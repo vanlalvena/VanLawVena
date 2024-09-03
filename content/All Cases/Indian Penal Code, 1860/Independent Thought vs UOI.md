@@ -12,12 +12,12 @@ Date: 11.10.2017
 Exception to rape does not apply to minors under 18 - (**Paras 87-89**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Independent Thought vs UOI, (2017) 13 SCR 281.pdf]]
+[[Independent Thought vs UOI, (2017) 13 SCR 281.pdf]]

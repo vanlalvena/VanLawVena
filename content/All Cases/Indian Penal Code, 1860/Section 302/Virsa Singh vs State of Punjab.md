@@ -11,10 +11,10 @@ There is a two-fold test: (**Page 1501**)
 	The injury must be sufficient in the ordinary course of nature to cause death
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[IPC, Section 300]]
 
-![[Virsa Singh vs State of Punjab, (1958) 1 SCR 1495.pdf]]
+[[Virsa Singh vs State of Punjab, (1958) 1 SCR 1495.pdf]]

@@ -60,6 +60,6 @@ See also:
 
 
 PDF:
-![[Arjun Singh vs Mohindra Kumar, (1964) 5 SCR 946.pdf]]
+[[Arjun Singh vs Mohindra Kumar, (1964) 5 SCR 946.pdf]]
 
 Web Link: <a href="/All judgments/Arjun Singh vs Mohindra Kumar, (1964) 5 SCR 946.pdf" target="_blank">URL of judgment</a>

@@ -14,12 +14,12 @@ When the company is the offender, vicarious liability cannot be imputed automati
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Sunil Bharti Mittal vs CBI, (2015) 1 SCR 377.pdf]]
+[[Sunil Bharti Mittal vs CBI, (2015) 1 SCR 377.pdf]]

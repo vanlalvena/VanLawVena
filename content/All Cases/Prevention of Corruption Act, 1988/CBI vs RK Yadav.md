@@ -36,4 +36,4 @@ See also:
 [[Constitution - Article 226]]
 
 PDF:
-![[CBI vs RK Yadav, CBI vs AS Narayana Rao, WP Crl 903-2013, 1540-2014 (Del HC).pdf]]
+[[CBI vs RK Yadav, CBI vs AS Narayana Rao, WP Crl 903-2013, 1540-2014 (Del HC).pdf]]

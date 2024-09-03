@@ -49,4 +49,4 @@ See also:
 [[CPC - Section 11]]
 
 PDF:
-![[Kamaljeet Bajwa vs GNCTD, 2023-DHC-4946-DB.pdf]]
+[[Kamaljeet Bajwa vs GNCTD, 2023-DHC-4946-DB.pdf]]

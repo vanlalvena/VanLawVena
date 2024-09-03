@@ -42,7 +42,7 @@ Compulsory retirement on first pregnancy unreasonable and manifestly arbitrary #
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -52,6 +52,6 @@ See also:
 [[Evidence, Section 115]]
 
 PDF:
-![[Air India vs Nergesh Meerza, (1982) 1 SCR 438.pdf]]
+[[Air India vs Nergesh Meerza, (1982) 1 SCR 438.pdf]]
 
 Web Link: <a href="/All judgments/Air India vs Nergesh Meerza, (1982) 1 SCR 438.pdf" target="_blank">URL of judgment</a>

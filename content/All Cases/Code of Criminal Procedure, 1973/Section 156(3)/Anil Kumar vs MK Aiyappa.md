@@ -46,13 +46,13 @@ The order must show the following:
 Application of mind - 156(3)/200 Cr.P.C.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 CrPC - [[CrPC - Section 156(3)]]
 
 PDF:
-![[Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf]]
+[[Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf]]
 
 Web Link: <a href="/All judgments/Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf" target="_blank">URL of judgment</a>

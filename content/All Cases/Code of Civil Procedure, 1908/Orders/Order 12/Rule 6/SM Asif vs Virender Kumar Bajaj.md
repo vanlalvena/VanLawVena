@@ -10,11 +10,11 @@ The word used in [[CPC - Order XII rule 6]] is “may”, which shows that **thi
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CPC - Section 151]]
 
 PDF:
-![[SM Asif vs Virender Kumar Bajaj, (2015) 9 SCR 179.pdf]]
+[[SM Asif vs Virender Kumar Bajaj, (2015) 9 SCR 179.pdf]]

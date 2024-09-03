@@ -10,11 +10,11 @@ Once a document has  been admitted in evidence, such admission cannot be called 
 	Objection as to admissibility of a document on the ground of sufficiency of stamp, has to raised when the document is tendered in evidence.  Thereafter, it is not open to the parties, or even the court to re-examine the order or issue.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Shyamal Kumar Roy vs Sushil Kumar Agarwa, (2006) Supp 8 SCR 47.pdf]]
+[[Shyamal Kumar Roy vs Sushil Kumar Agarwa, (2006) Supp 8 SCR 47.pdf]]

@@ -26,4 +26,4 @@ See also:
 [[Constitution - Article 21]]
 
 PDF:
-![[Amitbhai Anilchandra Shah vs CBI, (2013) 6 SCR 623.pdf]]
+[[Amitbhai Anilchandra Shah vs CBI, (2013) 6 SCR 623.pdf]]

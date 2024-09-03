@@ -15,4 +15,4 @@ See also:
 [[CPC - Section 96]] 
 
 PDF:
-![[Saurav Jain vs ABP Design, CA 4448-2021 (SC).pdf]]
+[[Saurav Jain vs ABP Design, CA 4448-2021 (SC).pdf]]

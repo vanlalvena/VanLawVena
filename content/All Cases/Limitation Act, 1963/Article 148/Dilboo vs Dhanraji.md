@@ -47,6 +47,6 @@ See also:
 [[Limitation - Article 134]] 
 
 PDF: 
-![[Dilboo vs Dhanraji, (2000) Supp 3 SCR 214.pdf]]
+[[Dilboo vs Dhanraji, (2000) Supp 3 SCR 214.pdf]]
 	
 Web Link: <a href="/All judgments/Dilboo vs Dhanraji, (2000) Supp 3 SCR 214.pdf" target="_blank">URL of judgment</a>

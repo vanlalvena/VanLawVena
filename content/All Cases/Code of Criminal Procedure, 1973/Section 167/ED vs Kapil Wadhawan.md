@@ -35,4 +35,4 @@ See also:
 [[Constitution - Article 21]]
 
 PDF:
-![[ED vs Kapil Wadhawan, Crl A 701-2020 (SC).pdf]]
+[[ED vs Kapil Wadhawan, Crl A 701-2020 (SC).pdf]]

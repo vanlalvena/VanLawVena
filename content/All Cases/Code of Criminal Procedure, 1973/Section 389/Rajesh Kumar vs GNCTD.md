@@ -23,4 +23,4 @@ See also:
 [[CrPC - Section 432]] 
 
 PDF:
-![[Rajesh Kumar vs Govt of NCT of Delhi, 2011-DHC-6539-DB, WP C 5128-2011.pdf]]
+[[Rajesh Kumar vs Govt of NCT of Delhi, 2011-DHC-6539-DB, WP C 5128-2011.pdf]]

@@ -12,7 +12,7 @@ However, a fact is proved only when the special court believes it to exist beyon
 Sexual Intent is a question of fact
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -23,4 +23,4 @@ See also:
 [[POCSO - Section 30]]
 
 PDF:
-![[Attorney General of India vs Satish, (2021) 10 SCR 955.pdf]]
+[[Attorney General of India vs Satish, (2021) 10 SCR 955.pdf]]

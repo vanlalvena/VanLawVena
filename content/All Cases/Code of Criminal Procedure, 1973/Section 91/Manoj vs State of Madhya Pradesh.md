@@ -20,4 +20,4 @@ See also:
 [[IPC - Section 302]]
 
 PDF:
-![[Manoj vs State of Madhya Pradesh, (2023) 2 SCC 353.pdf]]
+[[Manoj vs State of Madhya Pradesh, (2023) 2 SCC 353.pdf]]

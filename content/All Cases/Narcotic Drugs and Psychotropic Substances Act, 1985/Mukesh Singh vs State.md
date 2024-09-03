@@ -13,12 +13,12 @@ Where the informant himself is the investigator, that itself will not vitiate th
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Mukesh Singh vs State, (2020) 9 SCR 245.pdf]]
+[[Mukesh Singh vs State, (2020) 9 SCR 245.pdf]]

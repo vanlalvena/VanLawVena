@@ -13,7 +13,7 @@ Refer also:
 [[New India Assurance Co Ltd vs Krishna Kumar Pandey]]
 
 See also:
-[[]] 
+ 
 
 PDF:
-![[Rajender Singh Thakur vs State, Crl Rev P 155-2022 (Del HC).pdf]]
+[[Rajender Singh Thakur vs State, Crl Rev P 155-2022 (Del HC).pdf]]

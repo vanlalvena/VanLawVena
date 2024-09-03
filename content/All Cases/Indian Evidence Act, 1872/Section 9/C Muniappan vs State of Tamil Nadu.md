@@ -24,7 +24,7 @@ Death penalty upheld; case where during demonstration, appellants burnt a bus of
 	Unprovoked act; emotional depravity; no mitigating circumstance
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -32,4 +32,4 @@ See also:
 [[Evidence - Section 154]]
 
 PDF:
-![[C Muniappan vs State of Tamil Nadu, (2010) 10 SCR 262.pdf]]
+[[C Muniappan vs State of Tamil Nadu, (2010) 10 SCR 262.pdf]]

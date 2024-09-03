@@ -65,4 +65,4 @@ See also:
 [[IRWP - Section 6]]
 
 
-![[S Khushboo vs Kanniammal, (2010) 5 SCR 322.pdf]]
+[[S Khushboo vs Kanniammal, (2010) 5 SCR 322.pdf]]

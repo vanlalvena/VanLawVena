@@ -9,7 +9,7 @@ Date: 21.08.2014
 Mortgagor has right to redeem mortgage at any point of time
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -17,4 +17,4 @@ See also:
 [[ToPA - Section 62]] 
 [[Limitation - Article 61 ]]
 
-![[Singh Ram vs Sheo Ram, (2014) 14 SCR 1412.pdf]]
+[[Singh Ram vs Sheo Ram, (2014) 14 SCR 1412.pdf]]

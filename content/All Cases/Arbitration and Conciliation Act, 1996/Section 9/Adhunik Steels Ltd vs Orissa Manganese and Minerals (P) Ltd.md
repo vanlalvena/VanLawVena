@@ -27,7 +27,7 @@ When a power is conferred by a special statute without laying down any special c
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -40,6 +40,6 @@ See also:
 
 
 PDF:
-![[Adhunik Steels Ltd vs Orissa Manganese and Minerals (P) Ltd, (2007) 8 SCR 213.pdf]]
+[[Adhunik Steels Ltd vs Orissa Manganese and Minerals (P) Ltd, (2007) 8 SCR 213.pdf]]
 
 Web Link: <a href="/All judgments/Adhunik Steels Ltd vs Orissa Manganese and Minerals (P) Ltd, (2007) 8 SCR 213" target="_blank">URL of judgment</a>

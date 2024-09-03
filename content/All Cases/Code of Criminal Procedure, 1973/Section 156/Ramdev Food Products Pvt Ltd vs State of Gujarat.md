@@ -43,4 +43,4 @@ See also:
 [[CrPC - Section 156#Section 156(3)]]
 Act, Section
 
-![[Ramdev Food Products Pvt Ltd vs State of Gujarat, (2015) 5 SCR 283.pdf]]
+[[Ramdev Food Products Pvt Ltd vs State of Gujarat, (2015) 5 SCR 283.pdf]]

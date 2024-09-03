@@ -12,12 +12,12 @@ Inter-caste marriage
 Honour killing
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Lata Singh vs State of UP, (2006) Supp 3 SCR 350.pdf]]
+[[Lata Singh vs State of UP, (2006) Supp 3 SCR 350.pdf]]

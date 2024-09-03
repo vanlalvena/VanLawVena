@@ -16,4 +16,4 @@ See also:
 [[NI Act - Section 138]] 
 
 PDF:
-![[ANSS Rajashekar vs Augustus Jeba Ananth, (2019) 1 SCR 731.pdf]]
+[[ANSS Rajashekar vs Augustus Jeba Ananth, (2019) 1 SCR 731.pdf]]

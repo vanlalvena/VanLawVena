@@ -54,6 +54,6 @@ See also:
 [[Limitation]]
 
 PDF:
-![[Brahamapal vs National Insurance Company, (2020) 9 SCR 504.pdf]]
+[[Brahamapal vs National Insurance Company, (2020) 9 SCR 504.pdf]]
 
 Web Link: <a href="/All judgments/Brahamapal vs National Insurance Company, (2020) 9 SCR 504.pdf" target="_blank">URL of judgment</a>

@@ -66,6 +66,6 @@ See also:
 [[Constitution - Article 340]]
 
 PDF:
-![[Indra Sawhney vs Union of India, (1992) Supp 2 SCR 454.pdf]]
+[[Indra Sawhney vs Union of India, (1992) Supp 2 SCR 454.pdf]]
 
 Web Link: <a href="/All judgments/Indra Sawhney vs Union of India, (1992) Supp 2 SCR 454.pdf" target="_blank">URL of judgment</a>

@@ -43,14 +43,14 @@ Section 18 is only preliminary assessment.  The order under section 18(3) is not
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Ajeet Gurjar vs State of Madhya Pradesh, 2023 INSC 875.pdf]]
+[[Ajeet Gurjar vs State of Madhya Pradesh, 2023 INSC 875.pdf]]
 
 Web Link: <a href="/All judgments/Ajeet Gurjar vs State of Madhya Pradesh, 2023 INSC 875.pdf" target="_blank">URL of judgment</a>

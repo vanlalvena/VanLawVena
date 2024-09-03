@@ -42,7 +42,7 @@ Date: 02.03.2023
 Rule of law
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -53,5 +53,5 @@ See also:
 [[Constitution - Article 142]]
 
 
-PDF: ![[Anoop Baranwal vs UOI, (2023) 9 SCR 1.pdf]]
+PDF: [[Anoop Baranwal vs UOI, (2023) 9 SCR 1.pdf]]
 	Web Link: <a href="/All judgments/Anoop Baranwal vs UOI, (2023) 9 SCR 1.pdf" target="_blank">URL of judgment</a>

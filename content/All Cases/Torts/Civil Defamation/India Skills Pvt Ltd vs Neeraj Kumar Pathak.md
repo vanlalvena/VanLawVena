@@ -12,7 +12,7 @@ Truth is an absolute defence in civil defamation.
 Even though the defendant does not file written statement or cross-examine witness, the burden of proving the case lies on the plaintiff (**Para 47**). It is only then does the onus shift on the defendant.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -20,4 +20,4 @@ See also:
 [[Evidence - Section 102]] 
 
 PDF:
-![[India Skills Pvt Ltd vs Neeraj Kumar Pathak and Manoj Kumar, 2023-DHC-3846-DB.pdf]]
+[[India Skills Pvt Ltd vs Neeraj Kumar Pathak and Manoj Kumar, 2023-DHC-3846-DB.pdf]]

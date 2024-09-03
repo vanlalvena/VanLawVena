@@ -14,7 +14,7 @@ Once a notification has been published under 507(a) of DMC Act, the provisions o
 Once urbanised, Gaon Sabha will be dissolved (**Para 27**)
 
 Refer also:       
-[[]]
+
 
 See also:
 [[Delhi Land Revenue - Section 1]]
@@ -26,6 +26,6 @@ See also:
 
 PDF:
 
-![[Mohinder Singh vs Narain Singh, (2023) 2 SCR 256.pdf]]
+[[Mohinder Singh vs Narain Singh, (2023) 2 SCR 256.pdf]]
 
-![[Mohinder Singh vs Narain Singh, CA 3828-2017.pdf]]
+[[Mohinder Singh vs Narain Singh, CA 3828-2017.pdf]]

@@ -11,12 +11,12 @@ Magistrate cannot specify investigation to be conducted by a particular officer.
 	Magistrate cannot suggest rank of officer who is to conduct the investigation 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Hemant Dhasmana vs CBI, (2001) Supp 1 SCR 646.pdf]]
+[[Hemant Dhasmana vs CBI, (2001) Supp 1 SCR 646.pdf]]

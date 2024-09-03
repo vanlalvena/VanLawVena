@@ -10,10 +10,10 @@ Quashing FIR , Citizen’s right to criticise government #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 19#Article 19(2)]] 
 
-![[Vinod Dua vs Union of India, (2021) 12 SCR 1071.pdf]]
+[[Vinod Dua vs Union of India, (2021) 12 SCR 1071.pdf]]

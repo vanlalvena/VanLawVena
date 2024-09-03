@@ -15,11 +15,11 @@ The offence alleged in this case was of (**Page 842, at B**)
 When the act of manufacturing is an offence, and the marketing thereof is *also* an offence; being so inter-connected as to cause and effect, both can be tried at either location (place of manufacture OR place of marketing) **(**Page 843, G-H; 844 A**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC - Section 179]] 
 
 PDF:
-![[State of Punjab vs Nohar Chand, (1984) 3 SCR 839.pdf]]
+[[State of Punjab vs Nohar Chand, (1984) 3 SCR 839.pdf]]

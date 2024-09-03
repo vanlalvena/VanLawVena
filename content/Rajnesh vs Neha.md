@@ -19,11 +19,11 @@ An order or decree of maintenance may be enforced under [[HMA - Section 28A]], [
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Rajnesh vs Neha, (2020) 13 SCR 1093.pdf]]
+[[Rajnesh vs Neha, (2020) 13 SCR 1093.pdf]]

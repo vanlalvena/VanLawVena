@@ -53,8 +53,8 @@ See also:
 [[CrPC - Section 437]]
 
 PDF:
-![[Satender Kumar Antil vs CBI, MA 1849-2021 in SLP Crl 5191-2021 (SC).pdf]]
+[[Satender Kumar Antil vs CBI, MA 1849-2021 in SLP Crl 5191-2021 (SC).pdf]]
 
-![[Satender Kumar Antil vs CBI, (2022) 10 SCR 351.pdf]]
+[[Satender Kumar Antil vs CBI, (2022) 10 SCR 351.pdf]]
 
-![[Satender Kumar Antil vs CBI, (2022) 10 SCC 51.pdf]]
+[[Satender Kumar Antil vs CBI, (2022) 10 SCC 51.pdf]]

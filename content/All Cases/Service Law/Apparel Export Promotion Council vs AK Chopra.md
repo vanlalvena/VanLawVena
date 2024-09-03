@@ -55,6 +55,6 @@ See also:
 [[Constitution - Article 226]]
 
 PDF:
-![[Apparel Export Promotion Council vs AK Chopra, (1999) 1 SCR 117.pdf]]
+[[Apparel Export Promotion Council vs AK Chopra, (1999) 1 SCR 117.pdf]]
 
 Web Link: <a href="/All judgments/Apparel Export Promotion Council vs AK Chopra, (1999) 1 SCR 117.pdf" target="_blank">URL of judgment</a>

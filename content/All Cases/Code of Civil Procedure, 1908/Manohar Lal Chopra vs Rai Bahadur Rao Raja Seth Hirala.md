@@ -11,7 +11,7 @@ Courts have inherent jurisdiction to issue temporary injunctions in circumstance
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -25,4 +25,4 @@ See also:
 [[CPC - Section 151]]
 
 PDF:
-![[Manohar Lal Chopra vs Rai Bahadur Rao Raja Seth Hirala, (1962) Supp 1 SCR 450.pdf]]
+[[Manohar Lal Chopra vs Rai Bahadur Rao Raja Seth Hirala, (1962) Supp 1 SCR 450.pdf]]

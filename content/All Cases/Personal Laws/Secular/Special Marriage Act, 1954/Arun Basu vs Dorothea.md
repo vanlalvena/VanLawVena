@@ -15,8 +15,8 @@ Refer also:
 
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Arun Basu vs Dorothea, (1983) 3 SCR 516.pdf]]
+[[Arun Basu vs Dorothea, (1983) 3 SCR 516.pdf]]

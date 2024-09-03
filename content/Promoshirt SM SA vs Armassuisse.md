@@ -11,7 +11,7 @@ LPA is not barred by Section 100A CPC #incomplete
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -19,4 +19,4 @@ See also:
 [[TM 1958 - Section 109(5)]]
 
 PDF:
-![[Promoshirt SM SA vs Armassuisse, 2023-DHC-6532-DB.pdf]]
+[[Promoshirt SM SA vs Armassuisse, 2023-DHC-6532-DB.pdf]]

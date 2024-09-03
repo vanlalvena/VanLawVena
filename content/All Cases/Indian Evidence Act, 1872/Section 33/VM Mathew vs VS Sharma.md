@@ -33,6 +33,6 @@ Refer also:
 	{*on first proviso*} Mere opportunity to cross-examine is not sufficient, *there must be a right to do so*. 
 
 See also:
-[[]] 
+ 
 
-![[VM Mathew vs VS Sharma, (1995) Supp (3) SCR 131.pdf]]
+[[VM Mathew vs VS Sharma, (1995) Supp (3) SCR 131.pdf]]

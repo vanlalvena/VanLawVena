@@ -63,6 +63,6 @@ See also:
 [[Arbitration, 1940 - Section 20(4)]]
 
 PDF:
-![[Avitel Post Studioz vs HSBC PI Holdings, (2020) 10 SCR 791.pdf]]
+[[Avitel Post Studioz vs HSBC PI Holdings, (2020) 10 SCR 791.pdf]]
 
 Web Link: <a href="/All judgments/Avitel Post Studioz vs HSBC PI Holdings, (2020) 10 SCR 791.pdf" target="_blank">URL of judgment</a>

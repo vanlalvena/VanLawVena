@@ -11,11 +11,11 @@ Res judicata
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Jamia Masjid vs Sri KV Rudrappa, (2021) 11 SCR 672.pdf]]
+[[Jamia Masjid vs Sri KV Rudrappa, (2021) 11 SCR 672.pdf]]

@@ -12,12 +12,12 @@ Panel, list of arbitrators
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Voestalpine Schienen GmbH vs DMRC, (2017) 4 SCC 665.pdf]]
+[[Voestalpine Schienen GmbH vs DMRC, (2017) 4 SCC 665.pdf]]

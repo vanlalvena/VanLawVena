@@ -11,7 +11,7 @@ Inordinate, unexplained and negligent delay in pronouncement of judgment infring
 Pronouncement in criminal matters should not be stretched beyond six weeks; and in civil cases, beyond two months (**Page 308, C-E**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -24,4 +24,4 @@ See also:
 [[IPC - Section 302]]
 
 PDF:
-![[Anil Rai vs State of Bihar, (2001) Supp 1 SCR 298.pdf]]
+[[Anil Rai vs State of Bihar, (2001) Supp 1 SCR 298.pdf]]

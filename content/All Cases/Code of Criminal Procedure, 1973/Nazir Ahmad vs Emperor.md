@@ -20,4 +20,4 @@ See also:
 [[Evidence - Section 80]]
 
 PDF:
-![[Nazir Ahmad vs King Emperor, 1936 OWN 505.pdf]]
+[[Nazir Ahmad vs King Emperor, 1936 OWN 505.pdf]]

@@ -12,12 +12,12 @@ Date: 25.01.2023
 Gudelines for termination of pregnancy when minor victim of sexual assault and pregnancy of more than 24 weeks
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Minor R Thr Mother H vs State NCT Delhi, 2023-DHC-570.pdf]]
+[[Minor R Thr Mother H vs State NCT Delhi, 2023-DHC-570.pdf]]

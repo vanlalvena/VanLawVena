@@ -14,7 +14,7 @@ Merely being a director is not sufficient to make the person liable under [[NI A
 However, with respect to the Managing Director or Joint Managing Director, they can be proceeded against even in the absence of a specific averment since they would clearly be responsible for the incriminating act. So also for the signatory of a dishonoured cheque (**Page 387,B-D**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 Act, Section
 
 PDF:
-![[SMS Pharmaceuticals Ltd vs Neeta Bhalla, (2005) Supp 3 SCR 371.pdf]]
+[[SMS Pharmaceuticals Ltd vs Neeta Bhalla, (2005) Supp 3 SCR 371.pdf]]

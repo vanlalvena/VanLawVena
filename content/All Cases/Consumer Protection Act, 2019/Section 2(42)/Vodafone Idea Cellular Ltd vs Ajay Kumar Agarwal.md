@@ -16,7 +16,7 @@ Statutory remedy of arbitration *does not oust* jurisdiction of consumer forum (
 Remedies in [[Consumer Protection, 1986 - Section 3]] are *in addition* to remedies available in other statutes
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -25,4 +25,4 @@ See also:
 
 
 PDF:
-![[Vodafone Idea Cellular Ltd vs Ajay Kumar Agarwal, (2022) 2 SCR 748.pdf]]
+[[Vodafone Idea Cellular Ltd vs Ajay Kumar Agarwal, (2022) 2 SCR 748.pdf]]

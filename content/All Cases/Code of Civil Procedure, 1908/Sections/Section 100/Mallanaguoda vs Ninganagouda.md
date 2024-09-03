@@ -12,4 +12,4 @@ See also:
 [[CPC - Order XLI rule 27]] 
 
 PDF:
-![[Mallanaguoda vs Ninganagouda, CA 805-2021 (SC).pdf]]
+[[Mallanaguoda vs Ninganagouda, CA 805-2021 (SC).pdf]]

@@ -14,7 +14,7 @@ Co-accused released on bail, did not surrender
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 [[NDPS - Section 20]]
 
 PDF:
-![[Sebil Elanjimpally vs The State of Odisha, Crl A 1578-2023 (SC).pdf]]
+[[Sebil Elanjimpally vs The State of Odisha, Crl A 1578-2023 (SC).pdf]]

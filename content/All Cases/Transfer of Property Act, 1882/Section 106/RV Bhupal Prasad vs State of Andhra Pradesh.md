@@ -15,7 +15,7 @@ Meaning of lawful possession (**Page 666, second para**)
 Difference between legal and lawful (**Page 667, E**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -24,4 +24,4 @@ See also:
 [[ToPA, Section 116]]
 
 PDF:
-![[RV Bhupal Prasad vs State of Andhra Pradesh, (1995) Supp 2 SCR 658.pdf]]
+[[RV Bhupal Prasad vs State of Andhra Pradesh, (1995) Supp 2 SCR 658.pdf]]

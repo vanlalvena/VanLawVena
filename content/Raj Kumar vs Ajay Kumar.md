@@ -27,7 +27,7 @@ The tribunal is *an active explorer and seeker of truth* to determine what is **
 Doctors should be called at fixed time (**Para 23**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -35,4 +35,4 @@ See also:
 [[MV Act - Section 169]]
 
 PDF:
-![[Raj Kumar vs Ajay Kumar, (2011) 1 SCC 343.pdf]]
+[[Raj Kumar vs Ajay Kumar, (2011) 1 SCC 343.pdf]]

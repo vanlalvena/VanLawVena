@@ -12,12 +12,12 @@ Once there is a written agreement, settling the disputes which are subject matte
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Rohit Kumar vs Sunil Tyagi, O Ref 1-2016 (Del HC).pdf]]
+[[Rohit Kumar vs Sunil Tyagi, O Ref 1-2016 (Del HC).pdf]]

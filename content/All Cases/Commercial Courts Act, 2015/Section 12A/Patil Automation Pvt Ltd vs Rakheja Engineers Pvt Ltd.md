@@ -12,7 +12,7 @@ Also on prospective over-ruling.
 A suit (***where no urgent relief is sought***) instituted without complying section 12A, must be visited with rejection of plaint and this *power can be exercised suo motu*
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -39,10 +39,10 @@ See also:
 [[Constitution - Article 142]]
 
 PDF-SCC: 
-![[Patil Automation (P) Ltd vs Rakheja Engineers (P) Ltd, (2022) 10 SCC 1.pdf]]
+[[Patil Automation (P) Ltd vs Rakheja Engineers (P) Ltd, (2022) 10 SCC 1.pdf]]
 
 PDF-SCR : 
-![[Patil Automation Pvt Ltd vs Rakheja Engineers Pvt Ltd, (2022) 11 SCR 808.pdf]]
+[[Patil Automation Pvt Ltd vs Rakheja Engineers Pvt Ltd, (2022) 11 SCR 808.pdf]]
 
 PDF:
-![[Patil Automation Pvt Ltd vs Rakheja Engineers Pvt Ltd, SLP C 14697-2021 (SC).pdf]]
+[[Patil Automation Pvt Ltd vs Rakheja Engineers Pvt Ltd, SLP C 14697-2021 (SC).pdf]]

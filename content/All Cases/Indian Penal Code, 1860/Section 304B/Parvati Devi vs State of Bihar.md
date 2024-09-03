@@ -21,7 +21,7 @@ Refer also:
 	[[GV Siddaramesh vs State of Karnataka]], (2010) 3 SCC 152 and [[Ashok Kumar vs State of Haryana]], (2010) 12 SCC 350
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Parvati Devi vs State of Bihar, (2021) 9 SCR 711.pdf]]
+[[Parvati Devi vs State of Bihar, (2021) 9 SCR 711.pdf]]

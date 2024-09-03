@@ -11,7 +11,7 @@ Immediately as and when any speech or action takes place which attracts 153A, 15
 Action is to be taken irrespective of religion of (i) maker of speech or (ii) person who commits such act.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -20,4 +20,4 @@ See also:
 [[IPC - Section 505]]
 
 PDF:
-![[Shaheen Abdulla vs UOI, WP C 940-2022 (Order dtd 21.10.2022).pdf]]
+[[Shaheen Abdulla vs UOI, WP C 940-2022 (Order dtd 21.10.2022).pdf]]

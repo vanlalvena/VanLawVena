@@ -12,7 +12,7 @@ Bail when trial is unlikely to conclude
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -21,4 +21,4 @@ See also:
 [[NDPS - Section 37]]
 
 PDF:
-![[UoI vs. KA Najeeb, (2021) 3 SCC 713.pdf]]
+[[UoI vs. KA Najeeb, (2021) 3 SCC 713.pdf]]

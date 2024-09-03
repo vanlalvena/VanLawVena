@@ -14,15 +14,15 @@ Consultation means concurrence.
 Opinion has to be of the CJI and the senior-most judges
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Supreme Court Advocates-on-Record Assn. vs UOI, (1993) 4 SCC 441.pdf]]
+[[Supreme Court Advocates-on-Record Assn. vs UOI, (1993) 4 SCC 441.pdf]]
 
 PDF-SCR: 
-![[SCAORA vs UOI, (1993) Supp 2 SCR 659.pdf]]
+[[SCAORA vs UOI, (1993) Supp 2 SCR 659.pdf]]

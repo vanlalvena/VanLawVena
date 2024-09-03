@@ -22,7 +22,7 @@ Meaning of federalism, secularism
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -31,8 +31,8 @@ See also:
 
 
 PDF:
-![[SR Bommai vs UOI, (1994) 2 SCR 644.pdf]]
+[[SR Bommai vs UOI, (1994) 2 SCR 644.pdf]]
 
 
 PDF-SCC: 
-![[SR Bommai vs UOI, (1994) 3 SCC 1.pdf]]
+[[SR Bommai vs UOI, (1994) 3 SCC 1.pdf]]

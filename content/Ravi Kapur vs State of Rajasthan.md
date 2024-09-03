@@ -9,7 +9,7 @@ Date: 16.08.2012
 Rash and negligent driving has to be examined in the light of the facts and circumstances of a given case. It is a fact incapable of being construed or seen in isolation. It must be examined in the light of the attendant circumstances. (Para 10)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -18,4 +18,4 @@ See also:
 [[IPC - Section 304A]]
 [[CrPC, Section 313]]
 
-![[Ravi Kapur CS State of Rajasthan, (2012) 10 SCR 229.pdf]]
+[[Ravi Kapur CS State of Rajasthan, (2012) 10 SCR 229.pdf]]

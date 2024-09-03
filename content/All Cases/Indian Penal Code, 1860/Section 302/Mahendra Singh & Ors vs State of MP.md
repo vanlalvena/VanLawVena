@@ -10,7 +10,7 @@ Motive alone is not sufficient to sustain conviction.
 Defence witnesses are to be given the same treatment as prosecution witnesses.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:

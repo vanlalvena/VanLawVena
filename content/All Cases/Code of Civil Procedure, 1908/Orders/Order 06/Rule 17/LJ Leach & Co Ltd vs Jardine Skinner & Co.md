@@ -18,4 +18,4 @@ Refer also:
 See also:
 [[CPC - Order VI rule 17]]
 
-![[LJ Leach vs Jardine Skinner, 1957 SCR 438.pdf]]
+[[LJ Leach vs Jardine Skinner, 1957 SCR 438.pdf]]

@@ -23,4 +23,4 @@ See also:
 [[Constitution - Article 342]] 
 
 PDF:
-![[Jayashree vs Director Collegiate Education, (2022) 2 SCR 734.pdf]]
+[[Jayashree vs Director Collegiate Education, (2022) 2 SCR 734.pdf]]

@@ -50,6 +50,6 @@ See also: [[Commercial Courts Act - Section 2]]
 
 
 PDF:
-![[Ambalal Sarabhai Enterprises Ltd vs KS Infraspace LLP, (2019) 13 SCR 605.pdf]]
+[[Ambalal Sarabhai Enterprises Ltd vs KS Infraspace LLP, (2019) 13 SCR 605.pdf]]
 
 Web Link: <a href="/All judgments/Ambalal Sarabhai Enterprises Ltd vs KS Infraspace LLP, (2019) 13 SCR 605.pdf" target="_blank">URL of judgment</a>

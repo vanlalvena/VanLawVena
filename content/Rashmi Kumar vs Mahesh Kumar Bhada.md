@@ -30,7 +30,7 @@ Court should be circumspect in exercising inherent powers.
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -41,4 +41,4 @@ See also:
 
 
 PDF:
-![[Rashmi Kumar vs Mahesh Kumar Bhada, (1997) 2 SCC 397.pdf]]
+[[Rashmi Kumar vs Mahesh Kumar Bhada, (1997) 2 SCC 397.pdf]]

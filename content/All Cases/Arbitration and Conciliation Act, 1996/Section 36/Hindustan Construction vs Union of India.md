@@ -30,4 +30,4 @@ See also:
 
 
 PDF:
-![[Hindustan Construction vs Union of India, (2019) 17 SCR 331.pdf]]
+[[Hindustan Construction vs Union of India, (2019) 17 SCR 331.pdf]]

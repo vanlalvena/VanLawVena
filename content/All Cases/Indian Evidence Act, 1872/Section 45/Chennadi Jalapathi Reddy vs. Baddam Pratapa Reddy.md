@@ -10,11 +10,11 @@ It is the duty of the court to approach opinion evidence cautiously while determ
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Evidence - Section 45]]
 
 PDF:
-![[Chennadi Jalapathi Reddy vs. Baddam Pratapa Reddy , (2019) 11 SCR 739.pdf]]
+[[Chennadi Jalapathi Reddy vs. Baddam Pratapa Reddy , (2019) 11 SCR 739.pdf]]

@@ -14,12 +14,12 @@ No opportunity of being heard is required before an FIR is lodged and registered
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[SBI vs Rajesh Agarwal, CA 7300-2022 (SC).pdf]]
+[[SBI vs Rajesh Agarwal, CA 7300-2022 (SC).pdf]]

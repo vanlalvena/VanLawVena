@@ -59,6 +59,6 @@ See also:
 [[Constitution - VII Schedule - List III - Entry 44]]
 
 PDF:
-![[Govt of AP vs P Laxmi Devi, (2008) 3 SCR 330.pdf]]
+[[Govt of AP vs P Laxmi Devi, (2008) 3 SCR 330.pdf]]
 
 Web Link: <a href="/All judgments/Govt of AP vs P Laxmi Devi, (2008) 3 SCR 330.pdf" target="_blank">URL of judgment</a>

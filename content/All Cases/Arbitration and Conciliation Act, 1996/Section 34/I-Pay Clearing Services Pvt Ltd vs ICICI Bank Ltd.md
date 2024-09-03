@@ -23,4 +23,4 @@ Refer also:
 See also:
 [[A&C Act, 1996 - Section 34#Section 34(4)]]
 
-![[I Pay Clearing Services vs ICICI Bank, CA 7-2022 (SC).pdf]]
+[[I Pay Clearing Services vs ICICI Bank, CA 7-2022 (SC).pdf]]

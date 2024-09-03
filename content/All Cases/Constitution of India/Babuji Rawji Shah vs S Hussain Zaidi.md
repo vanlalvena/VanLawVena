@@ -31,4 +31,4 @@ See also:
 [[Indian Succession - Section 306]]
 
 PDF:
-![[Babuji Rawji Shah vs S Hussain Zaidi, SLP (C) 15711-2021 (SC - Order).pdf]]
+[[Babuji Rawji Shah vs S Hussain Zaidi, SLP (C) 15711-2021 (SC - Order).pdf]]

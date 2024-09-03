@@ -11,10 +11,10 @@ Meaning of election (**Para 34**)
 Courts barred from interfering in elections (**Para 35**) 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 226]] 
 
-![[State of Goa vs Fouziya Imtiaz Shaikh, (2021) 2 SCR 770.pdf]]
+[[State of Goa vs Fouziya Imtiaz Shaikh, (2021) 2 SCR 770.pdf]]

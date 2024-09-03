@@ -10,12 +10,12 @@ Date: 00.00.0000
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Joseph Shine vs UOI, (2018) 11 SCR 765.pdf]]
+[[Joseph Shine vs UOI, (2018) 11 SCR 765.pdf]]

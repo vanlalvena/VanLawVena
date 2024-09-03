@@ -11,12 +11,12 @@ Property cannot be deprived without due process #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Sukh Dutt Ratra vs State of HP, (2022) 2 SCR 1041.pdf]]
+[[Sukh Dutt Ratra vs State of HP, (2022) 2 SCR 1041.pdf]]

@@ -12,12 +12,12 @@ Principle of reading down *will not apply* ***if clear intention behind the prov
 Amending Power does not grant Parliament right to repeal or abrogate Constitution or destroy basic and essential features (**Para 17**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Minerva Mills Ltd vs Union of India, (1980) 3 SCC 625.pdf]]
+[[Minerva Mills Ltd vs Union of India, (1980) 3 SCC 625.pdf]]

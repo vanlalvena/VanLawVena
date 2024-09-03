@@ -11,15 +11,15 @@ Definition of respondent, adult male in DV proceedings
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Hiral P Harsora vs Kusum Narottamdas Harsora, (2016) 9 SCR 515.pdf]]
+[[Hiral P Harsora vs Kusum Narottamdas Harsora, (2016) 9 SCR 515.pdf]]
 
 
-![[Hiral P Harsora vs Kusum Narottamdas Harsora, (2016) 10 SCC 165.pdf]]
+[[Hiral P Harsora vs Kusum Narottamdas Harsora, (2016) 10 SCC 165.pdf]]

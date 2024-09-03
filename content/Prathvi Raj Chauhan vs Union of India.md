@@ -23,4 +23,4 @@ See also:
 [[Constitution - Article 21]]
 
 PDF:
-![[Prathvi Raj Chauhan vs Union of India, (2020) 4 SCC 727.pdf]]
+[[Prathvi Raj Chauhan vs Union of India, (2020) 4 SCC 727.pdf]]

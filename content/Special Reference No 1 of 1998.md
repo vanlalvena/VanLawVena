@@ -11,15 +11,15 @@ Third judges case #incomplete
 Collegium of 05 judges
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Special Reference No 1 of 1998, (1998) Supp 2 SCR 400.pdf]]
+[[Special Reference No 1 of 1998, (1998) Supp 2 SCR 400.pdf]]
 
 PDF-SCC: 
-![[Special Reference No. 1 of 1998, Re, (1998) 7 SCC 739.pdf]]
+[[Special Reference No. 1 of 1998, Re, (1998) 7 SCC 739.pdf]]

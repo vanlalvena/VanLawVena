@@ -15,8 +15,8 @@ Refer also:
 	Specific performance after determination of contract is impermissible
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Municipal Council, Udaipur vs Mahendra Kumar, (2008) 5 SCR 552.pdf]]
+[[Municipal Council, Udaipur vs Mahendra Kumar, (2008) 5 SCR 552.pdf]]

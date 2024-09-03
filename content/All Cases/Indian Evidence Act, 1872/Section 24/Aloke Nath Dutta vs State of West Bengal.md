@@ -11,12 +11,12 @@ Retracted confession #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Aloke Nath Dutta vs State of West Bengal, (2006) Supp 10 SCR 662.pdf]]
+[[Aloke Nath Dutta vs State of West Bengal, (2006) Supp 10 SCR 662.pdf]]

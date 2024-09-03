@@ -48,6 +48,6 @@ See also:
 [[NI Act - Section 139]]
 
 PDF:
-![[Gimpex Private Limited vs Manoj Goel, (2021) 11 SCR 432.pdf]]
+[[Gimpex Private Limited vs Manoj Goel, (2021) 11 SCR 432.pdf]]
 
 Web Link: <a href="/All judgments/Gimpex Private Limited vs Manoj Goel, (2021) 11 SCR 432.pdf" target="_blank">URL of judgment</a>

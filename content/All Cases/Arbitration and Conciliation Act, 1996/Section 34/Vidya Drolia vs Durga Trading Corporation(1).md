@@ -20,7 +20,7 @@ Bifurcation of subject matter or causes of action in suit is not permissible.
 No provision in A&C Act to compel third persons who have not exercised option to give up right to access to courts to be bound by arbitration clause.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -30,4 +30,4 @@ See also:
 [[A&C Act, 1996 - Section 11]]
 [[A&C Act, 1996 - Section 16]]
 
-![[Vidya Drolia vs Durga Trading Corporation, (2020) 11 SCR 1001 1.pdf]]
+[[Vidya Drolia vs Durga Trading Corporation, (2020) 11 SCR 1001 1.pdf]]

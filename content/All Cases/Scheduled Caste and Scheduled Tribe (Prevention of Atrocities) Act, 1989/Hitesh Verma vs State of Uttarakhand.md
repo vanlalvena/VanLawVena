@@ -22,4 +22,4 @@ See also:
 [[CrPC - Section 482]] 
 
 PDF:
-![[Hitesh Verma vs State of Uttarakhand, (2020) 9 SCR 593.pdf]]
+[[Hitesh Verma vs State of Uttarakhand, (2020) 9 SCR 593.pdf]]

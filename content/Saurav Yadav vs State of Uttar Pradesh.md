@@ -11,7 +11,7 @@ Applicants under reserved categories can be selected against open/general catego
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -20,4 +20,4 @@ See also:
 [[Constitution - Article 16]]
 
 PDF:
-![[Saurav Yadav vs State of UP, (2021) 4 SCC 542.pdf]]
+[[Saurav Yadav vs State of UP, (2021) 4 SCC 542.pdf]]

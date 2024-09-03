@@ -12,7 +12,7 @@ Magistrate does not have power to direct CBI to conduct investigation (**Page 47
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -20,4 +20,4 @@ See also:
 [[CrPC - Section 36]]
 
 PDF:
-![[CBI vs State of Rajasthan, (2001) 1 SCR 472.pdf]]
+[[CBI vs State of Rajasthan, (2001) 1 SCR 472.pdf]]

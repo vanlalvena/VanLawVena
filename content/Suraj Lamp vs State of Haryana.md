@@ -17,11 +17,11 @@ of sale does not create any interest or charge on its subject E
 matter.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Suraj Lamp & Industries Pvt Ltd vs State of Haryana, (2011) 11 SCR 848.pdf]]
+[[Suraj Lamp & Industries Pvt Ltd vs State of Haryana, (2011) 11 SCR 848.pdf]]

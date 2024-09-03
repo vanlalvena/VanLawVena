@@ -26,4 +26,4 @@ See also:
 [[HMA - Section 28]](4)
 
 PDF:
-![[Superintending Engineer, Dehar Power House vs Excise and Taxation Officer, (2019) 13 SCR 534.pdf]]
+[[Superintending Engineer, Dehar Power House vs Excise and Taxation Officer, (2019) 13 SCR 534.pdf]]

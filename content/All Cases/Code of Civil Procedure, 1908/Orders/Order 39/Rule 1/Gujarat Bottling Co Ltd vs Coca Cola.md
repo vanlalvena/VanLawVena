@@ -16,12 +16,12 @@ Test, object - (**Page 551**)
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Gujarat Bottling Co Ltd vs Coca Cola, (1995) Supp 2 SCR 514.pdf]]
+[[Gujarat Bottling Co Ltd vs Coca Cola, (1995) Supp 2 SCR 514.pdf]]

@@ -11,7 +11,7 @@ Date: 09.07.1996
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -19,4 +19,4 @@ See also:
 [[CrPC - Section 385]] 
 
 PDF:
-![[Bani Singh vs State of UP, (1996) Supp 3 SCR 247.pdf]]
+[[Bani Singh vs State of UP, (1996) Supp 3 SCR 247.pdf]]

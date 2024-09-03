@@ -11,7 +11,7 @@ Rash and negligent driving has to be examined in the light of the facts and circ
 Section 313 is mandatory and not a mere formality.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -20,4 +20,4 @@ See also:
 [[IPC - Section 304A]]
 [[CrPC, Section 313]]
 
-![[Ravi Kapur CS State of Rajasthan, (2012) 10 SCR 229.pdf]]
+[[Ravi Kapur CS State of Rajasthan, (2012) 10 SCR 229.pdf]]

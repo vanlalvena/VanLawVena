@@ -43,7 +43,7 @@ Suit entertained and decided despite being barred by limitation is an illegality
 	Court having jurisdiction over subject matter and parties, though deciding wrong, would not be doing something it had no jurisdiction to do; such decrees would not be a nullity.
 
 See also:
-[[]] 
+ 
 
 PDF:
-![[Budhia Swain vs Gopinath Deb, (1999) 2 SCR 1189.pdf]]
+[[Budhia Swain vs Gopinath Deb, (1999) 2 SCR 1189.pdf]]

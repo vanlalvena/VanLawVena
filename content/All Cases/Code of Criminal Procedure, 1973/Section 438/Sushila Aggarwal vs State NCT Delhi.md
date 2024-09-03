@@ -75,7 +75,7 @@ See also:
 [[Evidence - Section 27]]
 
 PDF:
-![[Sushila Aggarwal & Ors vs State NCT Delhi & Anr, (2020) 2 SCR 1.pdf]]
+[[Sushila Aggarwal & Ors vs State NCT Delhi & Anr, (2020) 2 SCR 1.pdf]]
 
 PDF-SCC:
-![[Sushila Aggarwal vs State (NCT of Delhi), (2020) 5 SCC 1.pdf]]
+[[Sushila Aggarwal vs State (NCT of Delhi), (2020) 5 SCC 1.pdf]]

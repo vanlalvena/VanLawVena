@@ -18,8 +18,8 @@ Refer also:
 [[State of Haryana vs Bhajan Lal]] 
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Lalita Kumari vs Govt of UP & Ors, (2013) 14 SCR 713.pdf]]
+[[Lalita Kumari vs Govt of UP & Ors, (2013) 14 SCR 713.pdf]]

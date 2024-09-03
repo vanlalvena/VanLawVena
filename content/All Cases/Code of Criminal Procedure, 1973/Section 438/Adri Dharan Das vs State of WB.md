@@ -46,13 +46,13 @@ Legality of proposed arrest cannot be gone into in an application for anticipato
 Distinction between anticipatory bail and ordinary bail. For ordinary bail, the applicant must be under custody. Anticipatory bail cannot be invoked after the person has been arrested.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC - Section 439]]
 
 PDF:
-![[Adri Dharan Das vs State of WB, (2005) 2 SCR 189.pdf]]
+[[Adri Dharan Das vs State of WB, (2005) 2 SCR 189.pdf]]
 
 Web Link: <a href="/All judgments/Adri Dharan Das vs State of WB, (2005) 2 SCR 189.pdf" target="_blank">URL of judgment</a>

@@ -11,15 +11,15 @@ Definition of minority has to be in relation to the State #incomplete
 Regulation of aided, unaided, minority schools
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[TMA Pai Foundation vs State of Karnataka, (2002) 8 SCC 481.pdf]]
+[[TMA Pai Foundation vs State of Karnataka, (2002) 8 SCC 481.pdf]]
 
 PDF-SCR :
-![[TMA PAI Foundation vs State of Karnataka, (2002) Supp 3 SCR 587.pdf]]
+[[TMA PAI Foundation vs State of Karnataka, (2002) Supp 3 SCR 587.pdf]]

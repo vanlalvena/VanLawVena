@@ -14,7 +14,7 @@ Section 123 read with section 129 supersede Hindu Law (or any other religious la
 #incomplete 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 [[ToPA - Section 129]]
 
 PDF:
-![[Renikuntla Rajamma vs K Sarwanamma, (2014) 9 SCC 445.pdf]]
+[[Renikuntla Rajamma vs K Sarwanamma, (2014) 9 SCC 445.pdf]]

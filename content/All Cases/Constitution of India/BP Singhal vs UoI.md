@@ -54,6 +54,6 @@ Refer also:
 See also:
 
 PDF:
-![[BP Singhal vs UoI, (2010) 6 SCR 589.pdf]]
+[[BP Singhal vs UoI, (2010) 6 SCR 589.pdf]]
 
 Web Link: <a href="/All judgments/BP Singhal vs UoI, (2010) 6 SCR 589.pdf" target="_blank">URL of judgment</a>

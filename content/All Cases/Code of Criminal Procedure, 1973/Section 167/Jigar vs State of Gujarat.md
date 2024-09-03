@@ -17,8 +17,8 @@ Refer also:
 [[Uday Mohanlal Acharya vs State of Maharashtra]], (2001) 5 SCC 453 - (**para 19(a)**)
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Jigar vs State of Gujarat, (2022) 13 SCR 367.pdf]]
+[[Jigar vs State of Gujarat, (2022) 13 SCR 367.pdf]]

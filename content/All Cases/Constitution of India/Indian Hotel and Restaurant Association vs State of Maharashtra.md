@@ -27,4 +27,4 @@ See also:
 [[Constitution - Article 21]]
 
 PDF:
-![[Indian Hotel and Restaurant Association vs State of Maharashtra, (2019) 1 SCR 371.pdf]]
+[[Indian Hotel and Restaurant Association vs State of Maharashtra, (2019) 1 SCR 371.pdf]]

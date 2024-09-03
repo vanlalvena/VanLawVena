@@ -13,12 +13,12 @@ Promise to marry - rape
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Maheshwar Tigga vs State of Jharkhand, (2020) 9 SCR 482.pdf]]
+[[Maheshwar Tigga vs State of Jharkhand, (2020) 9 SCR 482.pdf]]

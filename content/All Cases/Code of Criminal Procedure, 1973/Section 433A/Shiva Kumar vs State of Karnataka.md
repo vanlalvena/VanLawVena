@@ -11,7 +11,7 @@ Date: 28.03.2023
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -19,4 +19,4 @@ See also:
 [[IPC, Section 53]] 
 
 PDF:
-![[Shiva Kumar vs State of Karnataka, Crl A 942-2023 (SC).pdf]]
+[[Shiva Kumar vs State of Karnataka, Crl A 942-2023 (SC).pdf]]

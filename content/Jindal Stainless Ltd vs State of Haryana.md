@@ -11,11 +11,11 @@ Non discriminatory tax is not a restriction on freedom of trade, commerce and in
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 304]] 
 
 PDF:
-![[Jindal Stainless Ltd vs State of Haryana, (2017) 12 SCC 1.pdf]]
+[[Jindal Stainless Ltd vs State of Haryana, (2017) 12 SCC 1.pdf]]

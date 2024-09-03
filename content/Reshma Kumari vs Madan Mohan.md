@@ -13,11 +13,11 @@ Date: 02.04.2013
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[MV Act - Section 163A]] 
 
 PDF:
-![[Reshma Kumari vs Madan Mohan, (2013) 9 SCC 65.pdf]]
+[[Reshma Kumari vs Madan Mohan, (2013) 9 SCC 65.pdf]]

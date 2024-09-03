@@ -9,9 +9,9 @@ Date: 11.10.2022
 Court cannot presume  that there has been issuance of process.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section

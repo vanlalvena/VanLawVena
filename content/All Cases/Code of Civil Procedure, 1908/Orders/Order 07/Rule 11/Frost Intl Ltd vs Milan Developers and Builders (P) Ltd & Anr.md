@@ -64,4 +64,4 @@ See also:
 [[SRA - Section 41]]
 
 Judgment:
-![[Frost Intl Ltd vs Milan Developers, CA 1689-2022 (SC).pdf]]
+[[Frost Intl Ltd vs Milan Developers, CA 1689-2022 (SC).pdf]]

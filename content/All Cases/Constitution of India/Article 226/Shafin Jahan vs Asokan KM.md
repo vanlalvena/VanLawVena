@@ -16,7 +16,7 @@ Role of writ court
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -24,4 +24,4 @@ See also:
 [[Constitution - Article 21]]
 
 PDF:
-![[Shafin Jahan vs Asokan KM, (2018) 4 SCR 955.pdf]]
+[[Shafin Jahan vs Asokan KM, (2018) 4 SCR 955.pdf]]

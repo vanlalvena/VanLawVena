@@ -20,4 +20,4 @@ See also:
 [[Contract, 1872 - Section 32]] 
 
 PDF:
-![[Energy Watchdog vs CERC, (2017) 3 SCR 153.pdf]]
+[[Energy Watchdog vs CERC, (2017) 3 SCR 153.pdf]]

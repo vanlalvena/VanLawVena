@@ -13,7 +13,7 @@ Plaintiff entitled to take alternate plea or alternate stands
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -21,4 +21,4 @@ See also:
 [[CPC - Order VI rule 17]]
 
 PDF:
-![[Ganesh Prasad vs Rajeshwar Prasad, CA 1699-2023 (SC).pdf]]
+[[Ganesh Prasad vs Rajeshwar Prasad, CA 1699-2023 (SC).pdf]]

@@ -70,6 +70,6 @@ See also:
 [[IOS - Purposive Construction]]
 
 PDF:
-![[Indore Vikas Pradhikaran vs Pure Industrial Coke & Chemicals Ltd, (2007) 6 SCR 799.pdf]]
+[[Indore Vikas Pradhikaran vs Pure Industrial Coke & Chemicals Ltd, (2007) 6 SCR 799.pdf]]
 
 Web Link: <a href="/All judgments/title.pdf" target="_blank">URL of judgment</a>

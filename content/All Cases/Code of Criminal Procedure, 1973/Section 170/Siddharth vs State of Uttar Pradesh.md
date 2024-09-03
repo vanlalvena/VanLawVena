@@ -12,12 +12,12 @@ Date: 16.08.2021
 If the Investigating Officer does not believe that the accused will abscond or disobey summons, they are not required to be produced in custody.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Siddharth vs State of Uttar Pradesh, Crl A 838-2021 (Order).pdf]]
+[[Siddharth vs State of Uttar Pradesh, Crl A 838-2021 (Order).pdf]]

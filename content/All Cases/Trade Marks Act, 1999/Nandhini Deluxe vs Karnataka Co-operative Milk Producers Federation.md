@@ -64,4 +64,4 @@ See also:
 [[TM 1958 - Section 12]]
 
 PDF:
-![[Nandhini Deluxe vs Karnataka Co-operative Milk Producers Federation, (2018) 11 SCR 275.pdf]]
+[[Nandhini Deluxe vs Karnataka Co-operative Milk Producers Federation, (2018) 11 SCR 275.pdf]]

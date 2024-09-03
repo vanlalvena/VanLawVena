@@ -22,8 +22,8 @@ Refer also:
 
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Shrimant Shamrao Suryavanshi vs Pralhad Bhairoba Suryavanshi, (2002) 1 SCR 393.pdf]]
+[[Shrimant Shamrao Suryavanshi vs Pralhad Bhairoba Suryavanshi, (2002) 1 SCR 393.pdf]]

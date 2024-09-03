@@ -9,7 +9,7 @@ Date: 29.03.2023
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -17,4 +17,4 @@ See also:
 [[CPC - Order IX rule 8]]
 
 PDF:
-![[Prem Kishore vs Brahm Prakash, CA 1948-2013 (SC).pdf]]
+[[Prem Kishore vs Brahm Prakash, CA 1948-2013 (SC).pdf]]

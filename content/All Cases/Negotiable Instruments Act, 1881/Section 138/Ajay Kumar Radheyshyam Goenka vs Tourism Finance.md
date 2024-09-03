@@ -18,7 +18,7 @@ The criminal liability and fines are built on principle of not honouring a negot
 	**It is apart from the principal of financial liability per se**
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -30,4 +30,4 @@ See also:
 
 
 PDF:
-![[Ajay Kumar Radheyshyam Goenka vs Tourism Finance, Crl A 172-2023 (SC).pdf]]
+[[Ajay Kumar Radheyshyam Goenka vs Tourism Finance, Crl A 172-2023 (SC).pdf]]

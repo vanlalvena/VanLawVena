@@ -26,13 +26,13 @@ Two paramount considerations for bail: (**Page 369, E**)
 2) Tampering of evidence
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC - Section 439#439(2)]] 
 
 PDF:
-![[Gurcharan Singh vs State (Delhi Admn), (1978) 2 SCR 358.pdf]]
+[[Gurcharan Singh vs State (Delhi Admn), (1978) 2 SCR 358.pdf]]
 
-![[Gurcharan Singh vs State (Delhi Admn), (1978) 1 SCC 118.pdf]]
+[[Gurcharan Singh vs State (Delhi Admn), (1978) 1 SCC 118.pdf]]

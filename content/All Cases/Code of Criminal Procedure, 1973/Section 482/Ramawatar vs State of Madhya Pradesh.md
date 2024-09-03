@@ -11,11 +11,11 @@ Quash *after conviction*; quashing under Special Acts (such as [[SCST Act]]) #in
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 142]] 
 
 PDF:
-![[Ramawatar vs State of Madhya Pradesh, (2021) 10 SCR 499.pdf]]
+[[Ramawatar vs State of Madhya Pradesh, (2021) 10 SCR 499.pdf]]

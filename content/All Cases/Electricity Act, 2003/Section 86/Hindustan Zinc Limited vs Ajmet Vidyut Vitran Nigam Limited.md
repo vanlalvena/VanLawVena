@@ -18,4 +18,4 @@ See also:
 [[A&C Act, 1996 - Section 11]]
 
 PDF:
-![[Hindustan Zinc Ltd vs Ajmet Vidyut Vitran Nigam Ltd, (2019) 15 SCR 113.pdf]]
+[[Hindustan Zinc Ltd vs Ajmet Vidyut Vitran Nigam Ltd, (2019) 15 SCR 113.pdf]]

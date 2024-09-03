@@ -33,4 +33,4 @@ See also:
 [[DV - Section 2(f)]]
 [[DV - Section 2(q)]]
 
-![[Satish Chander Ahuja vs Sneha Ahuja, (2020) 12 SCR 189.pdf]]
+[[Satish Chander Ahuja vs Sneha Ahuja, (2020) 12 SCR 189.pdf]]

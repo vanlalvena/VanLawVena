@@ -16,13 +16,13 @@ draft: true
 tags:
 ---
 Refer also:
-[[]]
+
 
 
 See also:
-[[]] 
+ 
 
 PDF:
-![[.pdf]]
+[[.pdf]]
 
 Web Link: <a href="/All judgments/title.pdf" target="_blank">URL of judgment</a>

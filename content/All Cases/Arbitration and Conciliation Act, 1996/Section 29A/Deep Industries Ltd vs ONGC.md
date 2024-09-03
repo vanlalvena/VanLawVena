@@ -11,7 +11,7 @@ Article 227 only deals with jurisdictional matters. (**Para 16**)
 Revision does not lie if an alternative remedy of appeal is available.(Paras **18,19**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 [[A&C Act, 1996 - Section 37]]
 
 PDF:
-![[Deep Industries Ltd vs ONGC, (2019) 7 SCR 995.pdf]]
+[[Deep Industries Ltd vs ONGC, (2019) 7 SCR 995.pdf]]

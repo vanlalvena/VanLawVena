@@ -55,6 +55,6 @@ See also:
 [[Evidence - Section 114]] 
 
 PDF:
-![[Ashok Kumar vs Raj Gupta, (2021) 6 SCR 1113.pdf]]
+[[Ashok Kumar vs Raj Gupta, (2021) 6 SCR 1113.pdf]]
 
 Web Link: <a href="/All judgments/title.pdf" target="_blank">URL of judgment</a>

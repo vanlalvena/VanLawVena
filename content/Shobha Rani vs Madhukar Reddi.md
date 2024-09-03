@@ -11,12 +11,12 @@ Meaning of cruelty; impact of demand for dowry #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Shobha Rani vs Madhukar Reddi, (1988) 1 SCC 105.pdf]]
+[[Shobha Rani vs Madhukar Reddi, (1988) 1 SCC 105.pdf]]

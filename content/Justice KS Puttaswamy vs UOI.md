@@ -25,7 +25,7 @@ Justification for restriction of rights (**Paras 179-180**)
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -36,7 +36,7 @@ See also:
 
 
 PDF:
-![[Justice KS Puttaswamy vs UOI, (2017) 10 SCR 569.pdf]]
+[[Justice KS Puttaswamy vs UOI, (2017) 10 SCR 569.pdf]]
 
 PDF-SCC:
-![[KS Puttaswamy (Privacy-9J.) vs UOI, (2017) 10 SCC 1.pdf]]
+[[KS Puttaswamy (Privacy-9J.) vs UOI, (2017) 10 SCC 1.pdf]]

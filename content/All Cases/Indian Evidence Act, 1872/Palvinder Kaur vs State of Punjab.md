@@ -25,7 +25,7 @@ When there is no evidence that affirmatively shows that the portion of the excul
 	The court cannot accept only the inculpatory element while rejecting the exculpatory element.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -34,4 +34,4 @@ See also:
 [[IPC - Section 302]]
 
 PDF:
-![[Palvinder Kaur vs State of Punjab, (1953) SCR 94.pdf]]
+[[Palvinder Kaur vs State of Punjab, (1953) SCR 94.pdf]]

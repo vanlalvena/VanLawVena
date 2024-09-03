@@ -40,11 +40,11 @@ Children are not mere chattels or playthings; ***absolute right of parents** has
 Parents must have tolerance and understanding (**Page 936**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution, Article 136]] 
 
 PDF:
-![[Rosy Jacob vs Jacob A Chakramakkal, (1973) 3 SCR 918.pdf]]
+[[Rosy Jacob vs Jacob A Chakramakkal, (1973) 3 SCR 918.pdf]]

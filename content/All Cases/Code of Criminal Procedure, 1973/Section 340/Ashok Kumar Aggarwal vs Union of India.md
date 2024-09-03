@@ -19,4 +19,4 @@ See also:
 [[CrPC, Section 195]] 
 
 PDF:
-![[Ashok Kumar Aggarwal vs UOI, (2013) 12 SCR 607.pdf]]
+[[Ashok Kumar Aggarwal vs UOI, (2013) 12 SCR 607.pdf]]

@@ -13,7 +13,7 @@ Proportionality
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 [[Constitution - Article 21]]
 
 PDF:
-![[Madhyamam Broadcasting Ltd vs UOI, CA 8129-2022 (SC).pdf]]
+[[Madhyamam Broadcasting Ltd vs UOI, CA 8129-2022 (SC).pdf]]

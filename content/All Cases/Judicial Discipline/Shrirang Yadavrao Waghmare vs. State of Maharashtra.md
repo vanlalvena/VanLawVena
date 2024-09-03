@@ -10,12 +10,12 @@ Judges are also public servants. A Judge should always remember that he is there
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Shrirang Yadavrao Waghmare vs. State of Maharashtra, (2019) 13 SCR 109.pdf]]
+[[Shrirang Yadavrao Waghmare vs. State of Maharashtra, (2019) 13 SCR 109.pdf]]

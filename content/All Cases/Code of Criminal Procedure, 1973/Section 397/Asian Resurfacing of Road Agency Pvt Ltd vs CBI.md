@@ -40,4 +40,4 @@ See also:
 [[Constitution - Article 227]]
 
 PDF:
-![[Asian Resurfacing of Road Agency Pvt Ltd vs CBI, (2018) 2 SCR 1045.pdf]]
+[[Asian Resurfacing of Road Agency Pvt Ltd vs CBI, (2018) 2 SCR 1045.pdf]]

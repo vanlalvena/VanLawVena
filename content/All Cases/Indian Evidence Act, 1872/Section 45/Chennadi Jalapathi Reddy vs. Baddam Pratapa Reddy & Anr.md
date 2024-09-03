@@ -10,7 +10,7 @@ It is the duty of the court to approach opinion evidence cautiously while determ
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:

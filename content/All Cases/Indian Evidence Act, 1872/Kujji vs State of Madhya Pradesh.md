@@ -41,4 +41,4 @@ See also:
 [[CrPC - Section 386]]
 
 PDF:
-![[Khujji vs State of MP, (1991) 3 SCR 1.pdf]]
+[[Khujji vs State of MP, (1991) 3 SCR 1.pdf]]

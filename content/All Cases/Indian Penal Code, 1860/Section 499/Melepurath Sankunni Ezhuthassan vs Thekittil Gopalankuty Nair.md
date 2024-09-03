@@ -19,7 +19,7 @@ Section 306 applies to executors, administrators and legal representatives (**Pa
 
  
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -31,4 +31,4 @@ See also:
 [[Indian Succession - Section 306]]
 
 PDF:
-![[Melepurath Sankunni Ezhuthassan vs Thekittil Gopalankuty Nair, (1985) Supp 3 SCR 805.pdf]]
+[[Melepurath Sankunni Ezhuthassan vs Thekittil Gopalankuty Nair, (1985) Supp 3 SCR 805.pdf]]

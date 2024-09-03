@@ -60,4 +60,4 @@ See also:
 [[IPC, Section 26]]
 
 PDF:
-![[Directorate of Enforcement vs Abdullah Ali Balsharaf, LPA 179-2019 (Del HC).pdf]]
+[[Directorate of Enforcement vs Abdullah Ali Balsharaf, LPA 179-2019 (Del HC).pdf]]

@@ -21,4 +21,4 @@ See also:
 [[CrPC, Section 313]]
 [[Constitution, Article 136]]
 
-![[Tedhi Singh vs Narayan Dass Mahant, Crl A 362-2022.pdf]]
+[[Tedhi Singh vs Narayan Dass Mahant, Crl A 362-2022.pdf]]

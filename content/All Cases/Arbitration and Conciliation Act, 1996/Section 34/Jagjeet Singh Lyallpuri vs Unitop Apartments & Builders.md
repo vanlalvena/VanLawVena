@@ -21,4 +21,4 @@ See also:
 [[Evidence, Section 115]]
 
 PDF:
-![[Jagjeet Singh Lyallpuri vs Unitop Apartments & Builders, (2019), 14 SCR 433.pdf]]
+[[Jagjeet Singh Lyallpuri vs Unitop Apartments & Builders, (2019), 14 SCR 433.pdf]]

@@ -16,4 +16,4 @@ See also:
 [[MV Act - Section 8]] 
 
 PDF:
-![[K Janardhan vs United India Insurance Co Ltd, (2008) 8 SCC 518.pdf]]
+[[K Janardhan vs United India Insurance Co Ltd, (2008) 8 SCC 518.pdf]]

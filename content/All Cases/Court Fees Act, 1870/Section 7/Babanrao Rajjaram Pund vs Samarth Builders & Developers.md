@@ -14,12 +14,12 @@ Courts must give greater emphasis to the substance of the clause (**para 28**)
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Babanrao Rajjaram Pund vs Samarth Builders & Developers, SLP (C) 15989-2021 (SC).pdf]]
+[[Babanrao Rajjaram Pund vs Samarth Builders & Developers, SLP (C) 15989-2021 (SC).pdf]]

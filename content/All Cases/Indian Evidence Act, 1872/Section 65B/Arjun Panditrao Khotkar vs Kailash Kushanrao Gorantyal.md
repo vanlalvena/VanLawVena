@@ -72,6 +72,6 @@ See also:
 
 [[Evidence - Section 65A]]
 
-![[Arjun Panditrao Khotkar vs Kailash Kushanrao Gorantyal, (2020) 7 SCR 180.pdf]]
+[[Arjun Panditrao Khotkar vs Kailash Kushanrao Gorantyal, (2020) 7 SCR 180.pdf]]
 
 Web Link: <a href="/All judgments/Arjun Panditrao Khotkar vs Kailash Kushanrao Gorantyal, (2020) 7 SCR 180.pdf" target="_blank">URL of judgment</a>

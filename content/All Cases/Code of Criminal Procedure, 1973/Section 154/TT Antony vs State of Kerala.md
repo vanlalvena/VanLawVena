@@ -13,12 +13,12 @@ No second FIR
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[TT Antony vs State of Kerala, (2001) 3 SCR 942.pdf]]
+[[TT Antony vs State of Kerala, (2001) 3 SCR 942.pdf]]

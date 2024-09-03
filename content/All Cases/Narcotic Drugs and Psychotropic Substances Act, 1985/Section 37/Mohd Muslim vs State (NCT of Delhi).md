@@ -11,7 +11,7 @@ Right to regular bail; speedy trial; NDPS #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -19,4 +19,4 @@ See also:
 [[CrPC, Section 436A]]
 
 PDF:
-![[Mohd Muslim vs State (NCT of Delhi), Crl A 945-2023 (SC).pdf]]
+[[Mohd Muslim vs State (NCT of Delhi), Crl A 945-2023 (SC).pdf]]

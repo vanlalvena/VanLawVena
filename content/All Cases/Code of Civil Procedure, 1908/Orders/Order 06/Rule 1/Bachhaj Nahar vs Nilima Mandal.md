@@ -25,4 +25,4 @@ See also:
 [[CPC - Order VI rule 1]]
 [[CPC - Section 100]]
 
-![[Bachhaj Nahar vs Nilima Mandal, CA 5798-2008.pdf]]
+[[Bachhaj Nahar vs Nilima Mandal, CA 5798-2008.pdf]]

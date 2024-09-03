@@ -31,4 +31,4 @@ See also:
 [[CrPC - Section 154]]
 
 PDF:
-![[Ashok Kumar Chaudhary vs State of Bihar, (2008) 7 SCR 714.pdf]]
+[[Ashok Kumar Chaudhary vs State of Bihar, (2008) 7 SCR 714.pdf]]

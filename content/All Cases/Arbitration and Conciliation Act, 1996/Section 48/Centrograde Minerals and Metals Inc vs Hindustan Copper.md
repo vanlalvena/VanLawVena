@@ -42,4 +42,4 @@ See also:
 [[UNCITRAL - Article 31]]
 
 PDF:
-![[Centrograde Minerals and Metals Inc vs Hindustan Copper, [2016] 9 SCR 83.pdf]]
+[[Centrograde Minerals and Metals Inc vs Hindustan Copper, [2016] 9 SCR 83.pdf]]

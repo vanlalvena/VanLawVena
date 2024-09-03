@@ -46,4 +46,4 @@ See also:
 [[Judicial Discipline]]
 
 PDF:
-![[Ashok Panwar vs State, BA 1606-2020 (Del HC).pdf]]
+[[Ashok Panwar vs State, BA 1606-2020 (Del HC).pdf]]

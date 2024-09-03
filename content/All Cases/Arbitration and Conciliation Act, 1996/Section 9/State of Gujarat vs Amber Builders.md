@@ -30,4 +30,4 @@ See also:
 [[A&C Act, 1996 - Section 31]]
 
 PDF:
-![[State of Gujarat vs Amber Builders, (2020) 1 SCR 779.pdf]]
+[[State of Gujarat vs Amber Builders, (2020) 1 SCR 779.pdf]]

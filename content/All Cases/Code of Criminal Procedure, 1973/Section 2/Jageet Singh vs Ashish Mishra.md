@@ -12,15 +12,15 @@ Victims have right to be heard at every stage post occurrence of offence.
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 SCR PDF
-![[Jageet Singh vs Ashish Mishra, (2022) 4 SCR 536.pdf]]
+[[Jageet Singh vs Ashish Mishra, (2022) 4 SCR 536.pdf]]
 
 PDF:
-![[Jageet Singh vs Ashish Mishra, Crl A 632-2202 (SC).pdf]]
+[[Jageet Singh vs Ashish Mishra, Crl A 632-2202 (SC).pdf]]

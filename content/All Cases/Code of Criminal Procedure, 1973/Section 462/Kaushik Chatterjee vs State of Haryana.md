@@ -46,4 +46,4 @@ See also:
 [[CrPC - Section 461]]
 
 PDF:
-![[Kaushik Chatterjee vs State of Haryana, TP (Crl) 456-2019 (SC).pdf]]
+[[Kaushik Chatterjee vs State of Haryana, TP (Crl) 456-2019 (SC).pdf]]

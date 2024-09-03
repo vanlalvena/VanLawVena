@@ -10,12 +10,12 @@ Date: 19.12.1946
 Disclosure statement admissible only to the extent as information/fact recovered pursuant to such statement.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Pulukuri Kottaya vs King Emperor, 1947 MWN Cr 47.pdf]] 
+[[Pulukuri Kottaya vs King Emperor, 1947 MWN Cr 47.pdf]] 

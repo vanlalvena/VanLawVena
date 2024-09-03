@@ -12,11 +12,11 @@ Manifestly arbitrary or manifest arbitrariness means when it is not fair, not re
 A statute is not retrospective merely because it affects existing rights; nor is it retrospective merely because a part of the requisites for its action is drawn from a time antecedent to its passing
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 14]]
 
 PDF:
-![[Swiss Ribbons Pvt Ltd vs Union of India, (2019) 3 SCR 535.pdf]]
+[[Swiss Ribbons Pvt Ltd vs Union of India, (2019) 3 SCR 535.pdf]]

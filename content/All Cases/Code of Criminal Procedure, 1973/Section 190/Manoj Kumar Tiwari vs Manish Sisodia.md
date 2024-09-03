@@ -30,4 +30,4 @@ See also:
 [[CrPC, Section 237]]
 [[CrPC, Section 250]]
 
-![[Manoj Kumar Tiwari vs Manish Sisodia, Crl A 1791-2022 (SC).pdf]]
+[[Manoj Kumar Tiwari vs Manish Sisodia, Crl A 1791-2022 (SC).pdf]]

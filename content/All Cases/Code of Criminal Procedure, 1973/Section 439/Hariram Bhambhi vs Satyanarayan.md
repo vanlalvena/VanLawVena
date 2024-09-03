@@ -16,11 +16,11 @@ Recording of reasons is not a mere formality. It is an exercise of judicial acco
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[SCST - Section 15A]] 
 
 PDF:
-![[Hariram Bhambhi vs Satyanarayan, (2021) 8 SCR 855.pdf]]
+[[Hariram Bhambhi vs Satyanarayan, (2021) 8 SCR 855.pdf]]

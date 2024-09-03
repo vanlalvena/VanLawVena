@@ -27,4 +27,4 @@ See also:
 [[CrPC - Section 439]]
 
 PDF:
-![[NCB vs Mohit Aggarwal, (2022) 7 SCR 600.pdf]]
+[[NCB vs Mohit Aggarwal, (2022) 7 SCR 600.pdf]]

@@ -13,12 +13,12 @@ Whether a document is a relinquishment deed / release deed
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Tripta Kaushik vs Sub Registrar VI A, 270 (2020) DLT 36.pdf]]
+[[Tripta Kaushik vs Sub Registrar VI A, 270 (2020) DLT 36.pdf]]

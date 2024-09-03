@@ -19,4 +19,4 @@ Refer also:
 See also:
 [[Constitution - Article 226]]
 [[CrPC - Section 154]]
-![[Sakiri Vasu vs State of UP, (2007) 12 SCR 1100.pdf]]
+[[Sakiri Vasu vs State of UP, (2007) 12 SCR 1100.pdf]]

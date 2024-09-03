@@ -14,7 +14,7 @@ Opinion of Presiding Judge under section 432(2) CrPC requires opinion to be acco
 The court has the power to review the government’s decision regarding acceptance or rejection of application for remission (**Para 14 at Page 14**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 [[Constitution - Article 14]]
 
 PDF:
-![[Ram Chander vs State of Chhatisgarh, WP Crl 49-2022 (SC).pdf]]
+[[Ram Chander vs State of Chhatisgarh, WP Crl 49-2022 (SC).pdf]]

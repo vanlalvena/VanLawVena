@@ -39,7 +39,7 @@ See also:
 [[CrPC - Section 174]]
 
 PDF (SCC):
-![[Periasami vs State of TN, (1996) 6 SCC 457.pdf]]
+[[Periasami vs State of TN, (1996) 6 SCC 457.pdf]]
 
 PDF:
-![[Perisami vs State of Tamil Nadu, (1996) Supp 6 SCR 757.pdf]]
+[[Perisami vs State of Tamil Nadu, (1996) Supp 6 SCR 757.pdf]]

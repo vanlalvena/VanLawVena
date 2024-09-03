@@ -29,4 +29,4 @@ See also:
 
 PDF:
 
-![[State of Manipur vs Surjakumar Okram, (2022) 1 SCR 1057.pdf]]
+[[State of Manipur vs Surjakumar Okram, (2022) 1 SCR 1057.pdf]]

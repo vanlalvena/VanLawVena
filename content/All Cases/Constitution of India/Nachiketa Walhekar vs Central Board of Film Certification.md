@@ -12,12 +12,12 @@ Any limitation on film, drama, novel or a book must only be as per law; an artis
 	
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Nachiketa Walhekar vs Central Board of Film Certification, WP(C) 1119-2017 (Order - SC).pdf]]
+[[Nachiketa Walhekar vs Central Board of Film Certification, WP(C) 1119-2017 (Order - SC).pdf]]

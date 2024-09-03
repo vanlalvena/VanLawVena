@@ -29,4 +29,4 @@ See also:
 [[Delhi Land Reforms - Section 81]]
 
 PDF:
-![[Gaon Sabha Nanakheri vs Sucheta Memorial Trust, O Ref 1-2015 (Del HC).pdf]]
+[[Gaon Sabha Nanakheri vs Sucheta Memorial Trust, O Ref 1-2015 (Del HC).pdf]]

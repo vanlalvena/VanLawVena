@@ -10,12 +10,12 @@ Date: 06.03.2020
 #incomplete If award not made as on 01.01.2014, there is **no lapse of proceedings**, *compensation to be determined under the 2013 Act*
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Indore Development Authority vs Manoharlal, (2020) 3 SCR 1.pdf]]
+[[Indore Development Authority vs Manoharlal, (2020) 3 SCR 1.pdf]]

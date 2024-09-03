@@ -20,11 +20,11 @@ Guidelines for settlement agreement (**Para 63**)
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[HMA - Section 13B]] 
 
 PDF:
-![[Rajat Gupta vs Rupali Gupta, 2018-DHC-3191-DB.pdf]]
+[[Rajat Gupta vs Rupali Gupta, 2018-DHC-3191-DB.pdf]]

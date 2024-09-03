@@ -16,4 +16,4 @@ See also:
 [[Constitution - Article 227]] 
 
 PDF:
-![[L Chandra Kumar vs Union of India, (1997) 3 SCC 261.pdf]]
+[[L Chandra Kumar vs Union of India, (1997) 3 SCC 261.pdf]]

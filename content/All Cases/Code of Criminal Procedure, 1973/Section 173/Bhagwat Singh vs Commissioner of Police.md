@@ -20,11 +20,11 @@ If the police files a closure report, the Magistrate can:
 In either case, if the Magistrate decides to drop the proceedings for whatever reason, the Magistrate must give notice to the informant and provide him an opportunity to be heard at the time of consideration of the report
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC - Section 154]]
 
 PDF:
-![[Bhagwat Singh vs Commissioner of Police, (1985) 3 SCR 942.pdf]]
+[[Bhagwat Singh vs Commissioner of Police, (1985) 3 SCR 942.pdf]]

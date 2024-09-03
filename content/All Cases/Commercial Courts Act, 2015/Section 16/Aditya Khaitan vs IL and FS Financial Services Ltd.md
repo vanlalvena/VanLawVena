@@ -29,7 +29,7 @@ Exception for Covid-19 period.
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -47,5 +47,5 @@ See also:
 
 [[NI Act - Section 138]]
 
-PDF:![[Aditya Khaitan vs IL and FS Financial Services Ltd, (2023) 12 SCR 803.pdf]]
+PDF:[[Aditya Khaitan vs IL and FS Financial Services Ltd, (2023) 12 SCR 803.pdf]]
 Web Link: <a href="/All judgments/to be filled.pdf" target="_blank">URL of judgment</a>

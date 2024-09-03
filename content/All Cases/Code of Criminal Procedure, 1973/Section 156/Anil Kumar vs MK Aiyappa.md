@@ -17,7 +17,7 @@ The order must show the following:
 Application of mind - 156(3)/200 Cr.P.C. #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -25,4 +25,4 @@ See also:
 [[CrPC - Section 200]]
 
 PDF:
-![[Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf]]
+[[Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf]]

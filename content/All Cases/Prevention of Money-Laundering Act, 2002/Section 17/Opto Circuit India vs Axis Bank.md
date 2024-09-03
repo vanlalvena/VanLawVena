@@ -14,12 +14,12 @@ Procedure to be followed
 It is a well settled salutary principle that if a statute provides for a thing to be done in a particular manner, then it has to be done in that manner and in no other manner (**Para 15** #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Opto Circuit India vs Axis Bank, (2021) 2 SCR 81.pdf]]
+[[Opto Circuit India vs Axis Bank, (2021) 2 SCR 81.pdf]]

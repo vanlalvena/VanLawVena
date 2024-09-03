@@ -10,11 +10,11 @@ Date: 22.08.2017
 Triple talaq unconstitutional #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Constitution - Article 14]] 
 
 PDF:
-![[Shayara Bano vs UOI, (2017) 9 SCR 797.pdf]]
+[[Shayara Bano vs UOI, (2017) 9 SCR 797.pdf]]

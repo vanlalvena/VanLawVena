@@ -19,4 +19,4 @@ See also:
 [[BCI Rules - Rule 103]]
 
 PDF:
-![[Sudeep Raj Saini vs High Court of Delhi, 2023-DHC-4661-DB.pdf]]
+[[Sudeep Raj Saini vs High Court of Delhi, 2023-DHC-4661-DB.pdf]]

@@ -13,7 +13,7 @@ Before deciding the validity of a notice under section 106, the court must see w
 Section 111(a) must be read with 116 (**Para 5**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -21,4 +21,4 @@ See also:
 [[ToPA, Section 116]]
 
 PDF:
-![[Shanti Devi vs Amal Kumar Banerjee, (1981) 2 SCC 199.pdf]]
+[[Shanti Devi vs Amal Kumar Banerjee, (1981) 2 SCC 199.pdf]]

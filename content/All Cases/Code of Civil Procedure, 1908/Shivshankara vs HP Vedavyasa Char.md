@@ -11,12 +11,12 @@ Date: 29.03.2023
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Shivshankara vs HP Vedavyasa Char, CA 10215-2011 (SC).pdf]]
+[[Shivshankara vs HP Vedavyasa Char, CA 10215-2011 (SC).pdf]]

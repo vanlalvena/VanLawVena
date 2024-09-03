@@ -12,7 +12,7 @@ Context of movie
 Movie showing that an act is a social evil is in fact evil, cannot be made impermissible simply for showing or depicting that evil
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 
 
 PDF:
-![[Bobby Art International vs Om Pal Singh Hoon, (1996) Supp 2 SCR 136.pdf]]
+[[Bobby Art International vs Om Pal Singh Hoon, (1996) Supp 2 SCR 136.pdf]]

@@ -32,4 +32,4 @@ See also:
 
 
 PDF:
-![[SEAMEC Ltd vs Oil India Ltd, (2020) 4 SCR 254.pdf]]
+[[SEAMEC Ltd vs Oil India Ltd, (2020) 4 SCR 254.pdf]]

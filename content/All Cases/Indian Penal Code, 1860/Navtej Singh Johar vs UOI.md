@@ -10,12 +10,12 @@ Date: 06.09.2018
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Navtej Singh Johar vs UOI, (2018) 7 SCR 379.pdf]]
+[[Navtej Singh Johar vs UOI, (2018) 7 SCR 379.pdf]]

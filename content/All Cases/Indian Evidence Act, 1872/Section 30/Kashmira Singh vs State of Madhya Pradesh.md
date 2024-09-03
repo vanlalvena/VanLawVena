@@ -11,12 +11,12 @@ Necessity of corroboration of confession of accused #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Kashmira Singh vs State of Madhya Pradesh, (1952) 1 SCR 526.pdf]]
+[[Kashmira Singh vs State of Madhya Pradesh, (1952) 1 SCR 526.pdf]]

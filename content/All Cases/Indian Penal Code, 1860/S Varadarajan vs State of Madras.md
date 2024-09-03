@@ -19,12 +19,12 @@ Taking out
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[S Varadarajan vs State of Madras, (1965) 1 SCR 243.pdf]]
+[[S Varadarajan vs State of Madras, (1965) 1 SCR 243.pdf]]

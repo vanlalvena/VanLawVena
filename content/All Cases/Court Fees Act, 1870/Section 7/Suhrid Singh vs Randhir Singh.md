@@ -10,7 +10,7 @@ An executant of a deed who seeks it to be annulled must seek **cancellation** th
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -18,4 +18,4 @@ See also:
 [[SRA - Section 34]]
 
 PDF:
-![[Suhrid Singh vs Randhir Singh, (2010) 3 SCR 1121.pdf]]
+[[Suhrid Singh vs Randhir Singh, (2010) 3 SCR 1121.pdf]]

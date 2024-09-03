@@ -21,4 +21,4 @@ See also:
 [[ToPA - Section 54]] 
 
 PDF:
-![[Ghanshyam vs Yogendra Rathi, CA 7527-2012 (SC).pdf]]
+[[Ghanshyam vs Yogendra Rathi, CA 7527-2012 (SC).pdf]]

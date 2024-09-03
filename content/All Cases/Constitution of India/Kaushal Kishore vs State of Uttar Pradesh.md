@@ -18,7 +18,7 @@ If the consequence of a Minister’s statement is that any officer’s act of om
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -27,11 +27,11 @@ See also:
 [[Constitution - Article 21]]
 
 PDF:
-![[Kaushal Kishore vs State of Uttar Pradesh, WP Crl 113-2016 (SC).pdf]]
+[[Kaushal Kishore vs State of Uttar Pradesh, WP Crl 113-2016 (SC).pdf]]
 
 
 PDF-SCC:
-![[Kaushal Kishor vs State of UP, (2023) 4 SCC 1.pdf]]
+[[Kaushal Kishor vs State of UP, (2023) 4 SCC 1.pdf]]
 
 PDF-SCR :
-![[Kaushal Kishore vs State of Uttar Pradesh, (2023) 8 SCR 581.pdf]]
+[[Kaushal Kishore vs State of Uttar Pradesh, (2023) 8 SCR 581.pdf]]

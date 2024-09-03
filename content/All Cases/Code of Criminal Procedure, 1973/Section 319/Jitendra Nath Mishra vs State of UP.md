@@ -15,8 +15,8 @@ Refer also:
 [[Hardeep Singh vs State of Punjab]], (2014) 3 SCC 92
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Jitendra Nath Mishra vs State of UP, Crl A 978-2022 (SC).pdf]]
+[[Jitendra Nath Mishra vs State of UP, Crl A 978-2022 (SC).pdf]]

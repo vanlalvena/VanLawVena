@@ -29,8 +29,8 @@ Refer also:
 [[Central Inland Water Transport Corp Ltd vs Brojo Nath Ganguly]], (1986) 3 SCC 156 : **This principle *will not apply* where the** *bargaining power of the contracting parties is **equal or almost equal***.  ; followed in [[Delhi Transport Corporation vs DTC Mazdoor Congress]], (1991) Suppl (1) SCC 600
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Sara Intl Ltd vs Rizhao Steel Holding Group Company Ltd, CS(OS) 1586-2009 (Del HC).pdf]]
+[[Sara Intl Ltd vs Rizhao Steel Holding Group Company Ltd, CS(OS) 1586-2009 (Del HC).pdf]]

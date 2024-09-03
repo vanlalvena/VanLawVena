@@ -14,8 +14,8 @@ Refer also:
 [[Maharashtra State Road Transport Corporation vs. Dilip Uttam Jayabhay]]
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[SBI vs. KS Vishwanath, CA 3490-2022 (SC).pdf]]
+[[SBI vs. KS Vishwanath, CA 3490-2022 (SC).pdf]]

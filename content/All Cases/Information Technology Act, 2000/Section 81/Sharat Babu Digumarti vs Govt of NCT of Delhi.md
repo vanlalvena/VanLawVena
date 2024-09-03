@@ -10,11 +10,11 @@ Date: 14.12.2016
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[IPC - Section 292]] 
 
 
-![[Sharat Babu Digumarti vs GNCTD, (2016) 8 SCR 1015.pdf]]
+[[Sharat Babu Digumarti vs GNCTD, (2016) 8 SCR 1015.pdf]]

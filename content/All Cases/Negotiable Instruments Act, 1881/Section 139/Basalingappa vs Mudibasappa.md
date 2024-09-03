@@ -31,4 +31,4 @@ See also:
 [[CrPC - Section 386]]
 
 PDF:
-![[Basalingappa vs Mudibasappa, (2019) 6 SCR 555.pdf]]
+[[Basalingappa vs Mudibasappa, (2019) 6 SCR 555.pdf]]

@@ -22,7 +22,7 @@ If prosecution evidence falls short of proof of homicidal death and possibility 
 Suspicion howsoever strong cannot take place of proof.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -31,4 +31,4 @@ See also:
 [[IPC - Section 34]]
 
 PDF:
-![[Chandrapal vs State of Chhattisgarh, (2022) 3 SCR 366.pdf]]
+[[Chandrapal vs State of Chhattisgarh, (2022) 3 SCR 366.pdf]]

@@ -11,12 +11,11 @@ Complaint can be dismissed even before summoning accused #incomplete
 ***Re-read carefully***
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[]]

@@ -11,12 +11,12 @@ In the name of fair trial the accused cannot go on seeking adjournments #incompl
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Asha Ranjan vs State of Bihar, (2017) 1 SCR 945.pdf]]
+[[Asha Ranjan vs State of Bihar, (2017) 1 SCR 945.pdf]]

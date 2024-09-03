@@ -11,12 +11,12 @@ Criminal conspiracy
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Yash Pal Mittal vs State of Punjab, (1978) 1 SCR 781.pdf]]
+[[Yash Pal Mittal vs State of Punjab, (1978) 1 SCR 781.pdf]]

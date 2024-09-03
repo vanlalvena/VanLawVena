@@ -15,7 +15,7 @@ Doctrine of undue enrichment ; doctrine of restitution
 #incomplete 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -26,8 +26,8 @@ See also:
 [[Excise Act - Section 11B]]
 
 PDF:
-![[Mafatlal Industries vs Union of India, (1996) Supp 10 SCR 585.pdf]]
+[[Mafatlal Industries vs Union of India, (1996) Supp 10 SCR 585.pdf]]
 
 
 PDF-SCC: 
-![[Mafatlal Industries Ltd vs UOI, (1997) 5 SCC 536.pdf]]
+[[Mafatlal Industries Ltd vs UOI, (1997) 5 SCC 536.pdf]]

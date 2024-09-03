@@ -55,6 +55,6 @@ See also:
 [[Evidence - Section 45]] 
 
 PDF:
-![[Hari Om vs State of UP, (2021) 13 SCR 49.pdf]]
+[[Hari Om vs State of UP, (2021) 13 SCR 49.pdf]]
 
 Web Link: <a href="/All judgments/Hari Om vs State of UP, (2021) 13 SCR 49.pdf" target="_blank">URL of judgment</a>

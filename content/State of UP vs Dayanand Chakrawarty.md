@@ -11,7 +11,7 @@ No implied repeal of subsequent subordinate or delegated legislation; in any cau
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -19,4 +19,4 @@ See also:
 
 
 PDF:
-![[State of UP vs Dayanand Chakrawarty, (2013) 7 SCC 595.pdf]]
+[[State of UP vs Dayanand Chakrawarty, (2013) 7 SCC 595.pdf]]

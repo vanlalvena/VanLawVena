@@ -11,7 +11,7 @@ After rejecting the plaint under Order VII rule 11(d), the court cannot grant li
 ***The proviso to [[CPC - Order VII rule 11]]*** by which the court grants time for correction of valuation or supplying of requisite stamp paper ***only covers cases falling within clauses (b) and (c) and not cases falling within clause (d).***
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -23,4 +23,4 @@ See also:
 [[CPC - Order VI rule 17]]
 
 PDF:
-![[Sayyed Ayaz Ali vs Prakash G Goyal, (2021) 6 SCR 661.pdf]]
+[[Sayyed Ayaz Ali vs Prakash G Goyal, (2021) 6 SCR 661.pdf]]

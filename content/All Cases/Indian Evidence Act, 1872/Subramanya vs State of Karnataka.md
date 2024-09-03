@@ -11,7 +11,7 @@ Date: 13.10.2022
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -19,4 +19,4 @@ See also:
 [[Evidence, Section 8]]
 
 PDF:
-![[Subramanya vs State of Karnataka, Crl A 242-2022 (SC).pdf]]
+[[Subramanya vs State of Karnataka, Crl A 242-2022 (SC).pdf]]

@@ -10,7 +10,7 @@ Date: 16.12.2014
 Alternate charge #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -18,4 +18,4 @@ See also:
 [[CrPC - Section 221]]
 
 PDF:
-![[Vijay Pal Singh vs State of Uttarakhand, (2014) 12 SCR 517.pdf]]
+[[Vijay Pal Singh vs State of Uttarakhand, (2014) 12 SCR 517.pdf]]

@@ -16,11 +16,11 @@ Refer also:
 
 
 See also:
-[[]] 
+ 
 Act, Section
 
-PDF:
-![[IR Coelho vs State of TN, (2007) 2 SCC 1.pdf]]
+PDF-SCC:
+[[IR Coelho vs State of TN, (2007) 2 SCC 1.pdf]]
 
 PDF-SCR:
-![[IR Coelho vs State of Tamil Nadu, (2007) 1 SCR 706.pdf]]
+[[IR Coelho vs State of Tamil Nadu, (2007) 1 SCR 706.pdf]]

@@ -36,4 +36,4 @@ See also:
 [[CPC - Order VIII rule 6]] 
 
 PDF:
-![[Ashok Kumar Kalra vs Wing Cdr Surendra Agnihotri, (2019) 17 SCR 214.pdf]]
+[[Ashok Kumar Kalra vs Wing Cdr Surendra Agnihotri, (2019) 17 SCR 214.pdf]]

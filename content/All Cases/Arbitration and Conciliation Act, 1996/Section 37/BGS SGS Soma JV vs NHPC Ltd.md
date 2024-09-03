@@ -18,7 +18,7 @@ The designation of a place as “venue” of “arbitration proceedings” indic
 	In domestic arbitration, when [[A&C Act, 1996]] is stated to apply to the “venue”, it becomes the “seat” of arbitration
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -29,7 +29,7 @@ See also:
 [[A&C Act, 1996 - Section 42]]
 
 PDF:
-![[BGS SGS Soma vs NHPC, (2019) 17 SCR 742.pdf]]
+[[BGS SGS Soma vs NHPC, (2019) 17 SCR 742.pdf]]
 
 PDF-SCC : 
-![[BGS SGS SOMA JV vs NHPC, (2020) 4 SCC 234.pdf]]
+[[BGS SGS SOMA JV vs NHPC, (2020) 4 SCC 234.pdf]]

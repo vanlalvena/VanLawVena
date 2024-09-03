@@ -22,4 +22,4 @@ See also:
 [[CPC - Section 2(12)]] 
 
 PDF:
-![[Martin & Harris Private Limited vs Rajendra Mehta, (2022) 16 SCR 38.pdf]]
+[[Martin & Harris Private Limited vs Rajendra Mehta, (2022) 16 SCR 38.pdf]]

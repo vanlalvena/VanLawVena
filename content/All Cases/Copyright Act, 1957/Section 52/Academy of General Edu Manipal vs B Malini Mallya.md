@@ -11,12 +11,12 @@ Copyright mythological, historical work #incomplete
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Academy of General Edu Manipal vs B Malini Mallya, (2009) 1 SCR 615.pdf]]
+[[Academy of General Edu Manipal vs B Malini Mallya, (2009) 1 SCR 615.pdf]]

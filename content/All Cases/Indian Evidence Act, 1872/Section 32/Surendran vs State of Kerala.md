@@ -17,4 +17,4 @@ See also:
 [[IPC - Section 498A]]
 
 PDF:
-![[Surendran vs State of Kerala, Crl A 1080-2019 (SC).pdf]]
+[[Surendran vs State of Kerala, Crl A 1080-2019 (SC).pdf]]

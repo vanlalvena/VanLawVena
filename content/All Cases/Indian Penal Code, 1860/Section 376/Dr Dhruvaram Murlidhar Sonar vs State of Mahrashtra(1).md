@@ -51,4 +51,4 @@ See also:
 [[CrPC - Section 482]]
 [[SCST - Section 3]]
 
-![[Dr Dhruvaram Murlidhar Sonar vs State of Mahrashtra, (2018) 13 SCR 920.pdf]]
+[[Dr Dhruvaram Murlidhar Sonar vs State of Mahrashtra, (2018) 13 SCR 920.pdf]]

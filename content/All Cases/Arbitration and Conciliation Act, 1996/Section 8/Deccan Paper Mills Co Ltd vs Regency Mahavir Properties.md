@@ -54,6 +54,6 @@ See also:
 [[SRA - Section 26(3)]]
 
 PDF:
-![[Deccan Paper Mills vs Regency Mahavir Properties, (2020) 13 SCR 427.pdf]]
+[[Deccan Paper Mills vs Regency Mahavir Properties, (2020) 13 SCR 427.pdf]]
 
 Web Link: <a href="/All judgments/Deccan Paper Mills vs Regency Mahavir Properties, (2020) 13 SCR 427.pdf" target="_blank">URL of judgment</a>

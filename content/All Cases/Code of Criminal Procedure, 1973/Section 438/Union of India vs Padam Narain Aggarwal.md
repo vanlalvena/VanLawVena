@@ -28,7 +28,7 @@ See also:
 
 
 PDF:
-![[Union of India vs Padam Narain Aggarwal, (2008) 14 SCR 179.pdf]]
+[[Union of India vs Padam Narain Aggarwal, (2008) 14 SCR 179.pdf]]
 
 PDF-SCC: 
-![[UoI vs Padam Narain Aggarwal, (2008) 13 SCC 305.pdf]]
+[[UoI vs Padam Narain Aggarwal, (2008) 13 SCC 305.pdf]]

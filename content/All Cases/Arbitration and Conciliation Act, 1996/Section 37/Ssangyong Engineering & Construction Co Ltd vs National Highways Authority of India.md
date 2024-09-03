@@ -24,4 +24,4 @@ Refer also:
 See also:
 [[A&C Act, 1996 - Section 48]] 
 
-![[Ssangyong vs NHAI, (2019) 7 SCR 522.pdf]]
+[[Ssangyong vs NHAI, (2019) 7 SCR 522.pdf]]

@@ -57,6 +57,6 @@ See also:
 [[IPC - Section 107]]
 
 PDF:
-![[Arnab Manoranjan Goswami vs State of Maharashtra, (2020) 11 SCR 896.pdf]]
+[[Arnab Manoranjan Goswami vs State of Maharashtra, (2020) 11 SCR 896.pdf]]
 
 Web Link: <a href="/All judgments/Arnab Manoranjan Goswami vs State of Maharashtra, (2020) 11 SCR 896.pdf" target="_blank">URL of judgment</a>

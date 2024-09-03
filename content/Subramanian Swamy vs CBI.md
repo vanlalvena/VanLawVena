@@ -12,7 +12,7 @@ Section 6A unconstitutional
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 
 
 PDF:
-![[Subramanian Swamy vs CBI, (2014) 8 SCC 682.pdf]]
+[[Subramanian Swamy vs CBI, (2014) 8 SCC 682.pdf]]

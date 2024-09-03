@@ -36,6 +36,6 @@ See also:
 [[Contracts - Section 63]]
 
 PDF:
-![[A Valliammai vs KP Murali, (2023) 12 SCR 183.pdf]]
+[[A Valliammai vs KP Murali, (2023) 12 SCR 183.pdf]]
 
 Web Link: <a href="/All judgments/A Valliammai vs KP Murali, (2023) 12 SCR 183.pdf" target="_blank">URL of judgment</a>

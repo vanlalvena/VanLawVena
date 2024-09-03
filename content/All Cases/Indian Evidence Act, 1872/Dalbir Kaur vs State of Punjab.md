@@ -19,12 +19,12 @@ Such a situation is possible when the accused is a known person (**Pages 302-303
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Dalbir Kaur vs State of Punjab, (1977) 1 SCR 280.pdf]]
+[[Dalbir Kaur vs State of Punjab, (1977) 1 SCR 280.pdf]]

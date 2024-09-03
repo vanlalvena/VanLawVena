@@ -18,4 +18,4 @@ See also:
 [[Limitation - Article 58]]
 [[Limitation - Article 109]]
 
-![[KC Laxmana vs KC Chandrappa Gowda, (2022) 3 SCR 40.pdf]]
+[[KC Laxmana vs KC Chandrappa Gowda, (2022) 3 SCR 40.pdf]]

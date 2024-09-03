@@ -23,7 +23,7 @@ Daughter, sister, wife, mother, grandmother, great-grandmother, daughter-in-law,
 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -31,7 +31,7 @@ See also:
 [[DV - Section 19]] 
 
 PDF:
-![[Prabha Tyagi vs Kamlesh Devi, (2022) 5 SCR 970.pdf]]
+[[Prabha Tyagi vs Kamlesh Devi, (2022) 5 SCR 970.pdf]]
 
 
-![[Prabha Tyagi vs Kamlesh Devi, Crl A 511-2022 (SC).pdf]]
+[[Prabha Tyagi vs Kamlesh Devi, Crl A 511-2022 (SC).pdf]]

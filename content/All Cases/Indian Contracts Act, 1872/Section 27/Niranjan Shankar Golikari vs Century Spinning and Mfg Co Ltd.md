@@ -16,12 +16,12 @@ Date: 17.01.1967
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Niranjan Shankar Golikari vs Century Spinning and Mfg Co Ltd, (1967) 2 SCR 378.pdf]]
+[[Niranjan Shankar Golikari vs Century Spinning and Mfg Co Ltd, (1967) 2 SCR 378.pdf]]

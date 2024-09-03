@@ -12,14 +12,14 @@ Limitation Period is not applicable to application under section 12 of DV Act.
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[DV - Section 12]] 
 
 PDF-SCR:
-![[Kamatchi vs Lakshmi Narayanan, (2022) 5 SCR 629.pdf]]
+[[Kamatchi vs Lakshmi Narayanan, (2022) 5 SCR 629.pdf]]
 
 PDF:
-![[Kamatchi vs Lakshmi Narayanan, Crl A 627-2022 (SC).pdf]]
+[[Kamatchi vs Lakshmi Narayanan, Crl A 627-2022 (SC).pdf]]

@@ -14,10 +14,10 @@ Difference between the word *results* and *causes* (**Para 21**)
 (**Para 44**)
 –
 Refer also:
-[[]]
+
 
 See also:
 [[Arms Act - Section 27#27(3) Pre 2019 Amendment]]
 
 PDF:
-![[State of Punjab vs Dalbir Singh, (2012) 4 SCR 608.pdf]]
+[[State of Punjab vs Dalbir Singh, (2012) 4 SCR 608.pdf]]

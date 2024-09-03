@@ -21,8 +21,8 @@ Refer also:
 
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[High Court of Judicature at Madras vs MC Subramniam, SLP C No 3063-2021 (SC).pdf]]
+[[High Court of Judicature at Madras vs MC Subramniam, SLP C No 3063-2021 (SC).pdf]]

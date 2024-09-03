@@ -17,7 +17,7 @@ Soliloquy of an accused admitting his guilt is not an extra judicial confession 
 
 A statement under 157 Evidence Act means “something that is stated”; and element of communication is not necessary (**Page 89, E**)
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -31,4 +31,4 @@ See also:
 [[IPC - Section 302]]
 
 PDF:
-![[Sahoo vs State of UP, (1965) 3 SCR 86.pdf]]
+[[Sahoo vs State of UP, (1965) 3 SCR 86.pdf]]

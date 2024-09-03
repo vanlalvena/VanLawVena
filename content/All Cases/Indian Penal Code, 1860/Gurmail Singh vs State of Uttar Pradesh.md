@@ -10,12 +10,12 @@ Date: 17.10.2022
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Gurmail Singh vs State of Uttar Pradesh, Crl A 965-2018 (SC).pdf]]
+[[Gurmail Singh vs State of Uttar Pradesh, Crl A 965-2018 (SC).pdf]]

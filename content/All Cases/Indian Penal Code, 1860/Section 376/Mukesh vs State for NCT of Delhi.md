@@ -13,7 +13,7 @@ Refer also:
 
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Mukesh vs State NCT Delhi, Nirbhaya, (2017) 6 SCR 1.pdf]]
+[[Mukesh vs State NCT Delhi, Nirbhaya, (2017) 6 SCR 1.pdf]]

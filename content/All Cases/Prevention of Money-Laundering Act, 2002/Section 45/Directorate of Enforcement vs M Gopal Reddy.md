@@ -15,4 +15,4 @@ See also:
 [[CrPC - Section 438]] 
 
 PDF:
-![[Directorate of Enforcement vs M Gopal Reddy, Crl A 534-2013 (SC).pdf]]
+[[Directorate of Enforcement vs M Gopal Reddy, Crl A 534-2013 (SC).pdf]]

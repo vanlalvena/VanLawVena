@@ -39,7 +39,7 @@ Party can choose whether to file for vacation or appeal the order
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -47,5 +47,5 @@ See also:
 
 PDF:
 
-![[A Venkatasubbiah Naidu vs S Chellappan, (2000) Supp 3 SCR 303.pdf]]
+[[A Venkatasubbiah Naidu vs S Chellappan, (2000) Supp 3 SCR 303.pdf]]
 Web Link: <a href="/All judgments/A Venkatasubbiah Naidu vs S Chellappan, (2000) Supp 3 SCR 303.pdf" target="_blank">URL of judgment</a>

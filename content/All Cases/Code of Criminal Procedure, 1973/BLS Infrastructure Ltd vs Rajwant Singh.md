@@ -12,11 +12,11 @@ Dismissal of complaint for non-prosecution is not permissible if complainant’s
 	The court can also dismiss the *application* under section 311, and just decide the case.
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CrPC - Section 311]]
 
 PDF:
-![[BLS Infrastructure Ltd vs Rajwant Singh, (2023) 2 SCR 183.pdf]]
+[[BLS Infrastructure Ltd vs Rajwant Singh, (2023) 2 SCR 183.pdf]]

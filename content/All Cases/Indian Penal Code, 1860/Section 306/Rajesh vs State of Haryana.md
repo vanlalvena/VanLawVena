@@ -25,4 +25,4 @@ See also:
 [[IPC - Section 306]]
 
 PDF:
-![[Rajesh vs State of Haryana, Crl A 93-2019 (SC).pdf]]
+[[Rajesh vs State of Haryana, Crl A 93-2019 (SC).pdf]]

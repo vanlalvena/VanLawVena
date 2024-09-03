@@ -9,12 +9,12 @@ Date: 17.07.1984
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Sharad Birdi Chand Sarda vs State of Maharashtra, (1985) 1 SCR 88.pdf]]
+[[Sharad Birdi Chand Sarda vs State of Maharashtra, (1985) 1 SCR 88.pdf]]

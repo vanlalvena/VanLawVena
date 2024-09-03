@@ -25,11 +25,11 @@ The requirements of [[CPC - Order XLI rule 31]] are mandatory and non-observance
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[CPC - Order XLI rule 31]] 
 
 PDF:
-![[Manjula vs Shyamsundar, CA 6744-2013 (Order - SC).pdf]]
+[[Manjula vs Shyamsundar, CA 6744-2013 (Order - SC).pdf]]

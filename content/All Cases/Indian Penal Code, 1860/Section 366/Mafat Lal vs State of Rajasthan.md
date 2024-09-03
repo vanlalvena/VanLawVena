@@ -9,12 +9,12 @@ Date: 28.03.2022
 Section 366 IPC comes into play only when there is forceful compulsion of marriage
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Mafat Lal vs State of Rajasthan, Crl A 592-2022 (SC).pdf]]
+[[Mafat Lal vs State of Rajasthan, Crl A 592-2022 (SC).pdf]]

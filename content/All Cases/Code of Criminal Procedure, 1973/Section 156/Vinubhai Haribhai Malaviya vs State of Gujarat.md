@@ -28,4 +28,4 @@ Refer also:
 See also:
 [[CrPC - Section 173]](8) 
 
-![[Vinubhai Haribhai Malaviya vs State of Gujarat, (2019) 15 SCR 936.pdf]]
+[[Vinubhai Haribhai Malaviya vs State of Gujarat, (2019) 15 SCR 936.pdf]]

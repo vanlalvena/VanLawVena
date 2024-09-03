@@ -14,8 +14,8 @@ Refer also:
 [[Chunilal V Mehta & Sons vs Century Spg & Mfg Co Ltd]], (1962) Supp 3 SCR 549 : AIR 1962 SC 1314
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[BSES Rajdhani Power Ltd vs Delhi Electricity Regulatory Commission, (2022) 14 SCR 790.pdf]]
+[[BSES Rajdhani Power Ltd vs Delhi Electricity Regulatory Commission, (2022) 14 SCR 790.pdf]]

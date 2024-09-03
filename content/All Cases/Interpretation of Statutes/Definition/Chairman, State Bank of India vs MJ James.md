@@ -14,7 +14,7 @@ Definition clauses #incomplete
 Doctrine of acquiescence
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -22,4 +22,4 @@ See also:
 [[Constitution - Article 226#Laches]] 
 
 PDF:
-![[Chairman, State Bank of India vs MJ James, (2021) 7 SCR 373.pdf]]
+[[Chairman, State Bank of India vs MJ James, (2021) 7 SCR 373.pdf]]

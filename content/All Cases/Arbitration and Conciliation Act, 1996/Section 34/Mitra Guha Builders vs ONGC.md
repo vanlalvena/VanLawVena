@@ -11,12 +11,12 @@ On excepted matters
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Mitra Guha Builders vs ONGC, (2019) 14 SCR 368.pdf]]
+[[Mitra Guha Builders vs ONGC, (2019) 14 SCR 368.pdf]]

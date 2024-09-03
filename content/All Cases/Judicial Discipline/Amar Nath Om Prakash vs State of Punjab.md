@@ -46,6 +46,6 @@ Refer also:
 
 See also:
 
-PDF: ![[Amar Nath Om Prakash vs State of Punjab, (1985) 2 SCR 72.pdf]]
+PDF: [[Amar Nath Om Prakash vs State of Punjab, (1985) 2 SCR 72.pdf]]
 
 Web Link: [URL of judgment](https://github.com/vanlalvena/VanLawVena/blob/v4/All%20judgments/Amar%20Nath%20Om%20Prakash%20vs%20State%20of%20Punjab,%20(1985)%202%20SCR%2072.pdf)

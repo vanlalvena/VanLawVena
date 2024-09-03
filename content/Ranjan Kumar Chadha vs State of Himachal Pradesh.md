@@ -11,12 +11,12 @@ Even when suspects their right by having officer search them, the officer must p
 Principles of section 50 laid down
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Ranjan Kumar Chadha vs State of Himachal Pradesh, 2023 INSC 878.pdf]]
+[[Ranjan Kumar Chadha vs State of Himachal Pradesh, 2023 INSC 878.pdf]]

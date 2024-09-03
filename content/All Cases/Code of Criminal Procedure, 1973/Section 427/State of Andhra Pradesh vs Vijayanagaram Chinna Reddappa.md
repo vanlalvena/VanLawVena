@@ -13,7 +13,7 @@ Section 427 does not deal with escaped life convict, but provides for how senten
 
 –
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -21,4 +21,4 @@ See also:
 [[CrPC - Section 427]]
 
 PDF:
-![[State of Andhra Pradesh vs Vijayanagaram Chinna Reddappa, (2023) 5 SCR 485.pdf]]
+[[State of Andhra Pradesh vs Vijayanagaram Chinna Reddappa, (2023) 5 SCR 485.pdf]]

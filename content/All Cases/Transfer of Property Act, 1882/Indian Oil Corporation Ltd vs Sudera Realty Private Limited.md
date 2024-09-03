@@ -11,7 +11,7 @@ Date: 00.00.0000
 Tenant in sufferance liability to pay mesne profits
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -20,4 +20,4 @@ See also:
 [[Limitation - Article 113]]
 
 PDF:
-![[Indian Oil Corporation Ltd vs Sudera Realty Private Limited, (2022) 19 SCR 462.pdf]]
+[[Indian Oil Corporation Ltd vs Sudera Realty Private Limited, (2022) 19 SCR 462.pdf]]

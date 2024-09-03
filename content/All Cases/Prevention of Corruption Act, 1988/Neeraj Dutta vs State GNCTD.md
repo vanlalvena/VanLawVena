@@ -12,15 +12,15 @@ In cases of corruption, prosecution has to prove demand and acceptance, either b
 #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
 [[Evidence - Section 154]] 
 
 PDF:
-![[Neeraj Dutta vs State GNCTD, Crl A 1669-2009 (SC).pdf]]
+[[Neeraj Dutta vs State GNCTD, Crl A 1669-2009 (SC).pdf]]
 
-![[Neeraj Dutta vs State (NCT of Delhi), (2023) 4 SCC 731.pdf]]
+[[Neeraj Dutta vs State (NCT of Delhi), (2023) 4 SCC 731.pdf]]
 
-![[Neeraj Dutta vs State (Govt of NCT of Delhi), (2022) 5 SCR 104.pdf]]
+[[Neeraj Dutta vs State (Govt of NCT of Delhi), (2022) 5 SCR 104.pdf]]

@@ -9,7 +9,7 @@ Date: 29.10.2020
 Officer empowered by [[NDPS - Section 53]] are police officers within the meaning of [[Evidence, Section 25]] and any confessional statements made are barred thereunder
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -18,7 +18,7 @@ See also:
 [[NDPS - Section 42]]
 [[NDPS - Section 53]]
 
-PDF: ![[Tofan Singh vs State of Tamil Nadu, (2020) 12 SCR 583.pdf]]
+PDF: [[Tofan Singh vs State of Tamil Nadu, (2020) 12 SCR 583.pdf]]
 
 PDF-SCC :
-![[Tofan Singh vs State of TN, (2021) 4 SCC 1.pdf]]
+[[Tofan Singh vs State of TN, (2021) 4 SCC 1.pdf]]

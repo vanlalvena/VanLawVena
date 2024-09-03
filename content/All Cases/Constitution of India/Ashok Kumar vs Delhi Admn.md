@@ -49,6 +49,6 @@ See also:
 [[NSA - Section 8]]
 
 PDF:
-![[Ashok Kumar vs Delhi Administration, (1982) 3 SCR 707.pdf]]
+[[Ashok Kumar vs Delhi Administration, (1982) 3 SCR 707.pdf]]
 
 Web Link: <a href="/All judgments/Ashok Kumar vs Delhi Administration, (1982) 3 SCR 707.pdf" target="_blank">URL of judgment</a>

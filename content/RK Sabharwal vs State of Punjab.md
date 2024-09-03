@@ -18,8 +18,8 @@ Refer also:
 [[Indra Sawhney vs Union of India]], AIR 1993 SC 477, 1992 Supp (3) SCC 217
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[RK Sabharwal vs State of Punjab, (1995) 2 SCC 745.pdf]]
+[[RK Sabharwal vs State of Punjab, (1995) 2 SCC 745.pdf]]

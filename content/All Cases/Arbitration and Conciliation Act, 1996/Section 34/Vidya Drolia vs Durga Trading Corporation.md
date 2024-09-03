@@ -21,7 +21,7 @@ No provision in A&C Act to compel third persons who have not exercised option to
 
 Refer also:
 
-[[]]
+
 Judgment name
 
 See also:
@@ -33,4 +33,4 @@ See also:
 [[Contracts - Section 10]]
 [[Evidence, Section 41]]
 
-![[Vidya Drolia vs Durga Trading Corporation, (2020) 11 SCR 1001.pdf]]
+[[Vidya Drolia vs Durga Trading Corporation, (2020) 11 SCR 1001.pdf]]

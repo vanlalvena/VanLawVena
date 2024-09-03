@@ -31,4 +31,4 @@ See also:
 [[GCA - Section 6]] 
 
 PDF:
-![[Har Naraini Devi vs Union of India, (2022) 15 SCR 500.pdf]]
+[[Har Naraini Devi vs Union of India, (2022) 15 SCR 500.pdf]]

@@ -20,4 +20,4 @@ See also:
 [[A&C Act, 1996 - Section 34]]
 
 PDF:
-![[Oriental Insurance Co Ltd vs Tejparas Associates Exports Pvt Ltd, (2019) 13 SCR 228.pdf]]
+[[Oriental Insurance Co Ltd vs Tejparas Associates Exports Pvt Ltd, (2019) 13 SCR 228.pdf]]

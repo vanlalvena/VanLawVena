@@ -13,8 +13,8 @@ Refer also:
 [[Hardeep Singh vs State of Punjab]]
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF:
-![[Sagar vs State of UP, Crl A 397-2022 (SC).pdf]]
+[[Sagar vs State of UP, Crl A 397-2022 (SC).pdf]]

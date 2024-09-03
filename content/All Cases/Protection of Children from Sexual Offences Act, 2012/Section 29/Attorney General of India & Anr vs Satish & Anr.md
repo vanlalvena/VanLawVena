@@ -12,7 +12,7 @@ However, a fact is proved only when the special court believes it to exist beyon
 Sexual Intent is a question of fact
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:

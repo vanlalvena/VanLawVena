@@ -9,11 +9,11 @@ Date: 05.04.2005
 If the evidence of a victim of sexual assault inspires confidence, conviction can be founded on her testimony alone. Her evidence is more reliable than that of injured witness. In case of sexual assault, corroboration as a condition for judicial reliance is not a requirement of law but a guidance of prudence (**Page 214, E-G**)
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
-![[Kamalanantha vs State of Tamil Nadu, (2005) 3 SCR 182.pdf]]
+[[Kamalanantha vs State of Tamil Nadu, (2005) 3 SCR 182.pdf]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f8c0d660c786a60",
+        "id": "07ac69089c183d35",
         "type": "tabs",
         "children": [
           {
-            "id": "aa49cee6c47015bf",
+            "id": "a88e0335da989d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IR Coelho vs State of TN.md",
+                "file": "All Cases/Constitution of India/Article 300A/Sukh Dutt Ratra vs State of HP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"date\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IR Coelho vs State of TN.md",
+                "file": "All Cases/Constitution of India/Article 300A/Sukh Dutt Ratra vs State of HP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IR Coelho vs State of TN.md",
+                "file": "All Cases/Constitution of India/Article 300A/Sukh Dutt Ratra vs State of HP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IR Coelho vs State of TN.md"
+                "file": "All Cases/Constitution of India/Article 300A/Sukh Dutt Ratra vs State of HP.md"
               }
             }
           },
@@ -170,8 +169,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "aa49cee6c47015bf",
+  "active": "a88e0335da989d6e",
   "lastOpenFiles": [
+    "IR Coelho vs State of TN.md",
+    "judgments/report/IR Coelho vs State of TN, (2007) 2 SCC 1.pdf",
+    "index.md",
+    "Dataview Queries.md",
+    "judgments/report/A Sreenivasa Reddy vs Rakesh Sharma, (2023) 12 SCR 932.pdf",
     "All judgments/Report/TV Today Network Ltd vs News Laundry Media (P) Ltd, (2022) 5 HCC (Del) 6.pdf",
     "All judgments/Report/Tara Batra vs Punam A Kumar, (2021) 3 HCC (Del) 347.pdf",
     "All judgments/Report/Sotefin SA vs Indraprastha Cancer Society & Research Center, (2022) 4 HCC (Del) 452.pdf",
@@ -180,15 +184,9 @@
     "All judgments/Report/Hakim vs State (NCT of Delhi), (2022) 6 HCC (Del) 255.pdf",
     "All judgments/Report/Dr Reddys Laboratories Ltd vs Dr Reddy Pathlabs (P) Ltd, (2021) 3 HCC (Del) 578.pdf",
     "All judgments/Report/Bata India Ltd vs Sarla Sharma, (2021) 2 HCC (Del) 111.pdf",
-    "All judgments/Report/Ashu vs High Court of Delhi, (2022) 6 HCC (Del) 452.pdf",
-    "All judgments/Report/Secy of State for India in Council vs Hindusthan Coop Insurance Society, Ltd, (1930-31) 58 IA 259.pdf",
-    "All judgments/Report/Hamira Bibi vs Zubaida Bibi, (1915-16) 43 IA 294.pdf",
     "Index of all Laws.md",
     "Index of all Cases by Courts.md",
     "Index of all Cases.md",
-    "index.md",
-    "Dataview Queries.md",
-    "IR Coelho vs State of TN.md",
     "All Cases/Constitution of India/Article 16(4)/Indra Sawhney vs Union of India.md",
     "Folder of all Laws/Interpretation of Statute.md",
     "Folder of all Laws/Definition.md",

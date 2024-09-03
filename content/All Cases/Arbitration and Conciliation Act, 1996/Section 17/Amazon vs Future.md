@@ -10,15 +10,15 @@ Date: 06.08.2021
 Emergency award #incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
-[[]] 
+ 
 Act, Section
 
 PDF-SCR:
-![[Amazon vs Future, (2021) 4 SCR 771.pdf]]
+[[Amazon vs Future, (2021) 4 SCR 771.pdf]]
 
 PDF-SCC: 
-![[Amazon.Com NV Investment Holdings LLC vs Future Retail Ltd, (2022) 1 SCC 209.pdf]]
+[[Amazon.Com NV Investment Holdings LLC vs Future Retail Ltd, (2022) 1 SCC 209.pdf]]

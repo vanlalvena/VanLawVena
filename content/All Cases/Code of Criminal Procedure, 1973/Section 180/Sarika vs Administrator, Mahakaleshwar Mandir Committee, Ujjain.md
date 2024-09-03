@@ -43,7 +43,7 @@ Date: 01.09.2020
 	#incomplete 
 
 Refer also:
-[[]]
+
 Judgment name
 
 See also:
@@ -57,4 +57,4 @@ See also:
 [[CrPC - Section 184]]
 
 PDF:
-![[Sarika vs Administrator, Mahakaleshwar Mandir Committee, Ujjain, (2020) 9 SCR 303.pdf]]
+[[Sarika vs Administrator, Mahakaleshwar Mandir Committee, Ujjain, (2020) 9 SCR 303.pdf]]

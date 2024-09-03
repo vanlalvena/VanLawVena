@@ -28,4 +28,4 @@ See also:
 [[CrPC - Section 439]]
 
 PDF:
-![[Dharmander Singh @ Saheb v State GNCTD, BA 1559-2020 (Del HC).pdf]]
+[[Dharmander Singh @ Saheb v State GNCTD, BA 1559-2020 (Del HC).pdf]]

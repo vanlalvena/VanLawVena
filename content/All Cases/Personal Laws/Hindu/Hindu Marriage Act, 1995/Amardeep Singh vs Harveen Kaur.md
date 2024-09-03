@@ -26,4 +26,4 @@ See also:
 [[Constitution - Article 142]] 
 
 PDF:
-![[Amardeep Singh vs Harveen Kaur, (2017) 8 SCR 925.pdf]]
+[[Amardeep Singh vs Harveen Kaur, (2017) 8 SCR 925.pdf]]
