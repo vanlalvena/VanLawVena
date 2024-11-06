@@ -7,6 +7,7 @@
 [[Constitution - Article 13]]
 [[Constitution - Article 14]]
 [[Constitution - Article 15]]
+[[Constitution - Article 15(5)]]
 [[Constitution - Article 16]]
 [[Constitution - Article 16(4)]]
 [[Constitution - Article 19]]

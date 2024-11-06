@@ -6,6 +6,11 @@
     "Bench Strength": "number",
     "Author (Concurring)": "multitext",
     "Author (Minority)": "multitext",
-    "Case Number": "multitext"
+    "Case Number": "multitext",
+    "date": "date",
+    "Author (Majority)": "multitext",
+    "Coram": "multitext",
+    "Case Reference": "multitext",
+    "Neutral Citation": "multitext"
   }
 }

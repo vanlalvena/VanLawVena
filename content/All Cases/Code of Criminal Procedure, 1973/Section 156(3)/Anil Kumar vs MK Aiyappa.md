@@ -55,4 +55,4 @@ CrPC - [[CrPC - Section 156(3)]]
 PDF:
 [[Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf]]
 
-Web Link: <a href="/All judgments/Anil Kumar vs MK Aiyappa, (2013) 9 SCR 869.pdf" target="_blank">URL of judgment</a>
+[SCR Weblink](https://digiscr.sci.gov.in/view_judgment?id=MTM4MzI=)

@@ -14,14 +14,34 @@ date: ""
 draft: true
 tags:
 ---
-Refer also:
+Case Name : ***X vs Y***
 
+Case Reference: (20XX) 00 SCR 00 :  
 
+Neutral Citation: 20XX INSC 000
 
-See also:
- 
+Case Number: 
+
+Court: Supreme Court
+
+Bench: 02
+
+Coram: X Y, A B (*Author*)
+
+Date: DD.MM.YYYY
+
+## Analysis %%Relevant facts, reasoning%%
+
+%% ">[!important] Heading of Callout" also [!hint / tip]
+">[!summary]-" summary/tldr will result in folded callout
+[!info], [!warning / caution / !attention], [!quote / cite], [!example], [!question / help / faq]
+%% 
+
+Refer also: %%Judgment Name%%
+
+See also: %%Act, Section%%
 
 PDF:
 [[.pdf]]
 
-Web Link: <a href="/All judgments/title.pdf" target="_blank">URL of judgment</a>
+[SCR Weblink]()

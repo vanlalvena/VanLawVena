@@ -23,9 +23,9 @@ tags:
 ---
 Case Name : ***Adri Dharan Das vs State of W.B.***
 
-Case Reference: (2005) 2 SCR 189 :  (2005) 4 SCC 303
+Case Reference: (2005) 2 SCR 188 :  (2005) 4 SCC 303
 
-Neutral Citation:
+Neutral Citation: 2005 INSC 87
 
 Case Number: Crl A 326/2005
 
@@ -52,7 +52,9 @@ Judgment name
 See also:
 [[CrPC - Section 439]]
 
-PDF:
+PDF-SCR:
 [[Adri Dharan Das vs State of WB, (2005) 2 SCR 189.pdf]]
 
-Web Link: <a href="/All judgments/Adri Dharan Das vs State of WB, (2005) 2 SCR 189.pdf" target="_blank">URL of judgment</a>
+PDF-SCC: [[Adri Dharan Das vs State of WB, (2005) 4 SCC 303]]
+
+[SCR Weblink](https://digiscr.sci.gov.in/view_judgment?id=MzQwMTA=)

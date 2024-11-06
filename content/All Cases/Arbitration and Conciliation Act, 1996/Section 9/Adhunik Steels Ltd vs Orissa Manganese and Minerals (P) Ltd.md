@@ -42,4 +42,4 @@ See also:
 PDF:
 [[Adhunik Steels Ltd vs Orissa Manganese and Minerals (P) Ltd, (2007) 8 SCR 213.pdf]]
 
-Web Link: <a href="/All judgments/Adhunik Steels Ltd vs Orissa Manganese and Minerals (P) Ltd, (2007) 8 SCR 213" target="_blank">URL of judgment</a>
+[SCR Weblink](https://digiscr.sci.gov.in/view_judgment?id=MjYxNjI=)

@@ -1,6 +1,6 @@
 {
   "useCache": true,
-  "hideExcluded": false,
+  "hideExcluded": true,
   "downrankedFoldersFilters": [],
   "ignoreDiacritics": true,
   "ignoreArabicDiacritics": false,
@@ -16,6 +16,7 @@
   "vimLikeNavigationShortcut": false,
   "ribbonIcon": true,
   "showExcerpt": true,
+  "maxEmbeds": 5,
   "renderLineReturnInExcerpts": true,
   "showCreateButton": false,
   "highlight": true,

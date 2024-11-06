@@ -48,4 +48,5 @@ See also:
 PDF:
 
 [[A Venkatasubbiah Naidu vs S Chellappan, (2000) Supp 3 SCR 303.pdf]]
-Web Link: <a href="/All judgments/A Venkatasubbiah Naidu vs S Chellappan, (2000) Supp 3 SCR 303.pdf" target="_blank">URL of judgment</a>
+
+[SCR Weblink](https://digiscr.sci.gov.in/view_judgment?id=MjMzMzU=https://digiscr.sci.gov.in/view_judgment?id=MjMzMzU=)

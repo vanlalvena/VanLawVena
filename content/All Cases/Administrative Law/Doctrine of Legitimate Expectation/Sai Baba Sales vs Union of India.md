@@ -54,4 +54,4 @@ Act, Section
 
 [[Sai Baba Sales vs Union of India, (2021) 11 SCR 284.pdf]]
 
-Web Link: <a href="/All judgments/to be filled.pdf" target="_blank">URL of judgment</a>
+[SCR Weblink](https://digiscr.sci.gov.in/view_judgment?id=MjkzNDc=)

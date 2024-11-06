@@ -65,4 +65,4 @@ See also:
 PDF:
 [[Avitel Post Studioz vs HSBC PI Holdings, (2020) 10 SCR 791.pdf]]
 
-Web Link: <a href="/All judgments/Avitel Post Studioz vs HSBC PI Holdings, (2020) 10 SCR 791.pdf" target="_blank">URL of judgment</a>
+[SCR Weblink](https://digiscr.sci.gov.in/view_judgment?id=ODM2Ng==)

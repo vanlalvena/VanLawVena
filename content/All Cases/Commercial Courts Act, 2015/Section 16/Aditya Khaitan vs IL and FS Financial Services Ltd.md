@@ -48,4 +48,5 @@ See also:
 [[NI Act - Section 138]]
 
 PDF:[[Aditya Khaitan vs IL and FS Financial Services Ltd, (2023) 12 SCR 803.pdf]]
-Web Link: <a href="/All judgments/to be filled.pdf" target="_blank">URL of judgment</a>
+
+[SCR Weblink](https://digiscr.sci.gov.in/view_judgment?id=MzUwOTE=)

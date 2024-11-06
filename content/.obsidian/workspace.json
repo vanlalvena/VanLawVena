@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "07ac69089c183d35",
+        "id": "f9bdcbb68e74f4af",
         "type": "tabs",
         "children": [
           {
-            "id": "a88e0335da989d6e",
+            "id": "2f3751fe6c9ec15c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Cases/Constitution of India/Article 300A/Sukh Dutt Ratra vs State of HP.md",
+                "file": "orphaned files output.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "orphaned files output"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,12 +54,14 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -71,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Cases/Constitution of India/Article 300A/Sukh Dutt Ratra vs State of HP.md",
+                "file": "empty files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for empty files"
             }
           },
           {
@@ -111,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All Cases/Constitution of India/Article 300A/Sukh Dutt Ratra vs State of HP.md",
+                "file": "empty files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from empty files"
             }
           },
           {
@@ -125,7 +139,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,8 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Cases/Constitution of India/Article 300A/Sukh Dutt Ratra vs State of HP.md"
-              }
+                "file": "empty files.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of empty files"
             }
           },
           {
@@ -147,7 +165,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -155,56 +175,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a88e0335da989d6e",
+  "active": "2f3751fe6c9ec15c",
   "lastOpenFiles": [
-    "IR Coelho vs State of TN.md",
-    "judgments/report/IR Coelho vs State of TN, (2007) 2 SCC 1.pdf",
-    "index.md",
-    "Dataview Queries.md",
-    "judgments/report/A Sreenivasa Reddy vs Rakesh Sharma, (2023) 12 SCR 932.pdf",
-    "All judgments/Report/TV Today Network Ltd vs News Laundry Media (P) Ltd, (2022) 5 HCC (Del) 6.pdf",
-    "All judgments/Report/Tara Batra vs Punam A Kumar, (2021) 3 HCC (Del) 347.pdf",
-    "All judgments/Report/Sotefin SA vs Indraprastha Cancer Society & Research Center, (2022) 4 HCC (Del) 452.pdf",
-    "All judgments/Report/Reena Chadha vs State (NCT of Delhi), (2021) 3 HCC (Del) 385.pdf",
-    "All judgments/Report/Phonographic Performance Ltd vs Union of India, (2022) 1 HCC (Del) 608.pdf",
-    "All judgments/Report/Hakim vs State (NCT of Delhi), (2022) 6 HCC (Del) 255.pdf",
-    "All judgments/Report/Dr Reddys Laboratories Ltd vs Dr Reddy Pathlabs (P) Ltd, (2021) 3 HCC (Del) 578.pdf",
-    "All judgments/Report/Bata India Ltd vs Sarla Sharma, (2021) 2 HCC (Del) 111.pdf",
-    "Index of all Laws.md",
-    "Index of all Cases by Courts.md",
-    "Index of all Cases.md",
-    "All Cases/Constitution of India/Article 16(4)/Indra Sawhney vs Union of India.md",
-    "Folder of all Laws/Interpretation of Statute.md",
-    "Folder of all Laws/Definition.md",
-    "Folder of all Laws/IOS.md",
-    "Folder of all Laws/IOS - Definition.md",
-    "All Cases/Constitution of India/Article 300A/Indore Vikas Pradhikaran vs Pure Industrial Coke & Chemicals Ltd.md",
-    "Jaishri Laxmanrao Patil vs State of Maharashtra.md",
-    "Folder of all Laws/Constitution - Article 300A.md",
-    "All Cases/Negotiable Instruments Act, 1881/Section 138/In re Expeditious trial of cases under section 138 of NI Act 1881.md",
-    "Folder of all Laws/NI Act.md",
-    "Folder of all Laws/NI Act - Section 143.md",
-    "Folder of all Laws/NI Act - Section 138.md",
-    "All Cases/Indian Evidence Act, 1872/Section 45/Hari OM vs State of UP.md",
-    "Folder of all Laws/CFA.md",
-    "All Cases/Indian Succession Act, 1925/Section 299/GS Nayyar vs Kaushalya Rani.md",
-    "Subal Paul vs Malina Paul.md",
-    "Folder of all Laws/CFA - Schedule II, Article 11.md",
-    "Folder of all Laws/CPC - Order XLIII rule 1.md",
-    "Folder of all Laws/CPC.md"
+    "judgments/report/Urvashi Aggarwal vs Inderpaul Aggarwal, 283 (2021) DLT 354.pdf",
+    "Folder of all Laws/Constitution - Article 15(5).md",
+    "Folder of all Laws/CrPC.md",
+    "Folder of all Laws/CrPC - Section 362.md",
+    "Folder of all Laws/Urvashi Aggarwal vs Inderpaul Aggarwal.md",
+    "judgments/Urvashi Aggarwal vs Inderpaul Aggarwal, 2021-DHC-3190.pdf",
+    "orphaned files output.md",
+    "judgments/report/Ashoka Kumar Thakur vs Union of India, (2008) 6 SCC 1.pdf",
+    "Folder of all Laws/Constitution.md",
+    "Folder of all Laws/Evidence.md",
+    "broken links output.md",
+    "empty files.md",
+    "Folder of all Laws/Evidence - Section 65.md",
+    "judgments/report/Jagmail Singh vs Karamjit Singh, (2020) 4 SCR 1163.pdf",
+    "judgments/Surinder Kaur vs Sardar Mangal Singh, 2009-DHC-785.pdf",
+    "judgments/report/Surinder Kaur vs Sardar Mangal Singh, (2009) 109 DRJ 474.pdf",
+    "Folder of all Laws/Nawab Singh vs Inderjit Kaur.md",
+    "judgments/report/Tula Ram v. Kishore Singh, (1977) 4 SCC 459.pdf",
+    "judgments/report/Surinder Kaur vs Sardar Mangal Singh, (2009) 158 DLT 1.pdf",
+    "judgments/report/Saketh India Ltd vs India Securities Ltd, (1999) 3 SCC 1.pdf",
+    "judgments/report/Raghu Raj Singh Rousha v. Shivam Sundaram Promoters (P) Ltd., (2009) 2 SCC 363.pdf",
+    "Folder of all Laws/Evidence - Section 65B.md",
+    "Folder of all Laws/CrPC - Section 91.md",
+    "All Cases/Code of Criminal Procedure, 1973/Section 91/VS Kuttan Pillai vs Ramakrishnan.md",
+    "State of Bombay vs Kathi Kalu Oghad.md",
+    "Folder of all Laws/CrPC - Section 93.md",
+    "All Cases/Indian Penal Code, 1860/Section 499/Iveco Magirus vs Nirmal Kishore Bhartiya.md",
+    "template/template for other pages.md",
+    "template/template for cases HC.md",
+    "template/template for cases.md",
+    "All Cases/Indian Penal Code, 1860/Section 499/Melepurath Sankunni Ezhuthassan vs Thekittil Gopalankuty Nair.md",
+    "All Cases/Indian Penal Code, 1860/Navtej Singh Johar vs UOI.md",
+    "Folder of all Laws/DHJS - Rule 9.md",
+    "Sudeep Raj Saini vs High Court of Delhi.md",
+    "Folder of all Laws/IPC - Section 420.md"
   ]
 }

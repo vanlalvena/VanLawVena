@@ -55,5 +55,3 @@ See also:
 
 PDF:
 [[Flight Center Travels Pvt Ltd vs Flight Centre Ltd, 2013 DHC 381-DB.pdf]]
-
-Web Link: <a href="/All judgments/Flight Center Travels Pvt Ltd vs Flight Centre Ltd, 2013 DHC 381-DB.pdf" target="_blank">URL of judgment</a>

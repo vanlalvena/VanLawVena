@@ -65,4 +65,4 @@ See also:
 PDF:
 [[Arjan Singh vs Punit Ahluwalia, (2008) 8 SCR 684.pdf]]
 
-Web Link: <a href="/All judgments/Arjan Singh vs Punit Ahluwalia, (2008) 8 SCR 684.pdf" target="_blank">URL of judgment</a>
+[SCR Weblink](https://digiscr.sci.gov.in/view_judgment?id=MjI0NjM=)

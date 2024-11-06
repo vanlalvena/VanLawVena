@@ -418,6 +418,8 @@ description:
 
 [[CrPC - Section 357C]]
 
+[[CrPC - Section 362]]
+
 [[CrPC - Section 366]]
 
 [[CrPC - Section 368]]
