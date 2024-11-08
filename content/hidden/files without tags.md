@@ -432,7 +432,7 @@
 - [[Folder of all Laws/A&C Act, 1996 - Section 12.md]]
 - [[Folder of all Laws/A&C Act, 1996 - Section 12(5).md]]
 - [[Folder of all Laws/A&C Act, 1996 - Section 11.md]]
-- [[Dataview Queries.md]]
+- [[Dataview Queries]]
 - [[All Cases/Transfer of Property Act, 1882/Section 60/Singh Ram vs Sheo Ram.md]]
 - [[All Cases/Transfer of Property Act, 1882/Section 54/Suraj Lamp vs State of Haryana.md]]
 - [[All Cases/Transfer of Property Act, 1882/Section 54/Kewal Krishan vs Rajesh Kumar.md]]

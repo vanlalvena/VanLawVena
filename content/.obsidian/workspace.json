@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "empty files.md",
+                "file": "hidden/orphaned files output.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "empty files"
+              "title": "orphaned files output"
+            }
+          },
+          {
+            "id": "1e2714a17874c969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hidden/files without tags.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "files without tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,16 +96,15 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "right": {
     "id": "f9d5065141f64d4f",
@@ -183,23 +198,24 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "60b184356cfa03d9",
+  "active": "0d01c4de05c83fb4",
   "lastOpenFiles": [
+    "hidden/orphaned files output.md",
+    "hidden/broken links output.md",
+    "hidden/Dataview Queries.md",
+    "Index of all Laws.md",
+    "hidden/empty files.md",
     "index.md",
-    "empty files.md",
     "Index of all Cases.md",
-    "files without tags.md",
-    "Dataview Queries.md",
-    "orphaned files output.md",
-    "broken links output.md",
+    "hidden/files without tags.md",
     "All Cases/Indian Evidence Act, 1872/Nawab Singh vs Inderjit Kaur.md",
     "Folder of all Laws/Evidence - Section 65.md",
     "Yogendra vs State of Madhya Pradesh.md",
@@ -219,7 +235,6 @@
     "All Cases/Constitution of India/Minerva Mills vs Union of India.md",
     "All Cases/Constitution of India/Article 14/Natural Resources Allocation, In re.md",
     "All Cases/Trade Marks Act, 1999/Promoshirt SM SA vs Armassuisse.md",
-    "All Cases/Code of Criminal Procedure, 1973/Republic of Italy vs Union of India.md",
     "All Cases/Delhi Special Police Establishment Act, 1946",
     "All Cases/Delhi Higher Judicial Service Rules, 1970",
     "All Cases/Unlawful Activities (Prevention) Act, 1967",
