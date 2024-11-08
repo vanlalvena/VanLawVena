@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hidden/orphaned files output.md",
+                "file": "orphaned files output.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hidden/files without tags.md",
+                "file": "orphaned files output.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "files without tags"
+              "title": "orphaned files output"
             }
           }
         ],
@@ -206,16 +206,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0d01c4de05c83fb4",
+  "active": "1e2714a17874c969",
   "lastOpenFiles": [
-    "hidden/orphaned files output.md",
-    "hidden/broken links output.md",
-    "hidden/Dataview Queries.md",
+    "files without tags.md",
+    "empty files.md",
+    "Dataview Queries.md",
+    "broken links output.md",
+    "orphaned files output.md",
     "Index of all Laws.md",
-    "hidden/empty files.md",
     "index.md",
     "Index of all Cases.md",
-    "hidden/files without tags.md",
     "All Cases/Indian Evidence Act, 1872/Nawab Singh vs Inderjit Kaur.md",
     "Folder of all Laws/Evidence - Section 65.md",
     "Yogendra vs State of Madhya Pradesh.md",

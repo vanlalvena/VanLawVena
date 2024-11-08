@@ -1,6 +1,11 @@
-
 ---
-
+title: orphaned files output
+draft: true
+tags: 
+date: 
+aliases: 
+description:
+---
 - [[Ashoka Kumar Thakur vs Union of India, (2008) 6 SCC 1.pdf]]
 - [[SP Gupta vs Union of India, 1981 Supp SCC 87.pdf]]
 - [[M Siddiq (Ram Janmabhumi Temple-5 J.) vs Suresh Das, (2020) 1 SCC 1.pdf]]

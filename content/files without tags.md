@@ -1,3 +1,11 @@
+---
+title: files without tags
+draft: true
+tags: 
+date: 
+aliases: 
+description:
+---
 - [[broken links output]]
 - [[orphaned files output]]
 - [[Yogendra vs State of Madhya Pradesh.md]]
