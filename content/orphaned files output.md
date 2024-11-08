@@ -757,5 +757,3 @@
 - [[Kamlesh vs State, 297 (2023) DLT 37 (DB).pdf]]
 - [[Wasudhir Foundation vs C Lal & Sons, 45 (1991) DLT 556.pdf]]
 - [[SJVNL vs Ms CCC Him JV & Anr,CA No 494-2021 (Order - SC).pdf]]
-- [[Urvashi Aggarwal vs Inderpaul Aggarwal, 283 (2021) DLT 354.pdf]]
-- [[empty files.md]]

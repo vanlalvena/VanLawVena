@@ -15,7 +15,7 @@ Court is not required to record a finding that the accused person is not guilty.
 Length of period of custody or fact that chargesheet has been filed, and trial commenced are not considerations that can be treated as persuasive grounds. (**Para 18**)
 
 Refer also:
-[[Tofan Singh vs State of Tamil Nadu]]
+[[All Cases/Narcotic Drugs and Psychotropic Substances Act, 1985/Tofan Singh vs State of Tamil Nadu]]
 [[Collector of Customs, New Delhi vs Ahmadalieva Nodira]], (2004) 3 SCC 549
 [[State of Kerala vs Rajesh]], (2020) 12 SCC 122
 

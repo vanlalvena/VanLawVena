@@ -11,7 +11,7 @@ No extinguishment of decree for alimony when judgment debtor dies  #incomplete
 
 –
 Refer also:
-[[State of Maharashtra vs Dr Praful B Desai]]
+[[State of Maharashtra vs Dr Praful B Desai 1]]
 
 
 See also:

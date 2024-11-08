@@ -21,7 +21,7 @@ Refer also:
 [[CBI vs State of Rajasthan]], (2001) 3 SCC 333
 	(**Para 14**) - The High Court under Article 226, or the Supreme Court under Article 32 or Article 142(1) can invoke its powers to give a direction to the CBI to investigate; however this must be invoked sparingly
 	(**Para 16**) Magisterial power cannot be stretched beyond directing officer in charge of police station to conduct the investigation 
-[[Sakiri Vasu vs State of UP]]
+[[Sakiri Vasu vs State of UP 1]]
 [[AR Antulay vs Ramdas Srinivas Nayak]], AIR 1984 SC 718
 [[Suganthi Suresh Kumar vs Jagdeeshan]], (2002) 2 SCC 420
 	(**Para 9**) High Court cannot overrule the decision of the Supreme Court on the ground that the legal position was laid down without considering any other point.

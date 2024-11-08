@@ -15,7 +15,7 @@ However when there is an agreement to sell, and payment of money, with the buyer
 	Entry of seller into suit property is as a licencee and *not in the capacity of owner*
 
 Refer also:
-[[Suraj Lamp vs State of Haryana]]
+[[Suraj Lamp vs State of Haryana 1]]
 
 See also:
 [[ToPA - Section 54]] 

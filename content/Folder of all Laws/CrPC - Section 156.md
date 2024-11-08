@@ -1,5 +1,5 @@
-1. [[Sakiri Vasu vs State of UP]]
-2. [[Ramdev Food Products Pvt Ltd vs State of Gujarat]]
+1. [[Sakiri Vasu vs State of UP 1]]
+2. [[Ramdev Food Products Pvt Ltd vs State of Gujarat 1]]
 3. [[Vinubhai Haribhai Malaviya vs State of Gujarat]]
 4. [[CBI vs State of Rajasthan]]
 

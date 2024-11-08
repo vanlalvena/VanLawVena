@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f9bdcbb68e74f4af",
+        "id": "19d2b2c8420b4f60",
         "type": "tabs",
         "children": [
           {
-            "id": "2f3751fe6c9ec15c",
+            "id": "60b184356cfa03d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orphaned files output.md",
+                "file": "empty files.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "orphaned files output"
+              "title": "empty files"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 422.5,
+    "collapsed": true
   },
   "right": {
     "id": "f9d5065141f64d4f",
@@ -190,42 +191,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f3751fe6c9ec15c",
+  "active": "60b184356cfa03d9",
   "lastOpenFiles": [
-    "judgments/report/Urvashi Aggarwal vs Inderpaul Aggarwal, 283 (2021) DLT 354.pdf",
-    "Folder of all Laws/Constitution - Article 15(5).md",
-    "Folder of all Laws/CrPC.md",
-    "Folder of all Laws/CrPC - Section 362.md",
-    "Folder of all Laws/Urvashi Aggarwal vs Inderpaul Aggarwal.md",
-    "judgments/Urvashi Aggarwal vs Inderpaul Aggarwal, 2021-DHC-3190.pdf",
-    "orphaned files output.md",
-    "judgments/report/Ashoka Kumar Thakur vs Union of India, (2008) 6 SCC 1.pdf",
-    "Folder of all Laws/Constitution.md",
-    "Folder of all Laws/Evidence.md",
-    "broken links output.md",
+    "index.md",
     "empty files.md",
+    "Index of all Cases.md",
+    "files without tags.md",
+    "Dataview Queries.md",
+    "orphaned files output.md",
+    "broken links output.md",
+    "All Cases/Indian Evidence Act, 1872/Nawab Singh vs Inderjit Kaur.md",
     "Folder of all Laws/Evidence - Section 65.md",
+    "Yogendra vs State of Madhya Pradesh.md",
+    "All Cases/Arbitration and Conciliation Act, 1996/Section 34/Tirupati Steels vs Shubh Industrial Component.md",
+    "Tirupati Steels vs Shubh Industrial Component.md",
+    "Folder of all Laws/A&C Act, 1996 - Section 34.md",
+    "All Cases/Indian Succession Act, 1925/Section 299/Subal Paul vs Malina Paul.md",
+    "judgments/report/Subal Paul vs Malina Paul, (2003) 1 SCR 1092.pdf",
+    "All Cases/Constitution of India/Article 21/Justice KS Puttaswamy vs UOI.md",
+    "All Cases/Employees Compensation Act, 1923/K Janardhan vs United India Insurance Co Ltd.md",
+    "All Cases/Indian Penal Code, 1860/Section 376/Kamalanantha vs State of Tamil Nadu 1.md",
+    "All Cases/Constitution of India/Kesavananda Bharati vs State of Kerala.md",
+    "All Cases/Constitution of India/Article 226/L Chandra Kumar vs UOI.md",
+    "All Cases/Constitution of India/Mafatlal Industries Ltd vs UOI.md",
+    "All Cases/Constitution of India/Article 19(1)(a)/Maneka Gandhi vs UOI.md",
+    "All Cases/Code of Criminal Procedure, 1973/Section 190/Manoj Kumar Tiwari vs Manish Sisodia 1.md",
+    "All Cases/Constitution of India/Minerva Mills vs Union of India.md",
+    "All Cases/Constitution of India/Article 14/Natural Resources Allocation, In re.md",
+    "All Cases/Trade Marks Act, 1999/Promoshirt SM SA vs Armassuisse.md",
+    "All Cases/Code of Criminal Procedure, 1973/Republic of Italy vs Union of India.md",
+    "All Cases/Delhi Special Police Establishment Act, 1946",
+    "All Cases/Delhi Higher Judicial Service Rules, 1970",
+    "All Cases/Unlawful Activities (Prevention) Act, 1967",
+    "judgments/report/Virsa Singh vs State of Punjab, (1958) 1 SCR 1495.pdf",
+    "judgments/report/Urvashi Aggarwal vs Inderpaul Aggarwal, 283 (2021) DLT 354.pdf",
+    "judgments/Urvashi Aggarwal vs Inderpaul Aggarwal, 2021-DHC-3190.pdf",
+    "judgments/report/Ashoka Kumar Thakur vs Union of India, (2008) 6 SCC 1.pdf",
     "judgments/report/Jagmail Singh vs Karamjit Singh, (2020) 4 SCR 1163.pdf",
-    "judgments/Surinder Kaur vs Sardar Mangal Singh, 2009-DHC-785.pdf",
-    "judgments/report/Surinder Kaur vs Sardar Mangal Singh, (2009) 109 DRJ 474.pdf",
-    "Folder of all Laws/Nawab Singh vs Inderjit Kaur.md",
-    "judgments/report/Tula Ram v. Kishore Singh, (1977) 4 SCC 459.pdf",
-    "judgments/report/Surinder Kaur vs Sardar Mangal Singh, (2009) 158 DLT 1.pdf",
-    "judgments/report/Saketh India Ltd vs India Securities Ltd, (1999) 3 SCC 1.pdf",
-    "judgments/report/Raghu Raj Singh Rousha v. Shivam Sundaram Promoters (P) Ltd., (2009) 2 SCC 363.pdf",
-    "Folder of all Laws/Evidence - Section 65B.md",
-    "Folder of all Laws/CrPC - Section 91.md",
-    "All Cases/Code of Criminal Procedure, 1973/Section 91/VS Kuttan Pillai vs Ramakrishnan.md",
-    "State of Bombay vs Kathi Kalu Oghad.md",
-    "Folder of all Laws/CrPC - Section 93.md",
-    "All Cases/Indian Penal Code, 1860/Section 499/Iveco Magirus vs Nirmal Kishore Bhartiya.md",
-    "template/template for other pages.md",
-    "template/template for cases HC.md",
-    "template/template for cases.md",
-    "All Cases/Indian Penal Code, 1860/Section 499/Melepurath Sankunni Ezhuthassan vs Thekittil Gopalankuty Nair.md",
-    "All Cases/Indian Penal Code, 1860/Navtej Singh Johar vs UOI.md",
-    "Folder of all Laws/DHJS - Rule 9.md",
-    "Sudeep Raj Saini vs High Court of Delhi.md",
-    "Folder of all Laws/IPC - Section 420.md"
+    "judgments/Surinder Kaur vs Sardar Mangal Singh, 2009-DHC-785.pdf"
   ]
 }

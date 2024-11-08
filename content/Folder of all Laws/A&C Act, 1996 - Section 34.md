@@ -1,6 +1,6 @@
 ## Section 34
 1. [[Dakshin Haryana Bijli Vitran Nigam Ltd vs Navigant Technologies (P) Ltd]]
-2. [[Tirupati Steels vs Shubh Industrial Component]]
+2. [[All Cases/Arbitration and Conciliation Act, 1996/Section 34/Tirupati Steels vs Shubh Industrial Component|Tirupati Steels vs Shubh Industrial Component]]
 3. [[I-Pay Clearing Services Pvt Ltd vs ICICI Bank Ltd]]
 4. [[Mitra Guha Builders vs ONGC]]
 5. [[Dyna Technologies Pvt Ltd vs Crompton Greaves Ltd]]

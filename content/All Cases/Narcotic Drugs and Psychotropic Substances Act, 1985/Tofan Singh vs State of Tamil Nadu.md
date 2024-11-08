@@ -1,4 +1,4 @@
-Case Name : ***Tofan Singh vs State of Tamil Nadu***
+\Case Name : ***Tofan Singh vs State of Tamil Nadu***
 Case Reference: (2020) 12 SCR 583
 Case Number: Crl A No 152/2013
 Court: Supreme Court

@@ -48,7 +48,7 @@ Refer also:
 [[State of Punjab vs Gurmit Singh]], (1996) SCC (Cri) 316
 [[Sukhar vs State of UP]], (1999) 9 SCC 507
 [[State of Andhra Pradesh vs Rayavarapu Punnayya]], (1976) 4 SCC 382
-[[Virsa Singh vs State of Punjab]]
+[[All Cases/Indian Penal Code, 1860/Virsa Singh vs State of Punjab]]
 [[Parkash Chand vs State of Himachal Pradesh]], (2004) 11 SCC 381
 
 See also:

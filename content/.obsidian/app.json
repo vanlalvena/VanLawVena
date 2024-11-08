@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "All judgments",
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "showLineNumber": true
