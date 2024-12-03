@@ -2,7 +2,8 @@
 title: Arjun Singh vs Mohindra Kumar
 Cause Title: Arjun Singh vs Mohindra Kumar & Ors
 Court: Supreme Court
-Case Number: CA 768/19663
+Case Number:
+  - CA 768/19663
 Case Reference:
   - (1964) 5 SCR 946
 Neutral Citation:
@@ -11,7 +12,9 @@ Bench Strength: 3
 Author (Majority):
   - N Rajagopala Ayyangar
 Coram:
-  - BP Sinha, AK Sarkar, N Rajagopala Ayyangar
+  - AK Sarkar
+  - N Rajagopala Ayyangar
+  - BP Sinha
 Author (Concurring): 
 Author (Minority): 
 date: 1963-12-13

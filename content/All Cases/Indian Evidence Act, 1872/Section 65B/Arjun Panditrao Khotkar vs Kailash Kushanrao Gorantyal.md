@@ -51,10 +51,21 @@ The deeming fiction in [[Evidence - Section 65B]] which makes the information in
 		*original document*, which would be the original electronic record in the computer in which the original information is first stored, and 
 		the *computer output* containing such information which may be ***treated as evidence*** of the contents of the original document.
 
-The requisite certificate under [[Evidence - Section 65B]](4) is unnecessary if the original document itself is proved (**Para 32**).
-	This can be done by the owner of a laptop computer, computer tablet, mobile phone *stepping into the witness box* and proving that the connected device on which the original information is first stored
+## Certificate is mandatory, a condition precedent
+Production of certificate under section 65B is mandatory (**Para 59**)
 
-(**Para 59**)
+## Requirement of certificate when Original Document is proved
+The requisite certificate under [[Evidence - Section 65B]](4) is unnecessary if the original document itself is proved (**Para 32**).
+	This can be done by the owner of a laptop computer, computer tablet, mobile phone *stepping into the witness box* and proving that the connected device on which the original information is first stored (**Para 59**)
+
+
+## Assumption of completion of investigation 
+
+Electronic evidence should be filed *latest* before commencement of trial (Para 52-53)
+It is assumed that investigation has been completed, concretised once chargesheet / prosecution complaint is filed.
+
+## Court's discretion for certificate being produced later on
+Depends on facts of the case whether court should allow subsequent production of the certificate. (**Para 55**). However, court has the power to allow certificate at any stage (**Para 57**)
 
 Refer also:
 [[Bansilal Agarwalla vs State of Bihar]] (1962) 1 SCR 33 at para 3
@@ -72,6 +83,6 @@ See also:
 
 [[Evidence - Section 65A]]
 
-[[Arjun Panditrao Khotkar vs Kailash Kushanrao Gorantyal, (2020) 7 SCR 180.pdf]]
+SCR PDF - [[Arjun Panditrao Khotkar vs Kailash Kushanrao Gorantyal, (2020) 7 SCR 180.pdf]]
 
 Web Link: <a href="/All judgments/Arjun Panditrao Khotkar vs Kailash Kushanrao Gorantyal, (2020) 7 SCR 180.pdf" target="_blank">URL of judgment</a>

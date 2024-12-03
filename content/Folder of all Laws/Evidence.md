@@ -43,10 +43,12 @@
 [[Evidence, Section 63]]
 [[Evidence - Section 65]]
 [[Evidence - Section 65B]]
+[[Evidence - Section 66]]
 [[Evidence - Section 74]]
 [[Evidence, Section 75]]
 [[Evidence, Section 90]]
 [[Evidence, Section 91]]
+[[Evidence - Section 101]]
 [[Evidence - Section 105]]
 [[Evidence, Section 110]]
 [[Evidence, Section 111]]
@@ -78,4 +80,14 @@
 [[Evidence, Section 159]]
 [[Evidence, Section 164]]
 [[Evidence, Section 167]]
+
+
+## Notes
+
+>[!important]- Evidence is Procedural Law
+>Law of Evidence is Lex Fori (Law of Forum).
+>Law of Evidence is procedural law. Procedural law depends on the law of the forum
+>Therefore, the law of the forum / court must be followed for evidentiary matters.
+>Refer Also:
+>[[Niharendu Dutt Majumdar vs King Emperor]], 1942 SCC OnLine FC 5 : (1942) 4 FCR 38 : AIR 1942 FC 22 : (1942) 55 LW 344
 

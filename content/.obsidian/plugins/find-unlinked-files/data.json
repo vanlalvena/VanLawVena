@@ -2,15 +2,10 @@
   "outputFileName": "orphaned files output",
   "disableWorkingLinks": false,
   "directoriesToIgnore": [
-    "docs/",
-    "node_modules/",
-    "public/",
-    "quartz/",
-    "template/"
+    ""
   ],
   "filesToIgnore": [
-    "CODE_OF_CONDUCT.md",
-    "README.md"
+    ""
   ],
   "fileTypesToIgnore": [
     ""

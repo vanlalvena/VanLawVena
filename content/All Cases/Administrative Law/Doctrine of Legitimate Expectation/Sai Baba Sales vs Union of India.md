@@ -1,57 +1,54 @@
 ---
 title: Sai Baba Sales vs Union of India
-draft: false
-tags: 
-date: 
-aliases: 
-description:
----
-Case Name : ***Name***
-
-Case Reference: (0000) 0 SCR 00 :  
-
-Neutral Citation:
-
-Case Number: 
-
-Court: __ Court
-
-Bench: 
-
-Coram:
-
-Date: 00.00.0000
-
-–
-Refer also:
-
-Judgment name
-
-See also:
- 
-Act, Section
-
-PDF:
-
-
-Case Name : ***Sai Baba Sales vs Union of India***
-Case Reference: (2021) 11 SCR 284
-Case Number: CA 595/2021
+draft: true
+tags:
+  - Act
+date: ""
+Cause Title: M/s Sai Baba Sales Pvt. Ltd. vs Union of India
 Court: Supreme Court
+Case Number:
+  - CA 595/2021
+Case Reference:
+  - (2021) 11 SCR 284
+Neutral Citation: 
+Bench Strength: 2
+Author (Majority):
+  - Hrishikesh Roy
+Coram:
+  - R Subhash Reddy
+  - Hrishikesh Roy
+Author (Concurring): 
+Author (Minority):
+---
+Case Name : ***Sai Baba Sales vs Union of India***
+
+Case Reference: (2021) 11 SCR 284 :  
+
+Neutral Citation: 20XX INSC 000
+
+Case Number: Civil Appeal No. 595 of 2021
+
+Court: Supreme Court
+
 Bench: 02
-Coram: R Subhash Reddy, Hrishikesh Roy
+
+Coram: R Subhash Reddy, Hrishikesh Roy (*Author*)
+
 Date: 26.11.2021
 
+## Analysis 
 
-–
-Refer also:
+The principles of Rule of Law, applicable to Government's dealings with the public, contemplate regularity, predictability and certainty in action
 
-Judgment name
+### Doctrine of Legitimate Expectation
+This doctrine applies *inter alia* when the person has been deprived of some benefit or advantage which they have been permitted to enjoy and could reasonably expect to continue to enjoy
 
-See also:
- 
-Act, Section
+Refer also: 
+[[Sethi Auto Service Station vs Delhi Development Authority)]], (2009) 1 SCC 180
 
+See also: 
+
+PDF:
 [[Sai Baba Sales vs Union of India, (2021) 11 SCR 284.pdf]]
 
 [SCR Weblink](https://digiscr.sci.gov.in/view_judgment?id=MjkzNDc=)

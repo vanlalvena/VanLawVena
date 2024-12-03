@@ -6,9 +6,7 @@ date:
 aliases: 
 description:
 ---
-- [[broken links output]]
 - [[orphaned files output]]
-- [[Yogendra vs State of Madhya Pradesh.md]]
 - [[All Cases/Indian Evidence Act, 1872/VM Mathew vs VS Sharma]]
 - [[All Cases/Indian Penal Code, 1860/Virsa Singh vs State of Punjab]]
 - [[Vinod Dua vs Union of India 1]]
@@ -19,7 +17,6 @@ description:
 - [[template/template for cases HC.md]]
 - [[template/template for other pages.md]]
 - [[template/template for cases.md]]
-- [[Tedhi Singh vs Narayan Dass Mahant 1]]
 - [[Suraj Lamp vs State of Haryana 1]]
 - [[Subal Paul vs Malina Paul]]
 - [[State of Haryana vs Bhajan Lal]]
