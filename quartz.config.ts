@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "law.vanlalvena.in",
     ignorePatterns: ["private", "templates", "content/judgments/report", "/content/judgments/report", "/judgments/report", "judgments/report"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
