@@ -19,7 +19,7 @@ For any error in/on the <a href="https://law.vanlalvena.in">Website</a>, or this
 
 To the best of my knowledge, the judgments (and/or the reported version of the judgments) of the respective courts uploaded on this <a href="https://law.vanlalvena.in">Website</a> and <a href="https://github.com/vanlalvena/VanLawVena">GitHub repository</a> are, to the best of my knowledge, "Government Work" as defined by section 2(k) read with section 17 of the Copyright Act, 1957. They have been taken from public domain and their use, reference, publication, etc. and is covered 52(1)(q)(iv) of the Copyright Act, 1957.
 
-The judgments with editorial notes (e.g. SCC, SCR, ILR, etc.) are only stored locally on my device, and they not been uploaded to be available on the website, to the best of my knowledge, and are covered by section 52(1)(a) of the Copyright Act, 1957.
+The judgments with editorial notes (e.g. SCC, SCR, ILR, etc.) are only stored locally on my device, and they not been uploaded to be available on the website, though in my opinion, and to the best of my knowledge, they could be covered by section 52(1)(a) of the Copyright Act, 1957, they have NOT been uploaded on github or on the website.
 
 The <a href="https://law.vanlalvena.in">Website</a> and <a href="https://github.com/vanlalvena/VanLawVena">GitHub repository</a> are non-commercial in nature.
 

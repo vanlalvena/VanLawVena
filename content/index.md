@@ -12,8 +12,9 @@ This is my repository of precedents. I hope this is as helpful to you, as it is 
 # Restrictions
 **I don't intend to ever make this pay-walled, have advertisements or require any form of login, etc.** My intention is to have the information in this repository available at no-cost, for free and to be open-source and open-access.
 
-> [!info]+ Copyright
-> The copyright license for the website and its contents (other than quartz and the reported version of the judgments) are at the footer of this page; basically (==***[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)***==) 
+> [!info]+ Copyright & License
+> The copyright license for the website and its contents (other than quartz and the reported version of the judgments) are at the footer of this page; basically (***[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)***) 
+> The [License](https://github.com/vanlalvena/VanLawVena/blob/v4/LICENSE.md) for this website is available on the github page of this repository - https://github.com/vanlalvena/VanLawVena/blob/v4/LICENSE.md
 
 # Status
 This is (***and will always be***) a work in progress; but as may be evident, it is presently very raw, I'll keep trying to add / improve as and when I have the time or interest, since this is a personal decades long project.
