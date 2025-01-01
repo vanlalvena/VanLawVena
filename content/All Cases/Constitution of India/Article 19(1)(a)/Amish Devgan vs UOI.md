@@ -1,8 +1,9 @@
 ---
 title: Amish Devgan vs UOI
-Cause Title: Amish Devgan vs Union of India and oThers
+Cause Title: Amish Devgan vs Union of India and Others
 Court: Supreme Court
-Case Number: WP Crl 160/2020
+Case Number:
+  - WP Crl 160/2020
 Case Reference:
   - (2020) 14 SCR 198
   - (2021) 1 SCC 1

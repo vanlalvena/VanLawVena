@@ -40,3 +40,10 @@ from #Act
 SORT file.name ASC
 ```
 
+# Query 5 - All Cases in Draft
+
+```dataview
+LIST
+WHERE draft != false
+SORT file.name ASC
+```
